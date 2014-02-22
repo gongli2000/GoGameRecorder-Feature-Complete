@@ -1,0 +1,78 @@
+{
+    "default set" = (
+        "send:",
+        "cancelModal:",
+        NSToolbarFlexibleSpaceItem,
+        "insertFile:",
+        "8px space",
+        "toggleComposeFormatInspectorBar:",
+        "8px space",
+        "showMediaBrowser:",
+        "7px space",
+        "showOrHideStationery:"
+    );
+    "toolbar array" = (
+        (
+            {
+                textButton = 1;
+                help = "TOOLTIP_SEND";
+                identifier = "send:";
+                tag = 80;
+                target = "DocumentEditor";
+                label = "TOOLBAR_SEND";
+                title = "TOOLBAR_SEND";
+            },
+            {
+                textButton = 1;
+                help = "TOOLTIP_CANCEL";
+                identifier = "cancelModal:";
+                tag = 79;
+                target = "DocumentEditor";
+                label = "TOOLBAR_CANCEL";
+                title = "TOOLBAR_CANCEL";
+            },
+            {
+                imageIsTemplate = 1;
+                borderless = 1;
+                help = "TOOLTIP_ATTACH";
+                identifier = "insertFile:";
+                image = TB_Attach_Fullscreen;
+                inactiveImage = TB_Attach_Fullscreen;
+                tag = 84;
+                target = "DocumentEditor";
+                title = "TOOLBAR_ATTACH";
+            },
+            {
+                imageIsTemplate = 1;
+                borderless = 1;
+                help = "TOOLTIP_COMPOSE_FORMAT_BAR";
+                identifier = "toggleComposeFormatInspectorBar:";
+                image = TB_Fonts_Fullscreen;
+                inactiveImage = TB_Fonts_Fullscreen;
+                tag = "-1";
+                title = "TOOLBAR_COMPOSE_FORMAT_BAR";
+            },
+            {
+                imageIsTemplate = 1;
+                borderless = 1;
+                help = "TOOLTIP_MEDIA_BROWSER";
+                identifier = "showMediaBrowser:";
+                image = TB_MediaBrowser_Fullscreen;
+                inactiveImage = TB_MediaBrowser_Fullscreen;
+                tag = 998;
+                title = "TOOLBAR_MEDIA_BROWSER";
+            },
+            {
+                imageIsTemplate = 1;
+                borderless = 1;
+                help = "TOOLTIP_STATIONERY";
+                identifier = "showOrHideStationery:";
+                image = TB_Stationery_Fullscreen;
+                inactiveImage = TB_Stationery_Fullscreen;
+                tag = 999;
+                title = "TOOLBAR_SHOW_STATIONERY";
+                target = "DocumentEditor";
+            },
+        )
+    );
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Informații esențiale"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Utilizarea Depanator conexiune<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Dacă nu puteți trimite sau primi mesaje, este posibil să existe o problemă de conectare la Internet sau la un server de e-mail. Puteți utiliza Depanator conexiune pentru a verifica starea conexiunii și pentru a obține informații.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Selectați Fereastră > Depanator conexiune.<\/span><\/li><li class='li step'><span class='ph cmd'>Verificarea informațiilor privind starea:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Verificați starea conexiunii la Internet. Un buton de stare roșu indică faptul că Mail nu se poate conecta la Internet. Dați clic pe Diagnostic rețea pentru a putea depista problema și pentru a putea restaura o conexiune la Internet.<\/p><\/li><li class='li choice'><p class='p'>Verificați starea contului. Un buton de stare roșu (când computerul nu este conectat la Internet) indică o problemă cu un server de e-mail sau cu configurarea contului. Urmați instrucțiunile din coloana Detalii; dați dublu-clic pe textul din coloană pentru a deschide panoul Conturi din preferințele Mail.<\/p><\/li><li class='li choice'><p class='p'>Pentru a vedea informații de jurnal despre problemele de conectare ale serverului, dați clic pe Afișează detalii pentru a afișa un panou cu detalii. Apoi, dați clic pe Verifică din nou pentru a vedea jurnalul când Mail încearcă din nou să se conecteze.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Când ați terminat, dați clic pe Verifică din nou pentru a vedea dacă modificările pe care le-ați realizat au rezolvat problema.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Dacă problema persistă, contactați furnizorul contului dvs.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Subiecte asociate<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Dacă nu puteți trimite mesaje<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Dacă nu puteți primi mesaje<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Depanator conexiune, probleme de trimitere sau de primire a e-mailurilor",
+      "name" : "Utilizarea Depanator conexiune",
+      "alternativeName" : "Utilizarea Depanator conexiune",
+      "summary" : "Dacă nu puteți trimite sau primi mesaje, utilizați Depanator conexiune pentru a rezolva problema."
+    },
+    "mail34867-b" : {
+      "name" : "Vizualizarea e-mailurilor"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Trimiterea e-mailurilor"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Subiectul selectat este momentan indisponibil<\/h1><div class='body conbody'><p class='p'>Asigurați-vă că dispuneți de o conexiune la Internet. Pentru ajutor referitor la conectare, selectați meniul Apple > Preferințe sistem, faceți clic pe Rețea și clic pe “Doresc asistență”.<\/p><p class='p'>Dacă dispuneți de o conexiune la Internet, însă conținutul tot nu apare, reîncercați mai târziu.<\/p><\/div><\/div>",
+      "alternativeName" : "Subiectul selectat este momentan indisponibil",
+      "name" : "Subiectul selectat este momentan indisponibil",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Ce noutăți aduce Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Aplicația Mail din OS X Mountain Lion oferă noi funcții remarcabile care ușurează și mai mult trimiterea, primirea și vizualizarea e-mailurilor dvs.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Țineți evidența mesajelor primite de la persoane deosebit de importante prin definirea acestora drept VIP. VIP-urile dvs. sunt identificate printr-o stea alăturată numelor acestora în mesajele pe care le primiți de la persoanele respective. Mail adaugă câte o cutie poștală pentru fiecare VIP în bara Favorite pentru a facilita accesarea mesajelor din partea acestora.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Definirea unui expeditor ca VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Notificări despre mesajele noi<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Puteți configura în preferințele Mail o opțiune pentru a afișa notificările în funcție de cutia poștală în care sosesc mesajele sau de expeditor.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Personalizarea afișării notificărilor privind e-mailurile<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Partajarea paginilor web în diferite formate<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Atunci când partajați o pagină web din Safari, puteți alege în ce format să o trimiteți. De exemplu, o puteți trimite ca link sau ca PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Trimiterea unei pagini web partajate din Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Subiecte asociate<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Trimiterea și recepționarea e-mailurilor din toate conturile dvs.<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Ce noutăți aduce Mail?",
+      "name" : "Ce noutăți aduce Mail?",
+      "summary" : "Aflați despre noile funcții din Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Ajutor Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajutor Mail<\/h2><p class='p'>Subiecte investigabile<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajutor Mail",
+      "name" : "Ajutor Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Dacă o cutie poștală este offline<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Când un cont este offline, lângă acesta, în bara laterală Mail apare o pictogramă înfățișând un fulger. Dacă aveți mai multe conturi, unele conturi pot fi offline în timp ce altele sunt online. Puteți trece unul sau toate conturile online.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Pentru a trece un cont online, selectați Cutie poștală > Stare online > Trece [numele contului] online.<\/span><\/li><li class='li step'><span class='ph cmd'>Pentru a trece toate conturile online, selectați Cutie poștală > Trece toate conturile online. De asemenea, puteți da clic pe o pictogramă care înfățișează un fulger.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Dacă nu puteți trece un cont online, asigurați-vă că dispuneți de o conexiune la Internet. Dacă apare o pictogramă avertisment după numele contului, puteți da clic pe aceasta pentru mai multe informații.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Utilizarea Depanator conexiune<\/a><\/p><p class='p'>Unele nume de cutii poștale pot apărea în gri dacă nu aveți permisiunea de a le accesa, precum cutiile poștale “publice” de pe un server sau dacă serverul de e-mail nu este disponibil.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Subiecte asociate<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Afișarea sau ascunderea barei laterale<\/a><\/div><\/div><div class='linklist linklist'><strong>Deschide<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Articol de asistență Apple: Depanarea trimiterii și recepționării mesajelor de e-mail<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Dacă o cutie poștală este offline",
+      "name" : "Dacă o cutie poștală este offline",
+      "summary" : "Un cont offline este indicat printr-o pictogramă fulger în bara laterală. Încercați din nou să treceți contul online."
+    },
+    "mail34867-d" : {
+      "name" : "Organizarea e-mailurilor"
+    },
+    "mail34867-e" : {
+      "name" : "Personalizarea Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "conținut investigabil local",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Ajutor Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajutor Mail<\/h2><p class='p'>Utilizați conturile dvs. existente de e-mail și trimiteți și recepționați corespondența dintr-un singur loc.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajutor Mail",
+      "name" : "Ajutor Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Trimiterea și recepționarea e-mailurilor din toate conturile dvs.",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vizualizarea conversațiilor",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Căutarea mesajelor",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Rezolvarea problemelor Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Definirea unui expeditor ca VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Semnalizarea mesajelor pentru acțiune",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vizualizarea, salvarea și ștergerea fișierelor atașate",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vizualizarea mesajelor",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tipărirea mesajelor",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Răspunderea la mesaje",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Redirecționarea mesajelor",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Adăugarea fișierelor atașate",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Mutarea și copierea mesajelor",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ștergerea mesajelor",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Gestionarea mesajelor utilizând reguli",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Crearea cutiilor poștale",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ștergerea cutiilor poștale",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Personalizarea unui antet de mesaj",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalizarea afișării notificărilor privind e-mailurile",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Schimbarea imaginilor care vă reprezintă pe dvs. sau pe destinatari",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalizarea barelor de instrumente Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "ro",
+    "buildID" : "6E40AEE0-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Ajutor Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

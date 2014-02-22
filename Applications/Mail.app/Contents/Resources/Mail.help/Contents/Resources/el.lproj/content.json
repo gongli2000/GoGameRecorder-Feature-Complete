@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Απαραίτητα"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Χρήση του Ελέγχου σύνδεσης<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Αν δεν μπορείτε να στείλετε ή να λάβετε μηνύματα, ίσως να υπάρχει κάποιο πρόβλημα με τη σύνδεση στο Διαδίκτυο ή με κάποιο διακομιστή αλληλογραφίας. Μπορείτε να χρησιμοποιήσετε τον Έλεγχο σύνδεσης του Mail για να ελέγξετε την κατάσταση της σύνδεσής σας και να λάβετε πληροφορίες.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Επιλέξτε «Παράθυρο» > «Έλεγχος σύνδεσης».<\/span><\/li><li class='li step'><span class='ph cmd'>Αναθεωρήστε τις πληροφορίες κατάστασης:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Ελέγξτε την κατάσταση της σύνδεσης στο Διαδίκτυο. Ένα κόκκινο κουμπί κατάστασης υποδεικνύει ότι δεν είναι δυνατή η σύνδεση του Mail στο Διαδίκτυο. Κάντε κλικ στα «Διαγνωστικά δικτύου» για να εντοπίσετε το πρόβλημα και να επαναφέρετε τη σύνδεση στο Διαδίκτυο.<\/p><\/li><li class='li choice'><p class='p'>Ελέγξτε την κατάσταση του λογαριασμού σας. Ένα κόκκινο κουμπί κατάστασης (όταν είστε συνδεδεμένοι στο Διαδίκτυο) υποδεικνύει κάποιο πρόβλημα με ένα διακομιστή αλληλογραφίας ή με τη διαμόρφωση του λογαριασμού σας. Ακολουθήστε τις οδηγίες στη στήλη «Λεπτομέρειες». Κάντε διπλό κλικ στο κείμενο της στήλης για να ανοίξει το τμήμα «Λογαριασμοί» στις προτιμήσεις για το Mail.<\/p><\/li><li class='li choice'><p class='p'>Για να δείτε πληροφορίες αρχείου καταγραφής για τα προβλήματα σύνδεσης του διακομιστή, κάντε κλικ στην «Εμφάνιση λεπτομερειών» για να εμφανιστεί ένα τμήμα λεπτομερειών. Μετά κάντε κλικ στην «Επανάληψη ελέγχου» για να δείτε το αρχείο καταγραφής όσο το Mail δοκιμάζει να συνδεθεί ξανά.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Όταν ολοκληρωθεί η διαδικασία, κάντε κλικ στην «Επανάληψη ελέγχου» για να δείτε αν το πρόβλημα επιλύθηκε με τις αλλαγές σας.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Αν το πρόβλημα εξακολουθεί να υπάρχει, επικοινωνήστε με τον πάροχο λογαριασμού σας.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>ΣΧΕΤΙΚΑ ΘΕΜΑΤΑ<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Αν δεν μπορείτε να στείλετε μηνύματα<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Αν δεν μπορείτε να λάβετε μηνύματα<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Έλεγχος σύνδεσης, προβλήματα κατά την αποστολή ή τη λήψη email",
+      "name" : "Χρήση του Ελέγχου σύνδεσης",
+      "alternativeName" : "Χρήση του Ελέγχου σύνδεσης",
+      "summary" : "Αν δεν μπορείτε να στείλετε ή να λάβετε μηνύματα, χρησιμοποιήστε τον Έλεγχο σύνδεσης για να σας βοηθήσει να επιλύσετε τα προβλήματα."
+    },
+    "mail34867-b" : {
+      "name" : "Προβολή email"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Αποστολή email"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο<\/h1><div class='body conbody'><p class='p'>Βεβαιωθείτε ότι είστε συνδεδεμένοι στο Διαδίκτυο. Για βοήθεια με τη σύνδεση, επιλέξτε το μενού Apple > «Προτιμήσεις συστήματος», κάντε κλικ στο «Δίκτυο» και μετά στο «Θέλω βοήθεια».<\/p><p class='p'>Εάν συνδεθείτε στο Διαδίκτυο και το περιεχόμενο δεν εμφανίζεται ακόμη, δοκιμάστε ξανά αργότερα.<\/p><\/div><\/div>",
+      "alternativeName" : "Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο",
+      "name" : "Αυτήν τη στιγμή, το επιλεγμένο θέμα δεν είναι διαθέσιμο",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Τι νέο υπάρχει στο Mail;<\/h1><div class='body taskbody'><div class='section context'><p class='p'>To Mail στο OS X Mountain Lion προσφέρει αξιοσημείωτες νέες δυνατότητες που κάνουν ακόμη πιο εύκολη την αποστολή, τη λήψη και την προβολή των email σας.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Παρακολουθήστε τα μηνύματα που λαμβάνετε από ιδιαίτερα σημαντικά άτομα επισημαίνοντάς τους ως VIP. Τα άτομα VIP σας αναγνωρίζονται από ένα αστέρι που βρίσκεται δίπλα στο εκάστοτε όνομα στα μηνύματα που λαμβάνετε από αυτούς. Το Mail προσθέτει μια θυρίδα για κάθε VIP στη γραμμή Αγαπημένων ώστε να είναι εύκολη η πρόσβαση στα μηνύματά τους.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Επισήμανση αποστολέα ως VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Γνωστοποιήσεις για νέα μηνύματα<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Μπορείτε να ορίσετε μια επιλογή στις προτιμήσεις για το Mail ώστε να εμφανίζονται γνωστοποιήσεις βάσει της θυρίδας στην οποία φτάνουν ή βάσει του αποστολέα.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Προσαρμογή του χρόνου εμφάνισης των γνωστοποιήσεων email<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Κοινή χρήση ιστοσελίδων σε διαφορετικές μορφές<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Όταν μοιράζεστε μια ιστοσελίδα από το Safari, μπορείτε να επιλέξετε τη μορφή με την οποία θέλετε να σταλεί. Για παράδειγμα, μπορείτε να τη στείλετε ως σύνδεσμο ή αρχείο PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Αποστολή ιστοσελίδας μέσω Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>ΣΧΕΤΙΚΑ ΘΕΜΑΤΑ<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Αποστολή και λήψη email για όλους τους λογαριασμούς σας<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Τι νέο υπάρχει στο Mail;",
+      "name" : "Τι νέο υπάρχει στο Mail;",
+      "summary" : "Μάθετε για τις νέες δυνατότητες στο Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Βοήθεια για το Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Βοήθεια για το Mail<\/h2><p class='p'>Θέματα με δυνατότητα αναζήτησης<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Βοήθεια για το Mail",
+      "name" : "Βοήθεια για το Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Αν μια θυρίδα είναι εκτός σύνδεσης<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Όταν ένας λογαριασμός είναι εκτός σύνδεσης, εμφανίζεται ένα εικονίδιο αστραπής δίπλα του στην πλαϊνή γραμμή του Mail. Αν έχετε αρκετούς λογαριασμούς, είναι πιθανό κάποιοι λογαριασμοί να είναι εκτός σύνδεσης ενώ άλλοι να είναι σε σύνδεση. Μπορείτε να συνδέσετε ένα ή όλους τους λογαριασμούς.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Για να συνδέσετε ένα λογαριασμό, επιλέξτε Θυρίδα > Κατάσταση σε σύνδεση > Σύνδεση [όνομα λογαριασμού].<\/span><\/li><li class='li step'><span class='ph cmd'>Για να συνδέσετε όλους τους λογαριασμούς, επιλέξτε Θυρίδα > Σύνδεση όλων των λογαριασμών. Μπορείτε επίσης να κάνετε κλικ σε ένα εικονίδιο αστραπής.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Αν δεν είναι δυνατή η σύνδεση ενός λογαριασμού, βεβαιωθείτε ότι είστε συνδεδεμένοι στο Διαδίκτυο. Αν εμφανιστεί ένα εικονίδιο προειδοποίησης μετά το όνομα λογαριασμού, μπορείτε να κάνετε κλικ σε αυτό για περισσότερες πληροφορίες.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Χρήση του Ελέγχου σύνδεσης<\/a><\/p><p class='p'>Ορισμένα ονόματα θυρίδων μπορεί να εμφανίζονται με γκρι χρώμα, αν δεν έχετε δικαίωμα πρόσβασης σε αυτές, όπως οι «δημόσιες» θυρίδες σε έναν διακομιστή ή αν δεν είναι διαθέσιμος ο διακομιστής αλληλογραφίας.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>ΣΧΕΤΙΚΑ ΘΕΜΑΤΑ<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Εμφάνιση ή απόκρυψη της πλαϊνής γραμμής<\/a><\/div><\/div><div class='linklist linklist'><strong>Άνοιγμα<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Άρθρο υποστήριξης Apple Αντιμετώπιση προβλημάτων αποστολής και λήψης μηνυμάτων email<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Αν μια θυρίδα είναι εκτός σύνδεσης",
+      "name" : "Αν μια θυρίδα είναι εκτός σύνδεσης",
+      "summary" : "Ένας λογαριασμός εκτός σύνδεσης υποδεικνύεται από ένα εικονίδιο αστραπής στην πλαϊνή γραμμή. Δοκιμάστε να συνδέσετε ξανά τον λογαριασμό."
+    },
+    "mail34867-d" : {
+      "name" : "Οργάνωση email"
+    },
+    "mail34867-e" : {
+      "name" : "Προσαρμογή του Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "περιεχόμενο με δυνατότητα αναζήτησης τοπικά",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Βοήθεια για το Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Βοήθεια για το Mail<\/h2><p class='p'>Χρησιμοποιήστε τους υπάρχοντες λογαριασμούς email σας για να στέλνετε και λαμβάνετε τα email σας σε ένα σημείο.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Βοήθεια για το Mail",
+      "name" : "Βοήθεια για το Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Αποστολή και λήψη email για όλους τους λογαριασμούς σας",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προβολή συζητήσεων",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Αναζήτηση μηνυμάτων",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Επίλυση προβλημάτων στο Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Επισήμανση αποστολέα ως VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Επισήμανση μηνυμάτων με σημαία για εκτέλεση ενέργειας",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προβολή, αποθήκευση και διαγραφή συνημμένων",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προβολή μηνυμάτων",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Εκτύπωση μηνυμάτων",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Απάντηση σε μηνύματα",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προώθηση μηνυμάτων",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προσθήκη συνημμένων",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Μετακίνηση και αντιγραφή μηνυμάτων",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Διαγραφή μηνυμάτων",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Διαχείριση μηνυμάτων με χρήση κανόνων",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Δημιουργία θυρίδων",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Διαγραφή θυρίδων",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Προσαρμογή κεφαλίδας μηνύματος",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προσαρμογή του χρόνου εμφάνισης των γνωστοποιήσεων email",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Αλλαγή φωτογραφιών που αντιπροσωπεύουν εσάς ή τους παραλήπτες",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Προσαρμογή γραμμών εργαλείων του Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "el",
+    "buildID" : "5C2C2B30-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Βοήθεια για το Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

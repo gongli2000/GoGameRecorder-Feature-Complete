@@ -1,0 +1,276 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Essentials"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Use Connection Doctor<\/h1><div class='body taskbody'><div class='section context'><p class='p'>If you can’t send or receive messages, there may be a problem connecting to the Internet or to a mail server. You can use the Mail Connection Doctor to check your connection status and get information.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Choose Window > Connection Doctor.<\/span><\/li><li class='li step'><span class='ph cmd'>Review the status information:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Check your Internet connection status. A red status button indicates Mail can’t connect to the Internet. Click Network Diagnostics to help track down the problem and restore an Internet connection.<\/p><\/li><li class='li choice'><p class='p'>Check your account status. A red status button (when you are connected to the Internet) indicates a problem with a mail server or your account setup. Follow the instructions in the Details column; double-click the text in the column to open the Accounts pane in Mail preferences.<\/p><\/li><li class='li choice'><p class='p'>To see log information about server connection problems, click Show Detail to display a details pane. Then click Check Again to see the log as Mail tries to connect again.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>When you’re done, click Check Again to see if your changes resolved the problem.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>If the problem persists, contact your account provider.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Related Topics<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>If you\ncan’t send messages<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>If you\ncan’t receive messages<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Connection Doctor, problems sending or receiving email",
+      "name" : "Use Connection Doctor",
+      "alternativeName" : "Use Connection Doctor",
+      "summary" : "If you can’t send or receive messages, use Connection Doctor to help you solve problems."
+    },
+    "mail34867-b" : {
+      "name" : "View mail"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Send mail"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>The selected topic is currently unavailable<\/h1><div class='body conbody'><p class='p'>Make sure you’re connected to the Internet. For help connecting, choose Apple menu > System Preferences, click Network, and click “Assist me.”<\/p><p class='p'>If you’re connected to the Internet, and the content still doesn’t appear, try again later.<\/p><\/div><\/div>",
+      "alternativeName" : "The selected topic is currently unavailable",
+      "name" : "The selected topic is currently unavailable",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>What’s new in Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail in OS X Mountain Lion offers notable new features that make it even easier to send, receive, and view your mail.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIPs<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Keep track of messages you receive from especially important people by making them VIPs. Your VIPs are identified by a star next to their names in messages you receive from them. Mail adds a mailbox for each VIP to the Favorites bar, so it’s easy to get to their messages.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Make a\nsender a VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Notifications for new messages<\/h2><div class='body taskbody'><div class='section context'><p class='p'>You can set an option in Mail preferences to display notifications based on the mailbox in which messages arrive, or on the sender.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Customize\nwhen mail notifications are displayed<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Share webpages in different formats<\/h2><div class='body taskbody'><div class='section context'><p class='p'>When you share a webpage from Safari, you can choose the format in which to send it. For example, you can send it as a link or a PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Send a\nwebpage shared from Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Related Topics<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Send and\nreceive mail for all your accounts<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "What’s new in Mail?",
+      "name" : "What’s new in Mail?",
+      "summary" : "Learn about the new features in Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail Help<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Help<\/h2><p class='p'>Searchable Topics<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Help",
+      "name" : "Mail Help",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>If a mailbox is offline<\/h1><div class='body taskbody'><div class='section context'><p class='p'>When an account is offline, a lightning bolt icon appears next to it in the Mail sidebar. If you have several accounts, it’s possible for some accounts to be offline while others are online. You can take one or all accounts online.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>To take one account online, choose Mailbox > Online Status > Take [account name] Online.<\/span><\/li><li class='li step'><span class='ph cmd'>To take all accounts online, choose Mailbox > Take All Accounts Online. You can also click a lightening bolt icon.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>If you can’t take an account online, make sure you’re connected to the Internet. If a warning icon appears after the account name, you can click it for more information.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Use\nConnection Doctor<\/a><\/p><p class='p'>Some mailbox names can appear gray if you don’t have permission to access them, such as “public” mailboxes on a server, or if the mail server is unavailable.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Related Topics<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Show or\nhide the sidebar<\/a><\/div><\/div><div class='linklist linklist'><strong>Open<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple\nSupport article: Troubleshooting sending &amp; receiving email\nmessages<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "If a mailbox is offline",
+      "name" : "If a mailbox is offline",
+      "summary" : "An offline account is indicated by a lightening bolt icon in the sidebar. Try taking the account online again."
+    },
+    "mail34867-d" : {
+      "name" : "Organize mail"
+    },
+    "mail34867-e" : {
+      "name" : "Customize Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "local-searchable content",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail Help<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Help<\/h2><p class='p'>Use your existing email accounts,\nand send and receive mail from one place.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Help",
+      "name" : "Mail Help",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Send and receive mail for all your accounts",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "View conversations",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Search messages",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Solve Mail problems",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Make a sender a VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Flag messages for action",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "View, save, and delete attachments",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "View messages",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Print messages",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Reply to messages",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Forward messages",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Add attachments",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Move and copy messages",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Delete messages",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Manage messages using rules",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Create mailboxes",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Delete mailboxes",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Customize a message header",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Customize when mail notifications are displayed",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Change pictures representing you or recipients",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Customize Mail toolbars",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "ShowFeedbackLink" : false,
+    "LocalizationISOCode" : "en",
+    "buildID" : "E5AA28DE-A085-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail Help",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

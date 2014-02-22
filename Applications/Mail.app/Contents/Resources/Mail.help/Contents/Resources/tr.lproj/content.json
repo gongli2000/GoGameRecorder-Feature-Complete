@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Temel bilgiler"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Bağlantı Doktoru'nu kullanma<\/h1><div class='body taskbody'><div class='section context'><p class='p'>İleti gönderemiyor veya alamıyorsanız, Internet’e veya posta sunucusuna bağlanma ile ilgili bir sorun olabilir. Bağlantı durumunuzu denetlemek ve bilgi almak için Mail Bağlantı Doktoru'nu kullanabilirsiniz.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Pencere > Bağlantı Doktoru'nu seçin.<\/span><\/li><li class='li step'><span class='ph cmd'>Durum bilgilerini gözden geçirin.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>İnternet bağlantınızın durumunu denetleyin. Kırmızı bir durum düğmesi, Mail'in İnternet'e bağlanamadığını gösterir. Sorunun kaynağını bulmak ve İnternet bağlantısını yeniden kurmak için Ağ Tanıları'nı tıklayın.<\/p><\/li><li class='li choice'><p class='p'>Hesabınızın durumunu denetleyin. Kırmızı bir durum düğmesi (İnternet'e bağlıyken), posta sunucusu veya hesabınızın ayarlanmasıyla ilgili bir sorunu gösterir. Ayrıntılar sütunundaki talimatları izleyin; Mail tercihlerindeki Hesaplar bölümünü açmak için sütundaki metni çift tıklayın.<\/p><\/li><li class='li choice'><p class='p'>Sunucu bağlantı sorunları hakkındaki günlük bilgilerini görmek için, ayrıntılar bölümünü görüntülemek üzere Ayrıntı Göster'i tıklayın. Ardından Mail tekrar bağlanmaya çalışırken günlüğü görmek için Tekrar Denetle'yi tıklayın.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>İşiniz bittiğinde, değişikliklerinizin sorunu çözüp çözmediğini görmek için Tekrar Denetle'yi tıklayın.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Sorun devam ediyorsa, hesap sağlayıcınıza danışın.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>İLGİLİ KONULAR<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>İleti gönderemiyorsanız<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>İletileri alamıyorsanız<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Bağlantı Doktoru, e-posta gönderme veya alma sorunları",
+      "name" : "Bağlantı Doktoru'nu kullanma",
+      "alternativeName" : "Bağlantı Doktoru'nu kullanma",
+      "summary" : "İleti gönderemiyor veya alamıyorsanız, sorunları gidermenize yardımcı olması için Bağlantı Doktoru'nu kullanın."
+    },
+    "mail34867-b" : {
+      "name" : "E-postaları görüntüleme"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "E-posta gönderme"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Seçilen konu şu anda yok<\/h1><div class='body conbody'><p class='p'>Internet’e bağlı olduğunuzdan emin olun. Bağlanmayla ilgili yardım için Elma menüsü > Sistem Tercihleri komutunu seçin, Ağ’ı tıklayın ve “Yardımcı Ol”u tıklayın.<\/p><p class='p'>Internet’e bağlıysanız ama içerik hâlâ görünmüyorsa daha sonra yeniden deneyin.<\/p><\/div><\/div>",
+      "alternativeName" : "Seçilen konu şu anda yok",
+      "name" : "Seçilen konu şu anda yok",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Mail'de ne yenilikler var?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>OS X Mountain Lion’daki Mail; e-postalarınızı göndermeyi, almayı ve görüntülemeyi daha da kolaylaştıran birçok önemli yeni özellik sunar.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>Önemli Kişiler<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Çok önemli kişilerden gelen iletileri takip etmek için onları Önemli Kişi yapın. Önemli Kişiler’iniz, onlardan aldığınız iletilerde adlarının yanındaki bir yıldızla tanınırlar. Mail her bir Önemli Kişi için Favoriler çubuğuna bir posta kutusu ekler; böylece bu kişilerin iletilerine kolayca ulaşabilirsiniz.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Göndereni Önemli Kişi yapma<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Yeni ileti bildirimleri<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Mail tercihlerinde, iletilerin geldiği posta kutusuna veya gönderene göre bildirim görüntüleme seçeneğini ayarlayabilirsiniz.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>E-posta bildirimlerinin ne zaman görüntüleneceğini özelleştirme<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Web sayfalarını farklı biçimlerde paylaşma<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Safari’deki bir web sayfasını paylaşırken hangi biçimde gönderileceğini seçebilirsiniz. Örneğin bağlantı veya PDF olarak gönderebilirsiniz.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Safari’de paylaşılan bir web sayfasını gönderme<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>İLGİLİ KONULAR<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Hesaplarınızın tümündeki e-postaları gönderip alma<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Mail'de ne yenilikler var?",
+      "name" : "Mail'de ne yenilikler var?",
+      "summary" : "Mail'deki yeni özellikler hakkında bilgi edinin."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail Yardım<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Yardım<\/h2><p class='p'>Aranabilir Konular<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Yardım",
+      "name" : "Mail Yardım",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Posta kutusu çevrimdışıysa<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Bir hesap çevrimdışı olduğunda, Mail kenar çubuğunda söz konusu hesabın yanında bir şimşek simgesi görünür. Birkaç hesabınız varsa, bazı hesaplar çevrimiçiyken diğerlerinin çevrimdışı olması olasıdır. Bir hesabı veya tüm hesapları çevrimiçi yapabilirsiniz.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Bir hesabı çevrimiçi yapmak için, Posta Kutusu > Çevrimiçi Durumu > [Hesap Adı] Hesabını Çevrimiçi Yap'ı seçin.<\/span><\/li><li class='li step'><span class='ph cmd'>Tüm hesapları çevrimiçi yapmak için, Posta Kutusu > Tüm Hesapları Çevrimiçi Yap'ı seçin. Ayrıca, şimşek simgesini de tıklayabilirsiniz.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Bir hesabı çevrimiçi yapamıyorsanız, Internet’e bağlı olduğunuzdan emin olun. Hesap adından sonra bir uyarı simgesi görünüyorsa, daha fazla bilgi için bunu tıklayabilirsiniz.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Bağlantı Doktoru'nu kullanma<\/a><\/p><p class='p'>Bir sunucudaki \"ortak\" posta kutuları gibi bazı posta kutusu adlarına erişme izniniz yoksa veya posta sunucusu kullanılabilir durumda değilse, söz konusu posta kutuları gri renkte görünebilir.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>İLGİLİ KONULAR<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Kenar çubuğunu gösterme veya gizleme<\/a><\/div><\/div><div class='linklist linklist'><strong>Aç<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple Destek makalesi: E-posta iletilerini gönderip almayla ilgili sorunları giderme<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Posta kutusu çevrimdışıysa",
+      "name" : "Posta kutusu çevrimdışıysa",
+      "summary" : "Çevrimdışı bir hesap, kenar çubuğunda bir şimşek simgesiyle belirtilir. Hesabı tekrar çevrimiçi yapmayı deneyin."
+    },
+    "mail34867-d" : {
+      "name" : "E-postaları düzenleme"
+    },
+    "mail34867-e" : {
+      "name" : "Mail'i özelleştirme"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "yerel aranabilir içerik",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail Yardım<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Yardım<\/h2><p class='p'>Var olan e-posta hesaplarınızı kullanın ve tek bir yerden e-posta gönderip alın.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Yardım",
+      "name" : "Mail Yardım",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Hesaplarınızın tümündeki e-postaları gönderip alma",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Yazışmaları görüntüleme",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletilerde arama yapma",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mail sorunlarını çözme",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Göndereni Önemli Kişi yapma",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri eylem için bayraklama",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İlişikleri görüntüleme, kaydetme ve silme",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri görüntüleme",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri kağıda dökme",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "İletileri yanıtlama",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri iletme",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İlişik ekleme",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "İletileri taşıma ve kopyalama",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri silme",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "İletileri kuralları kullanarak yönetme",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Posta kutusu yaratma",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Posta kutularını silme",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "İleti başlığını özelleştirme",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "E-posta bildirimlerinin ne zaman görüntüleneceğini özelleştirme",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sizi veya alıcıları temsil eden resimleri değiştirme",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mail araç çubuklarını özelleştirme",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "tr",
+    "buildID" : "74F88726-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail Yardım",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

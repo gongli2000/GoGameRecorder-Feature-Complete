@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Основные сведения"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Использование Проверки подключения<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Если не удается отправить или получить сообщения, то, возможно, возникли проблемы с подключением к Интернету или почтовому серверу. С помощью Проверки подключения Mail можно проверить состояние подключения и получить сведения.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Выберите «Окно» > «Проверка подключения».<\/span><\/li><li class='li step'><span class='ph cmd'>Посмотрите информацию о состоянии:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Проверьте состояние подключения к Интернету. Красная кнопка состояния указывает, что Mail не удается подключиться к Интернету. Нажмите «Диагностика сети», чтобы отследить с ее помощью проблему и восстановить подключение к Интернету.<\/p><\/li><li class='li choice'><p class='p'>Проверьте состояние учетной записи. Красная кнопка состояния (при наличии подключения к Интернету) указывает на проблему с почтовым сервером или настройкой учетной записи. Следуйте инструкциям, приведенным в колонке «Подробно». Чтобы открыть панель «Учетные записи» в настройках Mail, дважды нажмите текст в этой колонке.<\/p><\/li><li class='li choice'><p class='p'>Чтобы посмотреть сведения журнала о проблемах подключения сервера, нажмите «Подробнее», и на экране появится панель с подробной информацией. Затем нажмите «Проверить снова», чтобы видеть журнал во время повторной попытки Mail подключения.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Закончив, нажмите «Проверить снова», чтобы посмотреть, удалось ли решить проблему внесенными изменениями.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Если проблема сохраняется, обратитесь к поставщику услуг электронной почты.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Близкие темы<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Если не удается отправить сообщения<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Если не удается получить сообщения<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Проверка подключения, проблемы с отправкой или получением электронной почты",
+      "name" : "Использование Проверки подключения",
+      "alternativeName" : "Использование Проверки подключения",
+      "summary" : "Если не удается отправить или получить сообщения, решить эти проблемы поможет Проверка подключения."
+    },
+    "mail34867-b" : {
+      "name" : "Просмотр почты"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Отправка почты"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Выбранная тема сейчас недоступна<\/h1><div class='body conbody'><p class='p'>Проверьте подключение к сети Интернет. Для получения помощи по подключению выберите меню Apple > «Системные настройки», откройте панель «Сеть» и нажмите кнопку «Ассистент».<\/p><p class='p'>Если интернет-подключение активно, а содержание все равно не отображается, повторите попытку позже.<\/p><\/div><\/div>",
+      "alternativeName" : "Выбранная тема сейчас недоступна",
+      "name" : "Выбранная тема сейчас недоступна",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Новые функции Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Программа Mail в OS X Mountain Lion предлагает множество новых отличных функций, позволяющих еще легче отправлять, получать и просматривать сообщения электронной почты.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>Контакты VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Отслеживайте сообщения, полученные от наиболее важных отправителей, добавленных в список VIP. Контакты VIP, от которых получены сообщения, помечаются звездочкой. Программа Mail добавит ящик для каждого контакта VIP в строку «Избранное», чтобы Вы всегда с легкостью получали доступ к сообщениям.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Присвоить отправителю статус VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Уведомления о наличии новой почты<\/h2><div class='body taskbody'><div class='section context'><p class='p'>В настройках Mail можно установить опцию отображения уведомлений о получении сообщений в зависимости от отправителя или почтового ящика.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Настроить отображение уведомлений электронной почты<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Отправление ссылки на веб-страницу в различных форматах<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Когда Вы отправляете ссылку на веб-страницу из Safari, Вы можете выбрать формат сообщения. Например, можно отправить ссылку на страницу или файл PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Отправить ссылку на страницу из Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Близкие темы<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Отправка и получение сообщений электронной почты для всех Ваших учетных записей<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Новые функции Mail",
+      "name" : "Новые функции Mail",
+      "summary" : "Сведения о новых функциях программы Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Справка Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Справка Mail<\/h2><p class='p'>Разделы с возможностью поиска<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Справка Mail",
+      "name" : "Справка Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Если почтовый ящик находится в автономном режиме<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Когда учетная запись отключена, рядом с ней в боковом меню Mail отображается значок молнии. Если имеется несколько учетных записей, то одни из них могут быть подключены, а другие — отключены. Одну или несколько записей можно подключить.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Чтобы подключить одну учетную запись, выберите пункт меню «Ящик» > «Статус подключения» > «Подключиться к [имя учетной записи]».<\/span><\/li><li class='li step'><span class='ph cmd'>Чтобы подключить все учетные записи, выберите пункт меню «Ящик» > «Подключить все учетные записи к линии». Можно также нажать значок молнии.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Если не удается подключить учетную запись, проверьте подключение к Интернету. Если рядом с именем учетной записи отображается значок предупреждения, можно нажать этот значок для получения дополнительной информации.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Использование Проверки подключения<\/a><\/p><p class='p'>Некоторые имена почтовых ящиков отображаются серыми из-за отсутствия прав доступа к ним, например «общие» почтовые ящики на сервере или ящики на недоступном почтовом сервере.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Близкие темы<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Отображение или скрытие бокового меню<\/a><\/div><\/div><div class='linklist linklist'><strong>Открыть<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Статью на сайте поддержки Apple: Проблемы при отправке и получении сообщений электронной почты<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Если почтовый ящик находится в автономном режиме",
+      "name" : "Если почтовый ящик находится в автономном режиме",
+      "summary" : "Учетная запись, находящаяся в автономном режиме, обозначается значком молнии в боковом меню. Попробуйте снова подключить эту учетную запись."
+    },
+    "mail34867-d" : {
+      "name" : "Систематизация почты"
+    },
+    "mail34867-e" : {
+      "name" : "Настройка программы Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "содержимое с возможностью локального поиска",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Справка Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Справка Mail<\/h2><p class='p'>Используя существующие учетные записи электронной почты, отправляйте и получайте почту в едином месте.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Справка Mail",
+      "name" : "Справка Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Отправка и получение сообщений электронной почты для всех Ваших учетных записей",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Просмотр разговоров",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Поиск сообщений",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Решение проблем, связанных с Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Присвоение отправителю статуса VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Пометка сообщений для последующих действий",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Просмотр, сохранение и удаление вложений",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Просмотр сообщений",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Печать сообщений",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Ответ на сообщения",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Пересылка сообщений",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Добавление вложений",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Перемещение и копирование почтовых ящиков",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Удаление сообщений",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Управление сообщениями с помощью фильтров",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Создание почтовых ящиков",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Удаление почтовых ящиков",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Настройка заголовка сообщения",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Настройка отображения уведомлений электронной почты",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Изменение изображений, представляющих Вас или получателей",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Настройка панелей инструментов Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "ru",
+    "buildID" : "6F5694B6-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Справка Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

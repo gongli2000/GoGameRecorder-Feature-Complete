@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Főbb funkciók"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>A Kapcsolati doktor használata<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Ha nem tud üzeneteket küldeni vagy fogadni, lehetséges, hogy hiba merült fel az internetkapcsolatban vagy a levelezőkiszolgálóval fennálló kapcsolatban. A Mail kapcsolati doktor használatával ellenőrizheti a kapcsolat állapotát, és különböző információkhoz juthat.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Válassza az Ablak > Kapcsolati doktor elemet.<\/span><\/li><li class='li step'><span class='ph cmd'>Tekintse át az állapotinformációkat:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Ellenőrizze az internetkapcsolat állapotát. A piros állapotgomb azt jelzi, hogy a Mail nem tud csatlakozni az internethez. Kattintson a Hálózati diagnosztika elemre, amely segít a probléma felfedezésében és az internetkapcsolat helyreállításában.<\/p><\/li><li class='li choice'><p class='p'>Ellenőrizze fiók állapotát. A piros állapotgomb (amikor csatlakoztatva van az internethez) azt jelzi, hogy probléma van egy levelezőkiszolgálóval vagy a fiók beállításaival. Kövesse a Részletek oszlop utasításait: kattintson duplán az oszlop szövegére a Mail beállítások Fiókok paneljének megnyitásához.<\/p><\/li><li class='li choice'><p class='p'>A kiszolgáló-kapcsolati problémák naplózott információinak megtekintéséhez kattintson a Részletek megjelenítése elemre egy, a részleteket tartalmazó panel megjelenítéséhez. Ezután kattintson az Ismételt ellenőrzés elemre, hogy megtekintse a naplót, amint a Mail ismét kapcsolódni próbál.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Amikor elkészült, kattintson az Ismételt ellenőrzés gombra, hogy megnézze, a módosítások megoldották-e a problémát.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Amennyiben a probléma továbbra is fennáll, lépjen kapcsolatba a fiók szolgáltatójával.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Kapcsolódó témakörök<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Ha nem tud üzeneteket küldeni<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Ha nem tud üzeneteket fogadni<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Kapcsolati doktor, problémák az e-mailek küldésével vagy fogadásával",
+      "name" : "A Kapcsolati doktor használata",
+      "alternativeName" : "A Kapcsolati doktor használata",
+      "summary" : "Ha nem tud üzeneteket küldeni vagy fogadni, a Kapcsolati doktor segít a problémák megoldásában."
+    },
+    "mail34867-b" : {
+      "name" : "Levelek megtekintése"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Levél küldése"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>A kijelölt témakör jelenleg nem érhető el.<\/h1><div class='body conbody'><p class='p'>Győződjön meg róla, hogy csatlakozik az internethez. Ha segítségre van szüksége, válassza az Apple menü > Rendszerbeállítások menüpontot, kattintson a Hálózat, majd a „Segítség kérése” elemre.<\/p><p class='p'>Ha csatlakozik az internethez, és a tartalom továbbra sem jelenik meg, próbálja meg később.<\/p><\/div><\/div>",
+      "alternativeName" : "A kijelölt témakör jelenleg nem érhető el.",
+      "name" : "A kijelölt témakör jelenleg nem érhető el.",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>A Mail alkalmazás újdonságai<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Az OS X Mountain Lion rendszerben lévő Mail alkalmazás számos figyelemre méltó, új szolgáltatást kínál, amelyek könnyebbé teszik a levelek küldését, fogadását és megtekintését.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP-k<\/h2><div class='body taskbody'><div class='section context'><p class='p'>A nagyon fontos személyek VIP-ként történő megjelölésével nyomon követheti a tőlük származó üzeneteket. A VIP-kat egy csillag jelzi a nevük mellett, a tőlük kapott üzenetekben. A Mail létrehoz egy postafiókot minden VIP számára a Kedvencek sávon, így egyszerűen hozzáférhet az üzeneteikhez.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Feladó megjelölése VIP-ként<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Értesítés új üzenetekről<\/h2><div class='body taskbody'><div class='section context'><p class='p'>A Mail beállításaiban megadhatja, hogy értesítés jelenjen meg az alapján, hogy melyik postafiókba érkezett üzenet, vagy a feladó alapján.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Testreszabhatja, mikor jelenjenek meg értesítések<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Weboldalak megosztása különböző formátumokban<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Amikor megoszt egy weboldalt a Safariból, meghatja, milyen formátumban legyen elküldve. Például elküldheti linkként vagy akár PDF-ként.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Megosztott weboldal küldése a Safariból<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Kapcsolódó témakörök<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Az összes fiókjának leveleit elküldheti és fogadhatja<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "A Mail alkalmazás újdonságai",
+      "name" : "A Mail alkalmazás újdonságai",
+      "summary" : "Tudjon meg többet a Mail új funkcióiról."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>A Mail súgója<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>A Mail súgója<\/h2><p class='p'>Kereshető témakörök<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "A Mail súgója",
+      "name" : "A Mail súgója",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Ha egy postafiók offline állapotú<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Amikor egy fiók offline állapotú, egy villám ikon jelenik meg mellette a Mail oldalsávon. Ha több fiókkal rendelkezik, akkor lehetséges, hogy egyes fiókok elérhetőek, mások pedig offline állapotúak. Egy vagy több fiókot is elérhetővé tehet.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Egy fiók elérhető állapotának beállításához válassza a Postafiók > [fióknév] elérhetővé tétele lehetőséget.<\/span><\/li><li class='li step'><span class='ph cmd'>Az összes fiók elérhető állapotúvá tételéhez válassza a Postafiók > Összes fiók elérhetővé tétele lehetőséget. Egy villám ikonra is kattinthat.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Ha nem tud elérhetővé tenni egy fiókot, győződjön meg arról, hogy valóban csatlakozik az internethez. Ha a fiók neve után egy figyelmeztető ikon jelenik meg, akkor arra rákattintva további információhoz juthat.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>A Kapcsolati doktor használata<\/a><\/p><p class='p'>Egyes postafióknevek szürkén jelenhetnek meg, ha nem rendelkezik jogosultsággal az elérésükhöz, például egy „nyilvános” postafiók esetén egy kiszolgálón, vagy ha a levelezőkiszolgáló nem érhető el.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Kapcsolódó témakörök<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Oldalsáv megjelenítése vagy elrejtése<\/a><\/div><\/div><div class='linklist linklist'><strong>Megnyitás<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Az Apple támogatás cikke: E-mail üzenetek küldésének és fogadásának hibaelhárítása<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Ha egy postafiók offline állapotú",
+      "name" : "Ha egy postafiók offline állapotú",
+      "summary" : "Az offline fiókokat egy villám ikon jelöli az oldalsávon. Próbálja meg újra elérhetővé tenni a fiókot."
+    },
+    "mail34867-d" : {
+      "name" : "Levelek kezelése"
+    },
+    "mail34867-e" : {
+      "name" : "A Mail alkalmazás testreszabása"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "helyben kereshető tartalom",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>A Mail súgója<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>A Mail súgója<\/h2><p class='p'>Használhatja a meglévő e-mail fiókjait, és egyetlen helyről küldhet és fogadhat leveleket.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "A Mail súgója",
+      "name" : "A Mail súgója",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Az összes fiókjának leveleit elküldheti és fogadhatja",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Beszélgetések megtekintése",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek keresése",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mail problémák megoldása",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Feladó megjelölése VIP-ként",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek megjelölése teendőkhöz",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mellékletek megtekintése, mentése és törlése",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek megtekintése",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek nyomtatása",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Válasz az üzenetekre",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek továbbítása",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mellékletek hozzáadása",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Üzenetek áthelyezése és másolása",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek törlése",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Üzenetek kezelése szabályok használatával",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postafiókok létrehozása",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postafiókok törlése",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Üzenetfejléc testreszabása",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Testreszabhatja, mikor jelenjenek meg értesítések",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Az Önt vagy a címzetteket jelképező képek módosítása",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mail eszköztárak testreszabása",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "hu",
+    "buildID" : "638EEB6A-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "A Mail súgója",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

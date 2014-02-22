@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "基本"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>接続診断を使用する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>メッセージを送受信できない場合は、インターネットまたはメールサーバへの接続に問題がある可能性があります。「メール」の「接続診断」を使って接続状況を確認し、情報を取得することができます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「ウインドウ」＞「接続診断」と選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>状況情報を確認します：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>インターネット接続の状況を確認します。赤い状況ボタンは、「メール」がインターネットに接続できないことを示します。「ネットワーク診断」をクリックすると、問題を突き止め、インターネット接続を回復させるのに役立ちます。<\/p><\/li><li class='li choice'><p class='p'>アカウントの状況を確認します。赤い状況ボタン（インターネットに接続している場合）は、メールサーバまたはアカウント設定に問題があることを示します。「詳細な情報」欄に表示される指示に従います。欄の中のテキストをダブルクリックすると、「メール」環境設定の「アカウント」パネルが開きます。<\/p><\/li><li class='li choice'><p class='p'>サーバ接続の問題に関するログ情報を表示するには、「詳細情報を表示」をクリックして詳細情報のパネルを表示します。次に、「もう一度確認」をクリックして、「メール」が再度接続を試みるときのログを表示します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>完了したら、「もう一度確認」をクリックして、変更によって問題が解決したかどうかを確認します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>問題が解決しない場合は、アカウントプロバイダに連絡してください。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>メッセージを送信できない場合<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>メッセージを受信できない場合<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "接続診断, メールの送受信に関する問題",
+      "name" : "接続診断を使用する",
+      "alternativeName" : "接続診断を使用する",
+      "summary" : "メッセージを送受信できない場合は、「接続診断」を使用すると問題の解決に役立ちます。"
+    },
+    "mail34867-b" : {
+      "name" : "メールを表示する"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "メールを送信する"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>選択したトピックは現在利用できません<\/h1><div class='body conbody'><p class='p'>インターネットに接続していることを確認してください。接続について調べたいときは、アップルメニュー＞「システム環境設定」と選択し、「ネットワーク」をクリックしてから「アシスタント」をクリックします。<\/p><p class='p'>インターネットに接続しているのにコンテンツが表示されない場合は、後でやり直してください。<\/p><\/div><\/div>",
+      "alternativeName" : "選択したトピックは現在利用できません",
+      "name" : "選択したトピックは現在利用できません",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>「メール」の新機能<\/h1><div class='body taskbody'><div class='section context'><p class='p'>OS X Mountain Lion の「メール」に搭載された新機能を使用すると、メールの送信、受信、および表示をさらに簡単に実行できます。<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>特に大切な人を VIP にして、それらの人からのメッセージを管理できます。VIP は、受信したメッセージの名前の横にある星で見分けることができます。「よく使う項目」バーに各 VIP のメールボックスが表示されるので、それらのメッセージに簡単にアクセスできます。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>差出人を VIP にする<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>新しいメッセージの通知<\/h2><div class='body taskbody'><div class='section context'><p class='p'>「メール」環境設定で、メッセージが着信したメールボックスまたはメッセージの差出人に基づいて通知を表示するオプションを設定できます。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>場合にメール通知を表示するタイミングをカスタマイズする<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Web ページを異なる書式で共有する<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Web ページを Safari から共有するときに、送信するときの書式を選択できます。たとえば、リンクや PDF として送信できます。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Safari  から共有する Web ページを送信する<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>すべてのアカウントのメールを送受信する<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "「メール」の新機能",
+      "name" : "「メール」の新機能",
+      "summary" : "「メール」の新機能について説明します。"
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>メールヘルプ<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>メールヘルプ<\/h2><p class='p'>検索可能なトピック<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "メールヘルプ",
+      "name" : "メールヘルプ",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>メールボックスがオフラインの場合<\/h1><div class='body taskbody'><div class='section context'><p class='p'>アカウントがオフラインのときは、「メール」のサイドバーでアカウントの横に稲妻のアイコンが表示されます。複数のアカウントがある場合は、一部のアカウントがオフラインになって、ほかのアカウントはオンラインのままになることがあります。1 つまたはすべてのアカウントをオンラインにできます。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>1 つのアカウントをオンラインにするには、「メールボックス」＞「オンラインの状況」＞「“＜アカウント名＞”をオンラインにする」と選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>すべてのアカウントをオンラインにするには、「メールボックス」＞「すべてのアカウントをオンラインにする」と選択します。稲妻アイコンをクリックすることもできます。<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>アカウントをオンラインにできない場合は、インターネットに接続していることを確認してください。アカウント名の後に警告アイコンが表示される場合は、警告アイコンをクリックして詳しい情報を表示できます。<\/p><p class='p'><a class='xref' href='#mlhlp1189'>接続診断を使用する<\/a><\/p><p class='p'>一部のメールボックス名は、アクセス権を持っていない場合（サーバ上の「パブリック」メールボックスなど）、メールサーバが使用できないなどの理由でグレイで表示されることがあります。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>サイドバーを表示する／隠す<\/a><\/div><\/div><div class='linklist linklist'><strong>開く<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple のサポート記事：「メールメッセージの送受信の問題を解決する」<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "メールボックスがオフラインの場合",
+      "name" : "メールボックスがオフラインの場合",
+      "summary" : "オフラインのアカウントは、サイドバーに稲妻のアイコンで示されます。 そのアカウントを再びオンラインにしてみます。"
+    },
+    "mail34867-d" : {
+      "name" : "メールを整理する"
+    },
+    "mail34867-e" : {
+      "name" : "「メール」をカスタマイズする"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "local-searchable content",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>メールヘルプ<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>メールヘルプ<\/h2><p class='p'>既存のメールアカウントを使用して、メールの送受信を 1 個所で実行できます。<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "メールヘルプ",
+      "name" : "メールヘルプ",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "すべてのアカウントのメールを送受信する",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "スレッドを表示する",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メッセージを検索する",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "「メール」の問題を解決する",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "差出人を VIP にする",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "後で処理するためにメッセージにフラグを付ける",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "添付ファイルを表示、保存、および削除する",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メッセージを表示する",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メッセージをプリントする",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "メッセージに返信する",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メッセージを転送する",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "添付ファイルを追加する",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "メッセージを移動する／コピーする",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メッセージを削除する",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ルールを使ってメッセージを管理する",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メールボックスを作成する",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "メールボックスを削除する",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "メッセージヘッダをカスタマイズする",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "場合にメール通知を表示するタイミングをカスタマイズする",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "自分または受信者を表すピクチャを変更する",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "「メール」のツールバーをカスタマイズする",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "ja",
+    "buildID" : "65D9836C-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "メールヘルプ",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

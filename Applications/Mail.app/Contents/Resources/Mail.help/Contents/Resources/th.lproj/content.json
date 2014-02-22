@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "สิ่งจำเป็น"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>ใช้ตััวซ่อมแซมการเชื่อมต่อ<\/h1><div class='body taskbody'><div class='section context'><p class='p'>หากคุณไม่สามารถส่งหรือรับข้อความได้ อาจเกิดจากปัญหาการเชื่อมต่อกับอินเทอร์เน็ตหรือเซิร์ฟเวอร์เมล คุณสามารถใช้ ตััวซ่อมแซมการเชื่อมต่อ ของ Mail เพื่อตรวจสอบสถานะการเชื่อมต่อของคุณและรับข้อมูล<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>เลือก หน้าต่าง > ตััวซ่อมแซมการเชื่อมต่อ<\/span><\/li><li class='li step'><span class='ph cmd'>ตรวจทานข้อมูลสถานะ:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>ตรวจสอบสถานะการเชื่อมต่ออินเทอร์เน็ต ปุ่มสถานะสีแดงระบุว่า Mail ไม่สามารถเชื่อมต่อกับอินเทอร์เน็ตได้ คลิกการวินิจฉัยเครือข่ายเพื่อช่วยติดตามปัญหาและกู้คืนการเชื่อมต่ออินเทอร์เน็ต<\/p><\/li><li class='li choice'><p class='p'>ตรวจสอบสถานะบัญชีของคุณ ปุ่มสถานะสีแดง (เมื่อคุณเชื่อมต่อกับอินเทอร์เน็ต) ระบุว่าปัญหาอยู่ที่เซิร์ฟเวอร์จดหมายหรือการตั้งค่าบัญชีของคุณ ปฏิบัติตามคำแนะนำในคอลัมน์รายละเอียด โดยคลิกสองครั้งที่ข้อความในคอลัมน์เพื่อเปิดบานหน้าต่างบัญชีในการตั้งค่า Mail<\/p><\/li><li class='li choice'><p class='p'>ในการแสดงข้อมูลบันทึกเกี่ยวกับปัญหาการเชื่อมต่อเซิร์ฟเวอร์ ให้คลิกแสดงรายละเอียดเพื่อแสดงบานหน้าต่างรายละเอียด จากนั้นคลิกตรวจสอบอีกครั้งเพื่อแสดงบันทึกเมื่อ Mail พยายามจะเชื่อมต่ออีกครั้ง<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>เมื่อคุณทำเสร็จแล้ว ให้คลิกตรวจสอบอีกครั้งเพื่อดูว่าความเปลี่ยนแปลงที่คุณทำแก้ไขปัญหาได้หรือไม่<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>หากปัญหายังคงอยู่ ให้ติดต่อผู้ให้บัญชีของคุณ<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>หัวข้อที่เกี่ยวข้อง<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>หากคุณไม่สามารถส่งข้อความได้<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>หากคุณไม่สามารถรับข้อความได้<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "ตััวซ่อมแซมการเชื่อมต่อ, ปัญหาในการส่งหรือการรับอีเมล",
+      "name" : "ใช้ตััวซ่อมแซมการเชื่อมต่อ",
+      "alternativeName" : "ใช้ตััวซ่อมแซมการเชื่อมต่อ",
+      "summary" : "หากคุณไม่สามารถส่งข้อความ ให้ใช้ ตััวซ่อมแซมการเชื่อมต่อ เพื่อช่วยคุณแก้ไขปัญหา"
+    },
+    "mail34867-b" : {
+      "name" : "ดูเมล"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "ส่งเมล"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>หัวข้อที่เลือกไม่สามารถใช้งานได้ในขณะนี้<\/h1><div class='body conbody'><p class='p'>ตรวจสอบว่าคุณได้เชื่อมต่ออินเทอร์เน็ตแล้ว สำหรับความช่วยเหลือในการเชื่อมต่อ ให้เลือกเมนู Apple > การตั้งค่าระบบ คลิก เครือข่าย แล้วคลิก “ช่วยเหลือฉัน”<\/p><p class='p'>หากคุณเชื่อมต่ออินเทอร์เน็ตแล้ว แต่เนื้อหายังคงไม่ปรากฏ ให้ลองอีกครั้งในภายหลัง<\/p><\/div><\/div>",
+      "alternativeName" : "หัวข้อที่เลือกไม่สามารถใช้งานได้ในขณะนี้",
+      "name" : "หัวข้อที่เลือกไม่สามารถใช้งานได้ในขณะนี้",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>มีอะไรใหม่ใน Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail ใน OS X Mountain Lion มอบคุณลักษณะใหม่ที่โดดเด่นซึ่งทำให้การส่ง รับ และดูเมลของคุณเป็นเรื่องง่ายขึ้นมาก<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>ติดตามข้อความที่คุณได้รับจากคนสำคัญเป็นพิเศษโดยการทำให้พวกเขาเป็นผูส่ง VIP VIP ของคุณถูกระบุด้วยดาวหนึ่งดวงซึ่งอยู่ถัดจากชื่อในข้อความที่คุณได้รับจาก VIP เหล่านั้น Mail จะเพิ่มกล่องเมลสำหรับผู้ส่ง VIP แต่ละรายไปยังแถบรายการโปรด ดังนั้นจึงเป็นเรื่องง่ายในการไปที่ข้อความของพวกเขา<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>การทำให้ผู้ส่งเป็น VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>การแจ้งสำหรับข้อความใหม่<\/h2><div class='body taskbody'><div class='section context'><p class='p'>คุณสามารถตั้งค่าตัวเลือกได้ในการตั้งค่า Mail เพื่อให้แสดงการแจ้งโดยอิงตามกล่องเมลที่ข้อความเข้า หรืออิงตามผู้ส่ง<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>การปรับแต่งด้วยตัวเองเมื่อแสดงการแจ้งเมล<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>การแบ่งปันหน้าเว็บในรูปแบบต่าง ๆ<\/h2><div class='body taskbody'><div class='section context'><p class='p'>เมื่อคุณแบ่งปันหน้าเว็บจาก Safari คุณจะสามารถเลือกรูปแบบเพื่อส่งได้ ตัวอย่างเช่น คุณสามารถส่งเป็นลิงก์หรือ PDF ก็ได้<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>การส่งหน้าเว็บที่แบ่งปันจาก Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>หัวข้อที่เกี่ยวข้อง<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>ส่งและรับเมลสำหรับบัญชีทั้งหมดของคุณ<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "มีอะไรใหม่ใน Mail",
+      "name" : "มีอะไรใหม่ใน Mail",
+      "summary" : "เรียนรู้เกี่ยวกับคุณลักษณะใหม่ใน Mail"
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>วิธีใช้ Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>วิธีใช้ Mail<\/h2><p class='p'>หัวข้อที่สามารถค้นหาได้<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "วิธีใช้ Mail",
+      "name" : "วิธีใช้ Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>หากกล่องเมลออฟไลน์<\/h1><div class='body taskbody'><div class='section context'><p class='p'>เมื่อบัญชีออฟไลน์ ไอคอนสายฟ้าจะปรากฏอยู่ข้าง ๆ ในแถบข้าง Mail หากคุณมีบัญชีหลายอัน เป็นไปได้ที่บัญชีบางอันอาจออฟไลน์ในขณะที่บัญชีอื่นออนไลน์อยู่ คุณสามารถทำให้บัญชีหนึ่งหรือทั้งหมดออนไลน์ได้<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>ในการทำให้บัญชีหนึ่งออนไลน์ เลือก กล่องจดหมาย > สถานะออนไลน์ > แสดง [ชื่อบัญชี] ออนไลน์<\/span><\/li><li class='li step'><span class='ph cmd'>ในการทำให้บัญชีทั้งหมดออนไลน์ ให้เลือกกล่องจดหมาย > ทำให้บัญชีทั้งหมดออนไลน์ คุณยังสามารถคลิกที่ไอคอนรูปสายฟ้า<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>หากคุณไม่สามารถทำให้บัญชีออนไลน์ได้ ตรวจสอบให้มั่นใจว่าคุณได้ทำการเชื่อมต่อกับอินเทอร์เน็ต หากไอคอนเตือนปรากฏหลังชื่อบัญชี คุณจะสามารถคลิกที่ไอคอนเพื่อดูข้อมูลเพิ่มเติมได้<\/p><p class='p'><a class='xref' href='#mlhlp1189'>ใช้ตััวซ่อมแซมการเชื่อมต่อ<\/a><\/p><p class='p'>ชื่อกล่องจดหมายบางอันอาจแสดงเป็นสีเทาหากคุณไม่มีสิทธิ์อนุญาตในการเข้าถึง เช่นกล่องจดหมาย “สาธารณะ” บนเซิร์ฟเวอร์ หรือหากเซิร์ฟเวอร์อีเมลใช้งานไม่ได้<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>หัวข้อที่เกี่ยวข้อง<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>แสดงหรือซ่อนแถบข้าง<\/a><\/div><\/div><div class='linklist linklist'><strong>เปิด<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>บทความสนับสนุนของ Apple: การแก้ไขปัญหาในการส่งและรับข้อความอีเมล<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "หากกล่องเมลออฟไลน์",
+      "name" : "หากกล่องเมลออฟไลน์",
+      "summary" : "บัญชีออฟไลน์จะดูได้จากไอคอนสายฟ้าในแถบข้าง ลองทำให้บัญชีออนไลน์อีกครั้ง"
+    },
+    "mail34867-d" : {
+      "name" : "จัดระเบียบเมล"
+    },
+    "mail34867-e" : {
+      "name" : "กำหนดค่า Mail ด้วยตัวเอง"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "เนื้อหาที่ค้นหาได้ภายในเครื่อง",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>วิธีใช้ Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>วิธีใช้ Mail<\/h2><p class='p'>ใช้บัญชีอีเมลที่มีอยู่ของคุณ และส่งและรับเมลได้จากที่เดียว<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "วิธีใช้ Mail",
+      "name" : "วิธีใช้ Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "ส่งและรับเมลสำหรับบัญชีทั้งหมดของคุณ",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ดูการสนทนา",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ค้นหาข้อความ",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "แก้ไขปัญหาของ Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "ทำให้ผู้ส่งเป็น VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ติดป้ายสำหรับการกระทำ",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "แสดง บันทึก และลบสิ่งที่แนบ",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ดูข้อความ",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "พิมพ์ข้อความ",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "ตอบกลับข้อความ",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ส่งต่อข้อความ",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "เพิ่มสิ่งที่แนบ",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "ย้ายและคัดลอกข้อความ",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ลบข้อความ",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "จัดการข้อความโดยใช้กฎ",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "สร้างกล่องจดหมาย",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ลบกล่องจดหมาย",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "ปรับแต่งหัวเรื่องข้อความ",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ปรับแต่งลักษณะที่การแจ้งเมลมีการแสดง",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "เปลี่ยนรูปภาพที่แสดงถึงตัวคุณหรือผู้รับ",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ปรับแต่งแถบเครื่องมือ Mail  ด้วยตัวเอง",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "th",
+    "buildID" : "733194F0-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "วิธีใช้ Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

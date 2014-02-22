@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "要點"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>使用連線診斷<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您無法傳送或接收郵件，可能是連接 Internet 或郵件伺服器發生問題。您可以使用 Mail 的“連線診斷”來檢查連線狀態並取得資訊。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>選擇“視窗”>“連線診斷”。<\/span><\/li><li class='li step'><span class='ph cmd'>檢查狀態資訊：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>檢查您的 Internet 連線狀態。紅色的狀態按鈕表示 Mail 無法連接 Internet。按一下“網路診斷”來協助追蹤問題，以及回復 Internet 連線。<\/p><\/li><li class='li choice'><p class='p'>檢查帳號狀態。紅色的狀態按鈕（當您連接 Internet 時）表示郵件伺服器或帳號設定有問題。請依照“詳細資訊”直欄中的指示；按兩下直欄中的文字來打開 Mail 偏好設定的“帳號”面板。<\/p><\/li><li class='li choice'><p class='p'>若要查看伺服器連線問題的日誌資訊，請按一下“顯示詳細資訊”來顯示詳細資訊面板。然後當 Mail 再次嘗試連接時，按一下“再次檢查”來查看日誌。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>完成時，請按一下“再次檢查”來查看您的更動是否已解決問題。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果問題持續發生，請聯絡您的帳號供應商。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相關主題<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>若您無法傳送郵件<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>若您無法接收郵件<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "連線診斷, 傳送或接收電子郵件的問題",
+      "name" : "使用連線診斷",
+      "alternativeName" : "使用連線診斷",
+      "summary" : "如果您無法傳送或接收郵件，請使用“連線診斷”來協助您解決問題。"
+    },
+    "mail34867-b" : {
+      "name" : "檢視電子郵件"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "傳送電子郵件"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>目前無法取得所選的主題<\/h1><div class='body conbody'><p class='p'>請確定您已經連接 Internet。如需連線的相關協助，請選擇“蘋果”選單 >“系統偏好設定⋯”，按一下“網路”，然後按一下“協助我⋯”。<\/p><p class='p'>若您已經連接 Internet 但仍無法顯示內容，請稍後再試一次。<\/p><\/div><\/div>",
+      "alternativeName" : "目前無法取得所選的主題",
+      "name" : "目前無法取得所選的主題",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Mail 的新功能<\/h1><div class='body taskbody'><div class='section context'><p class='p'>OS X Mountain Lion 中的 Mail 提供許多重大的新功能，讓您輕鬆的傳送、接收及檢視郵件。<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>將寄件人標示為 VIP，以追蹤來自重要人員的郵件。從您收到的郵件中，其名稱旁邊若顯示星號，即表示該寄件人是您的 VIP。Mail 會在“喜好項目”列上為每一位 VIP 加入信箱，以便接收來自 VIP 的郵件。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>將寄件人標示為 VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>新郵件的通知<\/h2><div class='body taskbody'><div class='section context'><p class='p'>您可以在 Mail 偏好設定中設定選項，依據收取郵件的信箱或寄件人來顯示通知。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>自定何時顯示電子郵件通知<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>以不同格式共享網頁<\/h2><div class='body taskbody'><div class='section context'><p class='p'>當您共享 Safari 的網頁時，您可以選擇傳送的格式。例如，您可以用連結或 PDF 的方式來傳送網頁。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>傳送從 Safari 共享的網頁<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>相關主題<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>收發所有帳號的電子郵件<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Mail 的新功能",
+      "name" : "Mail 的新功能",
+      "summary" : "了解 Mail 中的新功能。"
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail 輔助說明<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail 輔助說明<\/h2><p class='p'>可搜尋的主題<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail 輔助說明",
+      "name" : "Mail 輔助說明",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>若信箱為離線狀態<\/h1><div class='body taskbody'><div class='section context'><p class='p'>當帳號離線時，Mail 側邊欄中帳號旁邊會出現閃電圖像。如果您有數個帳號，則某些帳號可能是離線的，而其他帳號卻是已連線的。您可以將一個或所有帳號設為連線狀態。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>若僅要讓一個帳號於線上作業，請選擇“信箱”>“連線狀態”>“設定 [帳號名稱] 線上作業”。<\/span><\/li><li class='li step'><span class='ph cmd'>若要讓所有的帳號於線上作業，請選擇“信箱”>“讓所有帳號處於連線的狀態”。您也可以按一下閃電圖像。<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>若無法讓帳號連線，請確定您已連接 Internet。如果在帳號名稱之後顯示警告圖像，您可以按一下它來取得更多資訊。<\/p><p class='p'><a class='xref' href='#mlhlp1189'>使用連線診斷<\/a><\/p><p class='p'>某些信箱名稱會顯示為灰色，若您沒有權限取用它們（例如，伺服器上的“公用”信箱），或郵件伺服器無法使用。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相關主題<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>顯示或隱藏側邊欄<\/a><\/div><\/div><div class='linklist linklist'><strong>打開<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple 支援文章：傳送和接收郵件時的問題處理<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "若信箱為離線狀態",
+      "name" : "若信箱為離線狀態",
+      "summary" : "側邊欄中的閃電圖像表示離線帳號。 再嘗試一次將帳號設定為連線狀態。"
+    },
+    "mail34867-d" : {
+      "name" : "整理電子郵件"
+    },
+    "mail34867-e" : {
+      "name" : "自定 Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "本機可搜尋的內容",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail 輔助說明<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail 輔助說明<\/h2><p class='p'>使用現有的電子郵件帳號，並且在相同位置上收發郵件。<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail 輔助說明",
+      "name" : "Mail 輔助說明",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "收發所有帳號的電子郵件",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "檢視對話",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "搜尋郵件",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "解決 Mail 問題",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "將寄件人標示為 VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "為郵件加上旗標以執行動作",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "檢視、儲存和刪除附件",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "檢視郵件",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "列印郵件",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "回覆郵件",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "轉寄郵件",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "加入附件",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "搬移和拷貝郵件",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "刪除郵件",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "使用規則管理郵件",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "製作信箱",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "刪除信箱",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "自定郵件標頭",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "自定何時顯示電子郵件通知",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "更改代表您或收件人的圖片",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "自定 Mail 工具列",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "E54F97AC-A085-11E1-8E30-8842B4BF9FE1",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "zh_TW",
+    "buildID" : "710A79D2-AC35-11E1-BEB4-4AF7FB0627B2",
+    "Title" : "Mail 輔助說明",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

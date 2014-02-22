@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Osnove"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Uporaba Doktora za povezivanje<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Ako ne možete slati ili primati poruke, možda postoji problem sa spajanjem na internet ili na poslužitelja za poštu. Možete koristiti Doktora za povezivanje aplikacije Mail da biste provjerili svoj status veze i učitali informacije.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Odaberite Prozor > Doktor za povezivanje.<\/span><\/li><li class='li step'><span class='ph cmd'>Pregledajte informacije o statusu:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Provjerite svoj status internetske veze. Crvena tipka statusa označava da se Mail ne može spojiti na internet. Kliknite na Dijagnostiku mreže za pomoć pri otkrivanju problema i obnavljanju internetske veze.<\/p><\/li><li class='li choice'><p class='p'>Provjerite svoj status računa. Crvena tipka statusa (kada ste spojeni na internet) označava problem s poslužiteljem za poštu ili s podešavanjem vašeg računa. Slijedite upute u stupcu Detalji; dvaput kliknite na tekst u stupcu kako biste otvorili prozor Računi u Mail postavkama.<\/p><\/li><li class='li choice'><p class='p'>Za prikaz informacija pohranjenih u log datotekama o problemima pri spajanju na poslužitelja, kliknite na Prikaži detalje za prikaz prozora detalja. Zatim kliknite na Ponovno provjeri kako biste vidjeli log zapis dok se Mail pokušava ponovno spojiti.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Kada završite, kliknite na Ponovno provjeri kako biste provjerili jesu li vaše promjene riješile problem.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Ako problem i dalje bude prisutan, obratite se svojem pružatelju računa.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Povezane teme<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Ako ne možete slati poruke<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Ako ne možete primati poruke<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Doktor za povezivanje, problemi sa slanjem ili primanjem e-maila",
+      "name" : "Uporaba Doktora za povezivanje",
+      "alternativeName" : "Uporaba Doktora za povezivanje",
+      "summary" : "Ako ne možete slati ili primati poruke, koristite Doktora za povezivanje za pomoć pri rješavanju problema."
+    },
+    "mail34867-b" : {
+      "name" : "Prikaz e-mail poruka"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Slanje poruka"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Odabrana tema trenutno nije dostupna<\/h1><div class='body conbody'><p class='p'>Provjerite jeste li spojeni na internet. Za pomoć pri spajanju odaberite Apple izbornik > Postavke sustava, kliknite na Mreža i zatim na \"Pomoć\".<\/p><p class='p'>Ako ste spojeni na internet i sadržaj se svejedno ne pojavljuje, pokušajte ponovno kasnije.<\/p><\/div><\/div>",
+      "alternativeName" : "Odabrana tema trenutno nije dostupna",
+      "name" : "Odabrana tema trenutno nije dostupna",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Što je novo u aplikaciji Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Aplikacija Mail u sustavu Mac OS X Mountain Lion nudi vrijedne nove značajke koje još više olakšavaju slanje, primanje i prikaz poruka.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP kontakti<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Možete pratiti poruke koje primite od posebno važnih osoba, tako da ih označite kao VIP. Vaši VIP kontakti označeni su zvjezdicom pored njihovih imena u njihovim porukama koje primite. Aplikacija Mail dodaje sandučić sandučić za svakog VIP korisnika u traku s omiljenim stavkama, tako da je primanje njihovih poruka jednostavnije no ikad prije.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Podešavanje VIP pošiljatelja<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Obavijesti za nove poruke<\/h2><div class='body taskbody'><div class='section context'><p class='p'>U postavkama aplikacije Mail možete podesiti opciju za prikaz obavijesti ovisno o sandučiću u kojeg je poruka primljena ili ovisno o pošiljatelju.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Podešavanje prikaza obavijesti<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Dijeljenje internetskih stranica u drugom formatu<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Kad dijelite internetsku stranicu iz preglednika Safari, možete odabrati format u kojem je želite poslati. Primjerice, možete je poslati kao link ili kao PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Slanje internetske stranice koja je podijeljena iz preglednika Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Povezane teme<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Slanje i primanje e-mail poruka za sve vaše račune<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Što je novo u aplikaciji Mail?",
+      "name" : "Što je novo u aplikaciji Mail?",
+      "summary" : "Saznajte više o novim značajkama u aplikaciji Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Pomoć za Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoć za Mail<\/h2><p class='p'>Teme koje se mogu pretraživati<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoć za Mail",
+      "name" : "Pomoć za Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Ako je sandučić odspojen<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Kad je račun odspojen, pokraj njega se u rubnom stupcu Maila pojavljuje ikona munje. Ako imate više računa, neki računi mogu biti odspojeni dok su neki spojeni. Možete spojiti jedan ili sve račune.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Za spajanje računa na mrežu odaberite Sandučić > Online status > Spoji [naziv računa].<\/span><\/li><li class='li step'><span class='ph cmd'>Za spajanje svih računa odaberite Sandučić > Spoji sve račune. Također možete kliknuti na ikonu munje.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Ako ne možete spojiti račun, provjerite jeste li spojeni na internet. Ako se pokraj naziva računa pojavi ikona upozorenja, možete kliknuti na nju za više informacija.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Uporaba Doktora za povezivanje<\/a><\/p><p class='p'>Neki nazivi sandučića mogu se prikazati sivom bojom ako nemate dozvolu pristupa, poput \"javnih\" sandučića na poslužitelju ili ako je poslužitelj pošte nedostupan.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Povezane teme<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Priikaz ili skrivanje rubnog stupca<\/a><\/div><\/div><div class='linklist linklist'><strong>Otvorite<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Članak Apple podrške: Uklanjanje grešaka prilikom slanja i primanja e-mail poruka<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Ako je sandučić odspojen",
+      "name" : "Ako je sandučić odspojen",
+      "summary" : "Odspojen račun označen je ikonom munje u rubnom stupcu. Ponovno pokušajte spojiti račun."
+    },
+    "mail34867-d" : {
+      "name" : "Organiziranje e-mail poruka"
+    },
+    "mail34867-e" : {
+      "name" : "Podešavanje aplikacije Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokalno pretraživi sadržaj",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Pomoć za Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoć za Mail<\/h2><p class='p'>Koristite vaše postojeće e-mail račune za slanje i primanje e-mail poruka na jednom mjestu.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoć za Mail",
+      "name" : "Pomoć za Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Slanje i primanje e-mail poruka za sve vaše račune",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Prikaz razgovora",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Traženje poruka",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ispravljanje problema s aplikacijom Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Podešavanje VIP pošiljatelja",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Označavanje poruka zastavicom",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Gledanje, spremanje i brisanje privitaka",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Prikaz poruka",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ispis poruka",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Odgovaranje na poruke",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Proslijeđivanje poruka",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dodavanje privitaka",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Premještanje i kopiranje poruka",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Brisanje poruka",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Upravljanje porukama pomoću pravila",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Izrada sandučića",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Brisanje sandučića",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Podešavanje zaglavlja poruke",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Podešavanje prikaza obavijesti",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Promjena slike koja predstavlja vas ili primatelje",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Podešavanje alatnih traka aplikacije Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "hr",
+    "buildID" : "627F177C-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Pomoć za Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Basisonderwerpen"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Verbindingsassistent gebruiken<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Als u geen berichten kunt versturen of ontvangen, is er mogelijk een probleem met de verbinding met het internet of met een mailserver. Met Verbindingsassistent van Mail kunt u de verbindingsstatus controleren en informatie opvragen.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Kies 'Venster' > 'Verbindingsassistent'.<\/span><\/li><li class='li step'><span class='ph cmd'>Bekijk de statusgegevens:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Controleer de status van de internetverbinding. Een rode statusknop geeft aan dat Mail geen verbinding met het internet kan maken. Klik op 'Diagnostische netwerkinfo' om het probleem op te sporen en de internetverbinding te herstellen.<\/p><\/li><li class='li choice'><p class='p'>Controleer de status van uw account. Een rode statusknop (als er verbinding is met het internet) geeft aan dat er een probleem is met een mailserver of met uw accountinstellingen. Volg de instructies in de kolom 'Details'. Klik dubbel op de tekst in de kolom om het paneel 'Accounts' in het voorkeurenvenster van Mail te openen.<\/p><\/li><li class='li choice'><p class='p'>Als u logbestandsgegevens wilt bekijken over serververbindingen waarmee zich problemen voordoen, klikt u op 'Toon details' om een paneel met gedetailleerde gegevens weer te geven. Klik vervolgens op 'Controleer opnieuw' om het logbestand te bekijken terwijl opnieuw wordt geprobeerd verbinding te maken.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Nadat u de instellingen hebt aangepast, klikt u op 'Controleer opnieuw' om te kijken of het probleem is opgelost.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Als het probleem blijft bestaan, neemt u contact op met uw accountaanbieder.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwante onderwerpen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>U kunt geen berichten versturen<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>U kunt geen berichten ontvangen<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Verbindingsassistent, problemen met het versturen of ontvangen van e-mail",
+      "name" : "Verbindingsassistent gebruiken",
+      "alternativeName" : "Verbindingsassistent gebruiken",
+      "summary" : "Als u geen berichten kunt versturen of ontvangen, kunt u Verbindingsassistent gebruiken om de problemen op te lossen."
+    },
+    "mail34867-b" : {
+      "name" : "E-mail bekijken"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "E-mail versturen"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Het geselecteerde onderwerp is momenteel niet beschikbaar<\/h1><div class='body conbody'><p class='p'>Controleer of er verbinding is met het internet. Als u hulp nodig hebt, kiest u Apple-menu > 'Systeemvoorkeuren' en klikt u vervolgens op 'Netwerk' en 'Assistentie'.<\/p><p class='p'>Als u verbinding hebt met het internet en de inhoud nog steeds niet wordt weergegeven, probeert u het later nog een keer.<\/p><\/div><\/div>",
+      "alternativeName" : "Het geselecteerde onderwerp is momenteel niet beschikbaar",
+      "name" : "Het geselecteerde onderwerp is momenteel niet beschikbaar",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Nieuwe functies in Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail in OS X Mountain Lion bevat een aantal opmerkelijke nieuwe functies waarmee u uw e-mail nog eenvoudiger kunt versturen, ontvangen en bekijken.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP's<\/h2><div class='body taskbody'><div class='section context'><p class='p'>U kunt berichten die u ontvangt van personen die belangrijk voor u zijn, gemakkelijker bij elkaar houden door die personen VIP te maken. Als u dan een bericht van een VIP ontvangt, komt er een sterretje naast de naam van die afzender te staan. Ook voegt Mail voor elke VIP een postbus toe aan de favorietenbalk, zodat de berichten van die persoon overzichtelijk bij elkaar staan.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Van een afzender een VIP maken<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Meldingen voor nieuwe berichten<\/h2><div class='body taskbody'><div class='section context'><p class='p'>In het voorkeurenvenster van Mail kunt u instellen dat er meldingen moeten verschijnen op basis van de postbus waarin berichten binnenkomen of op basis van de afzender.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Instellen wanneer meldingen voor nieuwe berichten moeten worden getoond<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Webpagina's delen in verschillende structuren<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Wanneer u iemand vanuit Safari een webpagina wilt sturen, kunt u aangeven welke structuur u daarvoor wilt gebruiken. U kunt de webpagina bijvoorbeeld als een koppeling of als een pdf versturen.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Iemand vanuit Safari een webpagina sturen<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwante onderwerpen<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>E-mail versturen en ontvangen voor al uw e-mailaccounts<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Nieuwe functies in Mail",
+      "name" : "Nieuwe functies in Mail",
+      "summary" : "Meer informatie over de nieuwe functies in Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail Help<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Help<\/h2><p class='p'>Doorzoekbare onderwerpen<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Help",
+      "name" : "Mail Help",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Een postbus is offline<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Als een account offline is, verschijnt in de navigatiekolom van Mail een symbool van een bliksemschicht naast de account. Als u meerdere accounts hebt, bestaat de kans dat sommige accounts offline zijn terwijl andere online zijn. U kunt proberen een of alle accounts weer online te plaatsen.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Om één account online te plaatsen, kiest u 'Postbus' > 'Onlinestatus' > '[accountnaam] online'.<\/span><\/li><li class='li step'><span class='ph cmd'>Om alle accounts online te plaatsen, kiest u 'Postbus' > 'Gebruik alle accounts online'. U kunt ook op het symbool van de bliksemschicht klikken.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Als het u niet lukt een account online te plaatsen, controleert u of u verbinding met het internet hebt. Als er naast de naam van een account een waarschuwingssymbool verschijnt, kunt u hierop klikken voor meer informatie.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Verbindingsassistent gebruiken<\/a><\/p><p class='p'>De namen van sommige postbussen worden grijs weergegeven als u geen toestemming hebt om deze te openen, zoals openbare postbussen op een server, of als de mailserver niet beschikbaar is.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwante onderwerpen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>De navigatiekolom weergeven of verbergen<\/a><\/div><\/div><div class='linklist linklist'><strong>Open het volgende<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple Support-artikel: Problemen met het versturen en ontvangen van e-mailberichten oplossen<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Een postbus is offline",
+      "name" : "Een postbus is offline",
+      "summary" : "Voor offline-accounts wordt in de navigatiekolom het symbool van een bliksemschicht weergegeven. Probeer de account online te plaatsen."
+    },
+    "mail34867-d" : {
+      "name" : "E-mail ordenen"
+    },
+    "mail34867-e" : {
+      "name" : "Mail aanpassen"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokaal doorzoekbare inhoud",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail Help<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Help<\/h2><p class='p'>U kunt uw bestaande e-mailaccounts gebruiken en e-mail vanaf één plaats versturen en ontvangen.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Help",
+      "name" : "Mail Help",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "E-mail versturen en ontvangen voor al uw e-mailaccounts",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Conversaties bekijken",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zoeken in berichten",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Problemen in Mail oplossen",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Van een afzender een VIP maken",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten markeren voor actie",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Bijlagen bekijken, bewaren en verwijderen",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten weergeven",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten afdrukken",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Berichten beantwoorden",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten doorsturen",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Bijlagen toevoegen",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Berichten verplaatsen en kopiëren",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten verwijderen",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Berichten beheren met behulp van regels",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postbussen aanmaken",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postbussen verwijderen",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "De koptekst van een bericht aanpassen",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Instellen wanneer meldingen voor nieuwe berichten moeten worden getoond",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Afbeeldingen van uzelf of geadresseerden wijzigen",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "De knoppenbalken van Mail aanpassen",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "nl",
+    "buildID" : "6867F23A-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail Help",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

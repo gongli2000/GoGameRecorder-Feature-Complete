@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Základy"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Použití Záchrany připojení<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Pokud nemůžete odesílat nebo přijímat zprávy, může být příčinou problém s připojením k Internetu nebo poštovnímu serveru. Pomocí Záchrany připojení Mailu můžete zkontrolovat stav připojení a získat informace.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Vyberte volby Okno > Záchrana připojení.<\/span><\/li><li class='li step'><span class='ph cmd'>Zkontrolujte informace o stavu:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Ověřte stav připojení k Internetu. Červené tlačítko stavu označuje, že se Mail nemůže připojit k Internetu. Kliknutím na volbu Diagnostika sítě můžete problém nalézt a připojení k Internetu obnovit.<\/p><\/li><li class='li choice'><p class='p'>Zkontrolujte stav účtu. Červené tlačítko stavu (pokud jste připojeni k Internetu) označuje problém s poštovním serverem nebo nastavením účtu. Postupujte podle pokynů ve sloupci Podrobnosti. Dvojím kliknutím na sloupec otevřete panel Účty v předvolbách Mailu.<\/p><\/li><li class='li choice'><p class='p'>Chcete-li zobrazit protokol s informacemi o problémech s připojením k serveru, kliknutím na volbu Zobrazit podrobnosti zobrazte panel s podrobnostmi. Následně klikněte na volbu Ověřit znovu a v průběhu nového pokusu Mailu o připojení zobrazte protokol.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Po skončení klikněte na volbu Ověřit znovu a podívejte se, zda provedené změny problém vyřešily.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Pokud problém přetrvá, obraťte se na svého poskytovatele účtu.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Související témata<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Co dělat, pokud nelze odesílat zprávy<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Co dělat, pokud nepřijímáte zprávy<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Záchrana připojení, problémy s odesíláním a příjmem e-mailů",
+      "name" : "Použití Záchrany připojení",
+      "alternativeName" : "Použití Záchrany připojení",
+      "summary" : "Pokud nemůžete odesílat nebo přijímat zprávy, použijte Záchranu připojení, která vám pomůže problémy vyřešit."
+    },
+    "mail34867-b" : {
+      "name" : "Prohlížení pošty"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Odesílání e-mailů"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Vybrané téma není k dispozici<\/h1><div class='body conbody'><p class='p'>Ujistěte se, že jste připojeni k Internetu. Chcete-li nápovědu pro připojení, použijte příkaz Předvolby systému z nabídky Apple, klikněte na Síť a poté na „Průvodce“.<\/p><p class='p'>Jste-li připojeni k Internetu, avšak obsah se přesto nezobrazuje, zkuste to znovu později.<\/p><\/div><\/div>",
+      "alternativeName" : "Vybrané téma není k dispozici",
+      "name" : "Vybrané téma není k dispozici",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Co je nového v Mailu?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail v systému OS X Mountain Lion nabízí mnoho nových důležitých funkcí, které ještě více usnadňují odesílání, přijímání a zobrazování zpráv.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Udržujte si přehled o zprávách, které obdržíte od zvlášť důležitých lidí tak, že je označíte jako VIP. VIP jsou v obdržených zprávách identifikováni hvězdičkou vedle jména. Mail pro každého VIP přidá schránku na panel Oblíbené, takže sledování zpráv od těchto osob bude jednoduché.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Nastavení odesilatele jako VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Oznámení pro nové zprávy<\/h2><div class='body taskbody'><div class='section context'><p class='p'>V předvolbách Mailu můžete nastavit oznámení podle schránek, do kterých bude pošta přijata, nebo podle jejího odesilatele.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Přizpůsobení oznamování nové pošty<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Sdílení webových stránek v různých formátech<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Když sdílíte webovou stránku v Safari, můžete vybrat formát, ve kterém ji chcete odeslat. Například ji můžete odeslat jako odkaz nebo jako PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Odeslání webové stránky sdílené ze Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Související témata<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Odesílání a příjem pošty ve všech účtech<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Co je nového v Mailu?",
+      "name" : "Co je nového v Mailu?",
+      "summary" : "V této části získáte informace o nových funkcích Mailu."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Nápověda pro Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Nápověda pro Mail<\/h2><p class='p'>Témata, která lze prohledávat<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Nápověda pro Mail",
+      "name" : "Nápověda pro Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Schránka je offline<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Vedle účtu v režimu offline je na bočním panelu Mailu zobrazena ikona stylizovaného blesku. Máte-li více účtů, je možné, že některé účty budou offline a jiné online. Do režimu online můžete přepnout jeden či všechny účty.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Chcete-li přepnout účet do režimu online, vyberte volby Schránka > Stav online > Přepnout [název účtu] online.<\/span><\/li><li class='li step'><span class='ph cmd'>Chcete-li přepnout všechny účty do režimu online, vyberte volby Schránka > Přepnout všechny účty online. Můžete také kliknout na ikonu stylizovaného blesku.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Pokud účet nelze přepnout do režimu online, zkontrolujte, zda jste připojeni k Internetu. Pokud se za názvem účtu zobrazí ikona varování, můžete na ni kliknout, a zobrazit tak další informace.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Použití Záchrany připojení<\/a><\/p><p class='p'>Některé názvy schránek se mohou zobrazovat šedě, pokud k těmto schránkám nemáte oprávnění k přístupu, například k „veřejným“ schránkám na serveru, nebo pokud není poštovní server dostupný.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Související témata<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Zobrazení nebo skrytí bočního panelu<\/a><\/div><\/div><div class='linklist linklist'><strong>Otevřít<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Článek podpory Apple: Řešení potíží při odesílání a příjmu e-mailových zpráv<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Schránka je offline",
+      "name" : "Schránka je offline",
+      "summary" : "Účet v režimu offline je na bočním panelu označen ikonou stylizovaného blesku. Pokuste se přepnout účet znovu do režimu online."
+    },
+    "mail34867-d" : {
+      "name" : "Uspořádání e-mailů"
+    },
+    "mail34867-e" : {
+      "name" : "Vlastní nastavení Mailu"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "místně prohledávatelný obsah",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Nápověda pro Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Nápověda pro Mail<\/h2><p class='p'>Použijte své stávající poštovní účty a odesílejte a přijímejte poštu na jednom místě.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Nápověda pro Mail",
+      "name" : "Nápověda pro Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Odesílání a příjem pošty ve všech účtech",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazení konverzací",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Prohledání zpráv",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Řešení problémů s Mailem",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Nastavit odesilatele jako VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Označení zpráv pro akci",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazení, uložení a smazání příloh",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazení zpráv",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tisk zpráv",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Odpovídání na zprávy",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Přeposílání zpráv",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Přidání příloh",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Přesunutí a kopírování zpráv",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Smazání zpráv",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Správa zpráv pomocí pravidel",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vytváření schránek",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Smazání schránek",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Přizpůsobení záhlaví zpráv",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Přizpůsobení oznamování nové pošty",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Změna obrázku představujícího vás nebo příjemce",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vlastní nastavení panelů nástrojů Mailu",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "cs",
+    "buildID" : "58AFF540-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Nápověda pro Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "概要"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>使用连接诊断<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您不能发送或接收邮件，可能是连接到互联网或邮件服务器时出现了问题。可以使用 Mail 的“连接诊断”来检查连接状态并获取相关信息。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>选取“窗口”>“连接诊断”。<\/span><\/li><li class='li step'><span class='ph cmd'>查看状态信息：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>查看互联网连接状态。红色的状态按钮表示 Mail 不能连接到互联网。点按“网络诊断”来帮助查找问题并恢复互联网连接。<\/p><\/li><li class='li choice'><p class='p'>检查帐户状态。红色的状态按钮（在您已连接到互联网的情况下）表示邮件服务器或帐户设置出现问题。请按照“详细信息”栏中的指示进行操作；连按该栏中的文本以打开 Mail 偏好设置的“帐户”面板。<\/p><\/li><li class='li choice'><p class='p'>若要查看有关服务器连接问题的日志信息，请点按“显示详细信息”以显示详细信息面板。然后，在 Mail 尝试再次连接时点按“再次检查”，以查看日志。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>完成后，点按“再次检查”，以查看所作的更改是否已将问题解决。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果问题仍然存在，请联系您的帐户服务商。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>如果不能发送邮件<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>如果不能接收邮件<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "连接诊断, 发送或接收电子邮件的问题",
+      "name" : "使用连接诊断",
+      "alternativeName" : "使用连接诊断",
+      "summary" : "如果不能发送或接收邮件，请使用“连接诊断”来帮助您解决问题。"
+    },
+    "mail34867-b" : {
+      "name" : "查看邮件"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "发送邮件"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>所选主题当前不可用<\/h1><div class='body conbody'><p class='p'>请确定您的电脑已接入互联网。若要获得接入互联网的帮助，请选取苹果菜单 >“系统偏好设置”，点按“网络”，然后点按“向导”。<\/p><p class='p'>如果您的电脑已接入互联网，但是内容仍未显示，请稍后再试一次。<\/p><\/div><\/div>",
+      "alternativeName" : "所选主题当前不可用",
+      "name" : "所选主题当前不可用",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Mail 的新功能<\/h1><div class='body taskbody'><div class='section context'><p class='p'>OS X Mountain Lion 中的 Mail 提供多种卓越的新功能，使得发送、接收和查看邮件更加简便。<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>通过将非常重要的联系人设为 VIP，来跟踪他们发给您的邮件。您的 VIP 可通过您从他们接收到的邮件中的名称旁边的星号来识别。Mail 会为每个 VIP 添加一个邮箱到“个人收藏”栏，以便轻松获取他们的邮件。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>让发件人成为 VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>新邮件的通知<\/h2><div class='body taskbody'><div class='section context'><p class='p'>您可以在 Mail 偏好设置中设定选项以基于收件箱或发件人显示通知。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>自定邮件通知的显示时间<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>以不同格式共享网页<\/h2><div class='body taskbody'><div class='section context'><p class='p'>当您从 Safari 共享网页时，您可以选取发送它的格式。例如，您可以将它作为链接或 PDF 来发送。<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>从 Safari 发送共享的网页<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>针对您的所有帐户发送和接收邮件<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Mail 的新功能",
+      "name" : "Mail 的新功能",
+      "summary" : "了解 Mail 的新功能。"
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>邮件<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>邮件<\/h2><p class='p'>可搜索的主题<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "邮件",
+      "name" : "邮件",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>如果邮箱离线<\/h1><div class='body taskbody'><div class='section context'><p class='p'>当帐户离线时，在 Mail 边栏中，旁边会显示一个闪电图标。如果您有多个帐户，就有可能有些帐户离线，而其他帐户在线。可以使一个或所有帐户在线。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>若要只使一个帐户在线，请选取“邮箱”>“在线状态”>“使 [帐户名称] 在线”。<\/span><\/li><li class='li step'><span class='ph cmd'>若要使所有帐户在线，请选取“邮箱”>“让所有帐户在线”。还可以点按闪电图标。<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>如果您不能让帐户上线，请确定您的电脑已经接入互联网。如果帐户名称后面出现警告图标，则可以点按它了解更多信息。<\/p><p class='p'><a class='xref' href='#mlhlp1189'>使用连接诊断<\/a><\/p><p class='p'>如果您没有权限访问某些邮箱（如服务器上的“公共”邮箱），或者如果邮件服务器不可用，则这些邮箱名称会显示为灰色，<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>显示或隐藏边栏<\/a><\/div><\/div><div class='linklist linklist'><strong>打开<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple 支持文章：“Troubleshooting sending &amp; receiving email messages”（排除发送和接收电子邮件的故障）<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "如果邮箱离线",
+      "name" : "如果邮箱离线",
+      "summary" : "离线帐户由边栏中的闪电图标表示。 尝试让帐户重新在线。"
+    },
+    "mail34867-d" : {
+      "name" : "整理邮件"
+    },
+    "mail34867-e" : {
+      "name" : "自定邮件"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "本地可搜索的内容",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>邮件<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>邮件<\/h2><p class='p'>使用您的现有电子邮件帐户，从一个地方发送和接收邮件。<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "邮件",
+      "name" : "邮件",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "针对您的所有帐户发送和接收邮件",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "查看对话",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "搜索邮件",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "解决 Mail 问题",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "让发件人成为 VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "给邮件标上旗标以便进行操作",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "查看、存储和删除附件",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "查看邮件",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "打印邮件",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "回复邮件",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "转发邮件",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "添加附件",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "移动和拷贝邮件",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "删除邮件",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "使用规则管理邮件",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "创建邮箱",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "删除邮箱",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "自定邮件标头",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "自定邮件通知的显示时间",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "更改代表您或收件人的图片",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "自定 Mail 工具栏",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "zh_CN",
+    "buildID" : "7860C748-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "邮件",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

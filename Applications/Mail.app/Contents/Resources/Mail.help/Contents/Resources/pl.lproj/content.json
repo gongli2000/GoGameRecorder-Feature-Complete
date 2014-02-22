@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Podstawy"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Korzystanie z informacji o połączeniach<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Jeśli nie możesz wysyłać lub odbierać wiadomości, może oznaczać to problem z połączeniem z Internetem lub serwerem pocztowym. W oknie informacji o połączeniu można sprawdzić stan połączenia i uzyskać dodatkowe informacje.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Wybierz polecenie menu Okno > Informacje o połączeniach.<\/span><\/li><li class='li step'><span class='ph cmd'>Przejrzyj wyświetlone informacje:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Sprawdź status połączenia z Internetem. Czerwona kropka statusu oznacza, że Mail w ogóle nie może połączyć się z Internetem. Kliknij w Diagnostyka sieci, aby zająć się tym problemem i przywrócić połączenie z Internetem.<\/p><\/li><li class='li choice'><p class='p'>Sprawdź status konta. Czerwona kropka (Jeśli dostępne jest połączenie z Internetem) oznacza problem z serwerem pocztowym lub konfiguracją konta. Postępuj wg instrukcji w kolumnie Szczegóły: kliknij w nie dwukrotnie, otwarty zostanie panel Konta w preferencjach programu Mail.<\/p><\/li><li class='li choice'><p class='p'>Jeśli chcesz zobaczyć dziennik z informacjami o problemach z połączeniem z serwerem, kliknij w Pokaż szczegóły, aby wyświetlić panel szczegółów. Następnie kliknij w Sprawdź ponownie, aby zobaczyć w dzienniku raport z przebiegu ponownej próby połączenia.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Po zakończeniu ponownie kliknij w Sprawdź ponownie, aby zobaczyć, czy dokonane zmiany rozwiązały problem.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Jeśli problem się powtarza, skontaktuj się z dostawcą konta.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Podobne tematy<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Gdy nie można wysyłać wiadomości<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Gdy nie można odbierać wiadomości<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Informacje o połączeniach, problemy z wysyłaniem lub odbieraniem wiadomości",
+      "name" : "Korzystanie z informacji o połączeniach",
+      "alternativeName" : "Korzystanie z informacji o połączeniach",
+      "summary" : "Okno informacji o połączeniach może pomóc w przypadku kłopotów z wysyłaniem lub odbieraniem wiadomości."
+    },
+    "mail34867-b" : {
+      "name" : "Przeglądanie poczty"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Wysyłanie poczty"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Wybrany temat jest aktualnie niedostępny<\/h1><div class='body conbody'><p class='p'>Upewnij się, że działa połączenie komputera z Internetem. Jeśli potrzebujesz pomocy dotyczącej łączenia z Internetem, wybierz polecenie menu Apple &amp;gt; Preferencje systemowe, kliknij w Sieć, a następnie kliknij w Pomóż mi.<\/p><p class='p'>Jeśli komputer jest połączony z Internetem, a żądana strona nadal nie jest dostępna, spróbuj ponownie później.<\/p><\/div><\/div>",
+      "alternativeName" : "Wybrany temat jest aktualnie niedostępny",
+      "name" : "Wybrany temat jest aktualnie niedostępny",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Co nowego w programie Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail w systemie OS X Mountain Lion zawiera szereg istotnych nowych funkcji, dzięki którym wysyłanie, odbieranie i przeglądanie poczty jest jeszcze łatwiejsze.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>Kontakty VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Mail pozwala kontrolować wiadomości otrzymane od szczególnie ważnych osób poprzez dodanie ich adresu do kontaktów VIP. Osoby o statusie VIP oznaczone są gwiazdką obok ich nazwisk w wiadomościach przysłanych przez te osoby. Dla każdej takiej osoby Mail dodaje w pasku Ulubione osobną skrzynkę pocztową. Dzięki temu łatwo jest otwierać wiadomości od osób o statusie VIP.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Dodawanie nadawcy do kontaktów VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Powiadomienia o nowych wiadomościach<\/h2><div class='body taskbody'><div class='section context'><p class='p'>W preferencjach Mail można ustawić opcję pozwalającą wyświetlać powiadomienia o zmianie zawartości skrzynki pocztowej lub nadejściu wiadomości od konkretnego nadawcy<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Ustawianie wyświetlania powiadomień w Mail<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Udostępnianie stron www w różnych formatach<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Gdy udostępniasz stronę www w Safari, możesz wybrać format, w jakim zostanie wysłana. Na przykład, można wysłać łącze lub plik PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Wysyłanie stron www z Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Podobne tematy<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Wysyłanie oraz odbieranie poczty na każdym z kont<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Co nowego w programie Mail?",
+      "name" : "Co nowego w programie Mail?",
+      "summary" : "Poznaj nowe funkcje programu Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Pomoc Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoc Mail<\/h2><p class='p'>Tematy do przeszukiwania<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoc Mail",
+      "name" : "Pomoc Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Gdy skrzynka pocztowa jest poza siecią<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Gdy konto pocztowe jest pozbawione dostępu do sieci, obok jego nazwy na pasku bocznym okna programu Mail widoczna jest ikona błyskawicy. Jeśli masz kilka kont pocztowych, niektóre z nich mogą być pracować w sieci, inne — poza siecią. Możesz przełączać na pracę w sieci pojedyncze lub wszystkie konta.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Jeśli chcesz przełączyć jedno konto na pracę w sieci, wybierz polecenie menu Skrzynka pocztowa > Status pracy w sieci > Przełącz [nazwa konta] na pracę w sieci.<\/span><\/li><li class='li step'><span class='ph cmd'>Jeśli chcesz przełączyć wszystkie konta na pracę w sieci, wybierz polecenie menu Skrzynka pocztowa > Przełącz wszystkie konta na pracę w sieci. Możesz także kliknąć w ikonę błyskawicy.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Brak możliwości przełączenia konta na pracę w sieci może oznaczać brak połączenia z Internetem. Gdy obok nazwy konta widnieje ikona ostrzegawcza, możesz w nią kliknąć, aby uzyskać więcej informacji.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Korzystanie z informacji o połączeniach<\/a><\/p><p class='p'>Wyszarzona nazwa skrzynki pocztowej może oznaczać, że nie masz do niej praw dostępu (np. jest to skrzynka „publiczne” na serwerze) lub że serwer poczty jest niedostępny.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Podobne tematy<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Pokazywanie lub ukrywanie paska bocznego<\/a><\/div><\/div><div class='linklist linklist'><strong>Otwórz<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Artykuł wsparcia technicznego Apple: Rozwiązywanie problemów z wysyłaniem i odbieraniem wiadomości<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Gdy skrzynka pocztowa jest poza siecią",
+      "name" : "Gdy skrzynka pocztowa jest poza siecią",
+      "summary" : "Konto bez połączenia z siecią oznaczane jest na pasku bocznym ikoną błyskawicy. Spróbuj ponownie przełączyć konto na pracę w sieci."
+    },
+    "mail34867-d" : {
+      "name" : "Porządkowanie poczty"
+    },
+    "mail34867-e" : {
+      "name" : "Dostosowanie programu Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokalne materiały do przeszukiwania",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Pomoc Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomoc Mail<\/h2><p class='p'>Używaj swoich kont pocztowych oraz wysyłaj i odbieraj pocztę w jednym miejscu.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomoc Mail",
+      "name" : "Pomoc Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Wysyłanie oraz odbieranie poczty na każdym z kont",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Wyświetlanie rozmów",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Przeszukiwanie wiadomości",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Rozwiązywanie problemów z programem Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Dodawanie nadawcy do kontaktów VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sygnalizowanie wiadomości",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Wyświetlanie, zachowywanie i usuwanie załączników",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Wyświetlanie wiadomości",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Drukowanie wiadomości",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Odpowiadanie na wiadomości",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Przesyłanie wiadomości dalej",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dodawanie załączników",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Przenoszenie i kopiowanie wiadomości",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Usuwanie wiadomości",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zarządzanie wiadomościami za pomocą reguł",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tworzenie skrzynek pocztowych",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Usuwanie skrzynek pocztowych",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Dostosowanie nagłówka wiadomości",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ustawianie wyświetlania powiadomień w Mail",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zmienianie obrazków reprezentujących Ciebie lub odbiorców",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Dostosowanie pasków narzędzi programu Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "pl",
+    "buildID" : "6AC86E7E-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Pomoc Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

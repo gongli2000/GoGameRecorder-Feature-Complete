@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Aspectos básicos"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Utilizar el Inspector de conexión<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Si no puede enviar o recibir mensajes, es posible que el problema se deba a la conexión de Internet o a un servidor de correo. Utilice el inspector de conexión de Mail como ayuda para comprobar el estado de la conexión y obtener información.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Seleccione Ventana > Inspector de conexión.<\/span><\/li><li class='li step'><span class='ph cmd'>Revise la información de estado:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Compruebe el estado de su conexión a Internet. Un botón de estado de color rojo indica que Mail no puede conectarse a Internet. Haga clic en “Diagnóstico de red” para averiguar cuál es el problema y restaurar una conexión a Internet.<\/p><\/li><li class='li choice'><p class='p'>Compruebe el estado de su cuenta. Un botón de estado de color rojo (cuando está conectado a Internet) indica un problema con un servidor de correo o con la configuración de cuenta. Siga las instrucciones de la columna Detalles; haga doble clic en el texto de la columna para abrir el panel Cuentas de las preferencias de Mail.<\/p><\/li><li class='li choice'><p class='p'>Para consultar la información de registro sobre los problemas de conexión al servidor, haga clic en “Mostrar detalles” para visualizar el panel de detalles. Después, haga clic en \"Comprobar de nuevo\" para consultar el registro cuando Mail intente volver a conectarse.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Cuando termine, haga clic en \"Comprobar de nuevo\" para ver si los cambios realizados resolvieron el problema.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Si el problema persiste, póngase en contacto con el proveedor de su cuenta.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Temas relacionados<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Si no puede enviar mensajes<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Si no puede recibir mensajes<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Inspector de conexión, problemas al enviar o recibir correo electrónico",
+      "name" : "Utilizar el Inspector de conexión",
+      "alternativeName" : "Utilizar el Inspector de conexión",
+      "summary" : "Si no puede enviar o recibir mensajes, utilice el Inspector de conexión para intentar solucionar el problema."
+    },
+    "mail34867-b" : {
+      "name" : "Ver el correo"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Enviar correo"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>El tema seleccionado no está disponible en estos momentos<\/h1><div class='body conbody'><p class='p'>Asegúrese de que está conectado a Internet. Si necesita ayuda para conectarse, seleccione menú Apple > Preferencias del Sistema, haga clic en Red y, a continuación, haga clic en Asistente.<\/p><p class='p'>Si ya está conectado a Internet pero no se muestra el contenido del tema, inténtelo de nuevo más tarde.<\/p><\/div><\/div>",
+      "alternativeName" : "El tema seleccionado no está disponible en estos momentos",
+      "name" : "El tema seleccionado no está disponible en estos momentos",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Novedades de Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail en OS X Mountain Lion ofrece novedades importantes que hacen todavía más sencillo enviar, recibir y ver su correo.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>Contactos VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Haga un seguimiento de todos los mensajes que reciba de personas de especial importancia convirtiendo a dichas personas en contactos VIP. Los contactos VIP se identifican mediante la estrella situada junto a su nombre en los mensajes que le envían. Mail añade un buzón para cada contacto VIP en la barra Favoritos, de manera que le resulte fácil acceder a sus mensajes.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Convertir a un remitente en un contacto VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Notificaciones de mensajes nuevos<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Puede ajustar una opción en las preferencias de Mail para mostrar notificaciones basadas en el buzón al que llegan los mensajes o en el remitente.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Personalizar cuándo deben mostrarse las notificaciones de correo<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Compartir páginas web en diferentes formatos<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Cuando se comparte una página web desde Safari, es posible seleccionar el formato en el que se envía. Por ejemplo, se puede enviar como un enlace o un PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Enviar una página web compartida desde Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Temas relacionados<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Enviar y recibir correo en todas sus cuentas<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Novedades de Mail",
+      "name" : "Novedades de Mail",
+      "summary" : "Conozca las nuevas funciones de Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Ayuda Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ayuda Mail<\/h2><p class='p'>Búsqueda de temas<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ayuda Mail",
+      "name" : "Ayuda Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Si un buzón se ha desconectado<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Cuando una cuenta no tiene conexión, junto a ella aparece el icono de un rayo en la barra lateral de Mail. Si tiene varias cuentas, es posible que algunas no tengan conexión, mientras que otras sí tienen conexión. Es posible volver a conectar una sola cuenta o todas a la vez.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Para conectar solo una cuenta, seleccione Buzón > Estado de conexión > Conectar [nombre de cuenta].<\/span><\/li><li class='li step'><span class='ph cmd'>Para conectar todas sus cuentas, seleccione Buzón > Conectar todas las cuentas. También puede hacer clic en el icono de un rayo.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Si no puede conectar una cuenta, compruebe que está conectado a Internet. Si aparece un icono de advertencia tras el nombre de la cuenta, puede hacer clic en él para obtener más información.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Utilizar el Inspector de conexión<\/a><\/p><p class='p'>Algunos nombres de buzones pueden aparecer en gris si no tiene permiso para acceder a ellos, como los buzones “públicos” de un servidor, o si el servidor de correo no se encuentra disponible.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Temas relacionados<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Mostrar u ocultar la barra lateral<\/a><\/div><\/div><div class='linklist linklist'><strong>Abrir<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Artículo de soporte de Apple: Solución de problemas de envío y recepción de mensajes de correo electrónico<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Si un buzón se ha desconectado",
+      "name" : "Si un buzón se ha desconectado",
+      "summary" : "Una cuenta sin conexión se indica con el icono de un rayo en la barra lateral. Intente volver a conectar la cuenta."
+    },
+    "mail34867-d" : {
+      "name" : "Organizar el correo"
+    },
+    "mail34867-e" : {
+      "name" : "Personalizar Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "búsqueda de contenido local",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Ayuda Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ayuda Mail<\/h2><p class='p'>Utilice las cuentas de correo electrónico de las que disponga para enviar y recibir correo desde un único lugar.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ayuda Mail",
+      "name" : "Ayuda Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Enviar y recibir correo en todas sus cuentas",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ver conversaciones",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Buscar mensajes",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Resolver problemas de Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Convertir a un remitente en un contacto VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Marcar mensajes para una acción",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ver, guardar y eliminar archivos adjuntos",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ver mensajes",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Imprimir mensajes",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Responder a los mensajes",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Reenviar mensajes",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Añadir archivos adjuntos",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Trasladar y copiar mensajes",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Eliminar mensajes",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Gestionar mensajes mediante reglas",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Crear buzones",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Eliminar buzones",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Personalizar la cabecera de un mensaje",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalizar cuándo deben mostrarse las notificaciones de correo",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Cambiar las imágenes que le representan a usted o a los destinatarios",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalizar las barras de herramientas de Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "es",
+    "buildID" : "5D50A036-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Ayuda Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

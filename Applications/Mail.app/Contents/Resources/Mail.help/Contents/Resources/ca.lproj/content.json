@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Components essencials"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Utilitzar l'Inspector de connexió<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Si no podeu enviar o rebre missatges, potser teniu un problema de connexió a Internet o al servidor de correu. Podeu utilitzar l'Inspector de connexió de Mail per consultar l'estat de la connexió i obtenir informació.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Seleccioneu Finestra > Inspector de connexió.<\/span><\/li><li class='li step'><span class='ph cmd'>Reviseu la informació d'estat:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Comproveu l'estat de la connexió a Internet. Un botó d'estat vermell indica que Mail no es pot connectar a Internet. Feu clic a “Diagnòstic de Xarxa” per localitzar el problema i restaurar una connexió a Internet.<\/p><\/li><li class='li choice'><p class='p'>Comproveu l'estat del compte. Un botó d'estat vermell (quan esteu connectat a Internet) indica un problema amb un servidor de correu o amb la configuració del compte. Seguiu les instruccions de la columna Detalls; feu doble clic al text de la columna per obrir el tauler Comptes de les preferències de Mail.<\/p><\/li><li class='li choice'><p class='p'>Per veure la informació del registre sobre els problemes de connexió amb el servidor, feu clic a “Mostrar els detalls” per consultar un tauler de detalls. A continuació, feu clic a “Comprovar-ho de nou” per veure l'arxiu de registre quan Mail torni a provar de connectar-se.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Quan hagueu acabat, feu clic a “Comprovar-ho de nou” per veure si els canvis han resolt el problema.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Si el problema no es resol, poseu-vos en contacte amb el proveïdor del compte.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Temes relacionats<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Si els missatges no s'envien<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Si no es poden rebre missatges<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Inspector de connexió, problemes per enviar o per rebre correu",
+      "name" : "Utilitzar l'Inspector de connexió",
+      "alternativeName" : "Utilitzar l'Inspector de connexió",
+      "summary" : "Utilitzeu l'Inspector de connexió en cas de problemes per enviar o per rebre correu."
+    },
+    "mail34867-b" : {
+      "name" : "Veure correu"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Enviar correu"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>El tema seleccionat no està disponible ara<\/h1><div class='body conbody'><p class='p'>Comproveu que teniu connexió a Internet. Per obtenir ajuda sobre com establir connexió, seleccioneu el menú Apple > Preferències del Sistema i feu clic a Xarxa i, després, a Assistent.<\/p><p class='p'>Si esteu connectat a Internet però el contingut no apareix, proveu-ho de nou més endavant.<\/p><\/div><\/div>",
+      "alternativeName" : "El tema seleccionat no està disponible ara",
+      "name" : "El tema seleccionat no està disponible ara",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Novetats de Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>L'aplicació Mail d'OS X Mountain Lion ofereix moltes funcions noves que faciliten encara més l'enviament, la recepció i la visualització del correu.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Feu un seguiment dels missatges que rebeu de persones especialment importants fent-los VIP. Els VIPS s'identifiquen amb una estrella al costat del nom als missatges que rebeu d'ells. Mail afegeix una bústia per a cada VIP a la barra Favorits perquè resulti més fàcil trobar aquests missatges.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Convertir un remitent en VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Notificacions per als missatges nous<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Hi ha una opció a les preferències de Mail que us permet mostrar notificacions en funció de la bústia a la qual arriben els missatges o en funció del remitent.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Personalitzar quan es mostren les notificacions de correu<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Compartir pàgines web en diferents formats<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Quan compartiu una pàgina web de Safari, podeu seleccionar amb quin format la voleu enviar. Per exemple, la podeu enviar en PDF o en forma d'enllaç.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Enviar una pàgina web compartida des del Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Temes relacionats<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Enviar i rebre correu per a tots els comptes<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Novetats de Mail",
+      "name" : "Novetats de Mail",
+      "summary" : "Descobriu les noves funcions de Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Ajuda Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajuda Mail<\/h2><p class='p'>Temes de cerca<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajuda Mail",
+      "name" : "Ajuda Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Si una bústia està desconnectada<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Si un compte està desconnectat, apareix amb un llampec al costat a la barra lateral de Mail. Si teniu més d'un compte, és possible que en tingueu algun de desconnectat. Podeu connectar un compte o connectar-los tots.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Per connectar un compte, seleccioneu Bústia > Estat de connexió > Connectar [nom del compte].<\/span><\/li><li class='li step'><span class='ph cmd'>Per connectar tots els comptes, seleccioneu Bústia > Connectar tots els comptes. També podeu fer clic a la icona del llampec.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Si no podeu connectar un compte, assegureu-vos que esteu connectat a Internet. Si apareix una icona d'advertència després del nom del compte, feu-hi clic per obtenir més informació.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Utilitzar l'Inspector de connexió<\/a><\/p><p class='p'>Alguns noms de bústia apareixen en gris quan l'usuari no té permís per accedir-hi, per exemple les bústies “públiques” d'un servidor, o quan el servidor de correu no està disponible.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Temes relacionats<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Mostrar o ocultar la barra lateral<\/a><\/div><\/div><div class='linklist linklist'><strong>Obrir<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Article de suport d'Apple: Resoldre problemes d'enviament i recepció de missatges de correu electrònic<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Si una bústia està desconnectada",
+      "name" : "Si una bústia està desconnectada",
+      "summary" : "Els comptes desconnectats s'assenyalen mitjançant una icona d'un llampec a la barra lateral. Proveu de tornar a connectar el compte."
+    },
+    "mail34867-d" : {
+      "name" : "Organitzar el correu"
+    },
+    "mail34867-e" : {
+      "name" : "Personalitzar Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "contingut local per a les cerques",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Ajuda Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Ajuda Mail<\/h2><p class='p'>Utilitzeu els comptes de correu existents, i envieu i rebeu correu des d'una ubicació.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Ajuda Mail",
+      "name" : "Ajuda Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Enviar i rebre correu per a tots els comptes",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Veure converses",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Buscar missatges",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Resoldre problemes de Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Convertir un remitent en vip",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Marcar un missatge per executar una acció",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Veure, desar i eliminar adjunts",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Veure missatges",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Imprimir missatges",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Respondre missatges",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Reenviar missatges",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Afegir adjunts",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Traslladar i copiar missatges",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Eliminar missatges",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Gestionar missatges mitjançant regles",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Crear bústies",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Eliminar bústies",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Personalitzar la capçalera dels missatges",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalitzar quan es mostren les notificacions de correu",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Canviar les imatges que representen l'usuari o els destinataris",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Personalitzar les barres d'eines de Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "ca",
+    "buildID" : "5784ADFA-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Ajuda Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

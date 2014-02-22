@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Základy"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Použiť funkciu Liečenie pripojenia<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Ak nedokážete odosielať alebo prijímať správy, môžete mať problém s pripojením na internet alebo k emailovému serveru. Pomocou funkcie Liečenie pripojenia pre aplikáciu Mail môžete skontrolovať stav pripojenia a získať viac informácií.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Vyberte položky Okno > Liečenie pripojenia.<\/span><\/li><li class='li step'><span class='ph cmd'>Prezrite si informácie o stave:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Skontrolujte stav pripojenia k internetu. Červený stavový indikátor znamená, že aplikácia Mail sa k internetu nemôže pripojiť. Kliknite na položku Diagnostika siete, ktorá vám pomôže nájsť problém a obnoviť pripojenie k internetu.<\/p><\/li><li class='li choice'><p class='p'>Skontrolujte stav účtu. Červený stavový indikátor (počas pripojenia k internetu) znamená problém s emailovým serverom alebo nastavením účtu. Postupujte podľa pokynov v stĺpci Detaily. Dvakrát kliknite na text v stĺpci a v nastaveniach Mail otvorte panel Účty.<\/p><\/li><li class='li choice'><p class='p'>Ak chcete zobraziť informácie záznamu týkajúce sa problémov s pripojením k serveru, kliknite na tlačidlo Zobraziť detaily a zobrazte panel s podrobnosťami. Kliknite na tlačidlo Skontrolovať znova a zobrazte záznam, zatiaľ čo sa aplikácia Mail pokúša o opätovné pripojenie.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Po ukončení kliknite na tlačidlo Skontrolovať znova, aby ste zistili, či zmeny problém vyriešili.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Ak problém pretrváva, kontaktujte svojho poskytovateľa emailových služieb.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Súvisiace témy<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Ak nie je možné odosielať správy<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Ak nie je možné prijímať správy<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Liečenie pripojenia, problémy s odosielaním a prijímaním emailov",
+      "name" : "Použiť funkciu Liečenie pripojenia",
+      "alternativeName" : "Použiť funkciu Liečenie pripojenia",
+      "summary" : "Ak nemôžete odosielať alebo prijímať správy, použite funkciu Liečenie pripojenia, ktorá vám problémy pomôže vyriešiť."
+    },
+    "mail34867-b" : {
+      "name" : "Zobrazovanie emailov"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Odosielanie emailov"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Vybraná téma je momentálne nedostupná<\/h1><div class='body conbody'><p class='p'>Uistite sa, že máte pripojenie na internet. Pre pomoc s pripojením vyberte menu Apple > Systémové nastavenia, kliknite na Sieť a potom na Asistent.<\/p><p class='p'>Ak máte pripojenie na internet a napriek tomu sa obsah nezobrazuje, skúste to znovu neskôr.<\/p><\/div><\/div>",
+      "alternativeName" : "Vybraná téma je momentálne nedostupná",
+      "name" : "Vybraná téma je momentálne nedostupná",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Čo je nové v aplikácii Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Aplikácia Mail v systéme Mac OS X Mountain Lion prináša množstvo nových funkcií, s ktorými je odosielanie, prijímanie a zobrazovanie správ ešte jednoduchšie.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Venujte viac pozornosti správam prijatým od zvlášť dôležitých ľudí — pridajte ich do skupiny VIP. Správy od ľudí zo skupiny VIP sú označené hviezdičkou vedľa mena odosielateľa. Mail pridá pre každý z týchto kontaktov do lišty pre obľúbené schránku, takže sa jednoducho dostanete k ich správam.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Vytvorenie VIP odosielateľa<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Hlásenia nových správ<\/h2><div class='body taskbody'><div class='section context'><p class='p'>V nastaveniach aplikácie Mail môžete nastaviť zobrazovanie hlásení podľa schránky alebo odosielateľa správy.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Upravenie zobrazovanie emailových hlásení<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Zdieľanie webových stránok v rôznych formátoch<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Pri zdieľaní webovej stránky zo Safari môžete vybrať formát, ktorý bude odoslaný. Môžete ju napríklad odoslať ako odkaz alebo ako PDF súbor.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Odosielanie zdieľaných webových stránok v Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Súvisiace témy<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Odosielanie a prijímanie emailov zo všetkých účtov<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Čo je nové v aplikácii Mail?",
+      "name" : "Čo je nové v aplikácii Mail?",
+      "summary" : "Oboznámte sa s novými funkciami aplikácie Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Pomocník pre Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomocník pre Mail<\/h2><p class='p'>Prehľadávateľné témy<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomocník pre Mail",
+      "name" : "Pomocník pre Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Ak je schránka odpojená<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Keď je účet vypnutý, v postrannom paneli aplikácie Mail sa vedľa neho zobrazí ikona blesku. Ak máte niekoľko účtov, je možné, že niektoré budú vypnuté a súčasne budú iné účty zapnuté. Môžete zapnúť jeden účet alebo všetky účty.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Ak chcete zapnúť jeden účet, vyberte položky Schránka > Stav pripojenia > Pripojiť účet [účet].<\/span><\/li><li class='li step'><span class='ph cmd'>Ak chcete zapnúť všetky účty, vyberte položky Schránka > Pripojiť všetky účty. Môžete tiež kliknúť na ikonu blesku.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Ak nedokážete pripojiť účet, skontrolujte, či ste pripojení na internet. Ak sa za názvom účtu zobrazí ikona upozornenia, kliknutím na ňu môžete zobraziť ďalšie informácie.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Použiť funkciu Liečenie pripojenia<\/a><\/p><p class='p'>Niektoré názvy schránok sa môžu zobrazovať sivé, ak nemáte povolenie na prístup k nim, napríklad schránky „verejné“ na serveri alebo v prípade nedostupnosti emailového servera.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Súvisiace témy<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Zobrazenie alebo skrytie postranného panela<\/a><\/div><\/div><div class='linklist linklist'><strong>Otvoriť<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Článok podpory Apple: Riešenie problémov týkajúcich sa odosielania a prijímania emailových správ<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Ak je schránka odpojená",
+      "name" : "Ak je schránka odpojená",
+      "summary" : "Vypnutý účet je v postrannom paneli označený ikonou blesku. Skúste účet znova zapnúť."
+    },
+    "mail34867-d" : {
+      "name" : "Usporiadanie emailov"
+    },
+    "mail34867-e" : {
+      "name" : "Prispôsobenie aplikácie Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokálny prehľadávateľný obsah",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Pomocník pre Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Pomocník pre Mail<\/h2><p class='p'>Používajte svoje existujúce emailové účty a odosielajte a prijímajte emailové správy na jednom mieste.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Pomocník pre Mail",
+      "name" : "Pomocník pre Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Odosielanie a prijímanie emailov zo všetkých účtov",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazenie konverzácií",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vyhľadávanie správ",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Riešenie problémov s aplikáciou Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Vytvorenie VIP odosielateľa",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Označenie správ pre akciu",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazovanie, ukladanie a vymazávanie príloh",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zobrazovanie správ",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tlač správ",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Odpovedanie na správy",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Preposielanie správ",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Pridávanie príloh",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Presúvanie a kopírovanie správ",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vymazanie správ",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Spravovanie správ pomocou pravidiel",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vytvorenie schránok",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vymazanie schránok",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Upravenie hlavičky správy",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Upravenie zobrazovanie emailových hlásení",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Zmena obrázkov predstavujúcich vás alebo príjemcov",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Prispôsobiť panel s nástrojmi aplikácie Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "sk",
+    "buildID" : "707FFDFA-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Pomocník pre Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

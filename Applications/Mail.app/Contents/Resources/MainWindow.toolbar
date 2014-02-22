@@ -1,0 +1,300 @@
+{
+    "default set" = (
+	    "checkNewMail:",
+        "showComposeWindow:",
+        NSToolbarSpaceItem,
+        NSToolbarFlexibleSpaceItem,
+        "delete_junk",
+        "reply_replyAll_forward",
+        "FlaggedStatus",
+        NSToolbarFlexibleSpaceItem,
+        Search
+    );
+    "toolbar array" = (
+        (
+            {
+                identifier = "delete_junk";
+                tag = 300;
+                segments = (
+                    {
+                        help = "DELETE_TOOLTIP";
+                        identifier = "deleteMessages:";
+                        image = NSToolbarDelete;
+                        imageIsTemplate = 1;
+                        tag = 70;
+		                target = "MessageViewer";
+                        title = "DELETE_TOOLBAR_TITLE";
+                        altTitle = "UNDELETE_TOOLBAR_TITLE";
+                    },
+                    {
+                        help = "TOOLTIP_JUNK";
+                        identifier = "markAsJunkMail:";
+                        image = TB_JunkTemplate;
+                        tag = 0;
+		                target = "MessageViewer";
+                        title = "TOOLBAR_JUNK";
+                        altTitle = "TOOLBAR_NOTJUNK";
+                    }
+                );
+            },
+            {
+                help = "DELETE_TOOLTIP";
+                identifier = "deleteMessages:";
+                image = NSToolbarDelete;
+                imageIsTemplate = 1;
+                tag = 70;
+                target = "MessageViewer";
+                title = "DELETE_TOOLBAR_TITLE";
+                altTitle = "UNDELETE_TOOLBAR_TITLE";
+            },
+            {
+                help = "TOOLTIP_JUNK";
+                identifier = "markAsJunkMail:";
+                image = TB_JunkTemplate;
+                tag = 0;
+                target = "MessageViewer";
+                title = "TOOLBAR_JUNK";
+                altTitle = "TOOLBAR_NOTJUNK";
+            },
+            {
+                help = "ARCHIVE_TOOLTIP";
+                identifier = "archiveMessages:";
+                image = TB_ArchiveTemplate;
+                tag = 0;
+                target = "MessageViewer";
+                title = "ARCHIVE_TOOLBAR_TITLE";
+            },
+            {
+                identifier = "reply_replyAll_forward";
+                tag = 301;
+                segments = (
+                    {
+                        help = "REPLY_TOOLTIP";
+                        identifier = "replyMessage:";
+                        image = TB_ReplyTemplate;
+                        tag = 71;
+		                target = "MessageViewer";
+                        title = "TOOLBAR_REPLY";
+                    },
+                    {
+                        help = "REPLY_TO_ALL_TOOLTIP";
+                        identifier = "replyAllMessage:";
+                        image = TB_Reply_AllTemplate;
+                        tag = 72;
+		                target = "MessageViewer";
+                        title = "TOOLBAR_REPLYALL";
+                    },
+                    {
+                        help = "TOOLTIP_FORWARD";
+                        identifier = "forwardMessage:";
+                        image = TB_ForwardTemplate;
+                        tag = 73;
+		                target = "MessageViewer";
+                        title = "TOOLBAR_FORWARD";
+                    }
+                );
+            },
+            {
+                help = "REPLY_TOOLTIP";
+                identifier = "replyMessage:";
+                image = TB_ReplyTemplate;
+                tag = 71;
+                target = "MessageViewer";
+                title = "TOOLBAR_REPLY";
+            },
+            {
+                help = "REPLY_TO_ALL_TOOLTIP";
+                identifier = "replyAllMessage:";
+                image = TB_Reply_AllTemplate;
+                tag = 72;
+                target = "MessageViewer";
+                title = "TOOLBAR_REPLYALL";
+            },
+            {
+                help = "TOOLTIP_FORWARD";
+                identifier = "forwardMessage:";
+                image = TB_ForwardTemplate;
+                tag = 73;
+                target = "MessageViewer";
+                title = "TOOLBAR_FORWARD";
+            },
+            {
+                identifier = "FlaggedStatus";
+                image = empty;
+                tag = 146;
+                target = "MessageViewer";
+                title = "SET_FLAGGED_STATUS_TOOLBAR_TITLE";
+            },
+            {
+                help = "TOOLTIP_MOVE";
+                identifier = "moveMessagesFromToolbar:";
+                image = TB_MoveTemplate;
+                tag = 151;
+                target = "MessageViewer";
+                action = "submenuAction:";
+                title = "TOOLBAR_MOVE";
+            },
+            {
+                help = "TOOLTIP_COPY";
+                identifier = "copyMessagesFromToolbar:";
+                image = TB_CopyTemplate;
+                tag = 152;
+                target = "MessageViewer";
+                action = "submenuAction:";
+                title = "TOOLBAR_COPY";
+            },
+            {
+                help = "TOOLTIP_CHAT_WITH_SENDER";
+                identifier = "replyViaIM:";
+                image = TB_iChatTemplate;
+                tag = 104;
+                target = "MessageViewer";
+                title = "TOOLBAR_CHAT";
+            },
+            {
+                help = "TOOLTIP_REDIRECT";
+                identifier = "redirectMessage:";
+                image = TB_RedirectTemplate;
+                tag = 101;
+                target = "MessageViewer";
+                title = "TOOLBAR_REDIRECT";
+            },
+            {
+                help = "TOOLTIP_COMPOSE";
+                identifier = "showComposeWindow:";
+                image = NSToolbarCompose;
+                tag = 74;
+                title = "TOOLBAR_COMPOSE";
+            },
+            {
+                help = "TOOLTIP_GETMAIL";
+                identifier = "checkNewMail:";
+                image = TB_Get_MailTemplate;
+                tag = 76;
+                title = "TOOLBAR_GETMAIL";
+            },
+            {
+                help = "TOOLTIP_SIDEBAR";
+                identifier = "toggleMailboxesPane:";
+                image = TB_SidebarTemplate;
+                tag = 75;
+                target = "MessageViewer";
+				title = "TOOLBAR_SIDEBAR";
+            },
+            {
+                help = "TOOLTIP_PRINT";
+                identifier = "showPrintPanel:";
+                image = TB_PrintTemplate;
+                tag = 85;
+                target = "MessageViewer";
+                title = "TOOLBAR_PRINT";
+            },
+            {
+                help = "TOOLTIP_HEADERS";
+                identifier = "showAllHeaders:";
+                image = TB_ShowHeadersTemplate;
+                tag = "-1";
+                paletteLabel = "TOOLBAR_PALETTE_HEADERS";
+                title = "TOOLBAR_SHOW_LONG_HEADERS";
+                altTitle = "TOOLBAR_HIDE_LONG_HEADERS";
+            },
+            {
+                identifier = "unread_read";
+                tag = 303;
+                segments = (
+                    {
+                        help = "TOOLBAR_TOOLTIP_MARKUNREAD";
+                        identifier = "markAsUnreadFromToolbar:";
+                        image = TB_UnreadTemplate;
+                        tag = 0;
+                        title = "TOOLBAR_MARK_UNREAD";
+                    },
+                    {
+                        help = "TOOLBAR_TOOLTIP_TOOLBAR_MARKREAD";
+                        identifier = "markAsReadFromToolbar:";
+                        image = TB_ReadTemplate;
+                        tag = 0;
+                        title = "TOOLBAR_MARK_READ";
+                    }
+                );
+            },
+            {
+                help = "TOOLBAR_TOOLTIP_ONLINE";
+                identifier = "disconnectAllAccounts:";
+                behavior = "toggle";
+                image = TB_OfflineTemplate;
+                tag = "-1";
+                title = "TOOLBAR_GO_OFFLINE";
+                altTitle = "TOOLBAR_GO_ONLINE";
+                paletteLabel = "GO_OFFLINE";
+            },
+            {
+                help = "TOOLTIP_ADD_ADDRESS";
+                identifier = "addSenderToAddressBook:";
+                image = TB_AddToAddressBookTemplate;
+                paletteLabel = "TOOLBAR_PALETTE_ADD_ADDRESS";
+                tag = "-1";
+                title = "TOOLBAR_ADD_ADDRESS";
+            },
+            {
+                help = "TOOLTIP_ADDRESS";
+                identifier = "showAddressPanel:";
+                image = TB_AddressBookTemplate;
+                tag = 0;
+                title = "TOOLBAR_ADDRESS";
+            },
+            {
+                help = "TOOLTIP_COLORS";
+                identifier = "orderFrontColorPanel:";
+                image = TB_Colors;
+                tag = "-1";
+                title = "TOOLBAR_COLORS";
+            },
+            {
+                help = "TOOLTIP_SEARCH";
+                identifier = Search;
+                image = empty;
+                tag = 100;
+                title = "MV_SEARCH_FIELD_LABEL";
+            },
+            {
+                identifier = "font_smaller_bigger";
+                tag = 302;
+                segments = (
+                    {
+                        help = "TOOLTIP_SMALLER";
+                        identifier = "makeFontSmaller:";
+                        image = TB_FontSmallerTemplate;
+                        tag = "-1";
+                        title = "TOOLBAR_SMALLER";
+                    },
+                    {
+                        help = "TOOLTIP_BIGGER";
+                        identifier = "makeFontBigger:";
+                        image = TB_FontBiggerTemplate;
+                        tag = "-1";
+                        title = "TOOLBAR_BIGGER";
+                    }
+                );
+            },
+            {
+                help = "TOOLTIP_ORGANIZE_BY_CONVERSATIONS";
+                identifier = "toggleThreadedMode:";
+                image = TB_ThreadsTemplate;
+                tag = 0;
+                title = "CONVERSATIONS_TOOLBAR_TITLE";
+                altTitle = "NOCONVERSATIONS_TOOLBAR_TITLE";
+            },
+            {
+                help = "TOOLTIP_HIDE_RELATED_MESSAGES";
+                identifier = "toggleViewRelatedMessages:";
+                image = TB_RelatedMessagesTemplate;
+                tag = "102";
+                target = "MessageViewer";
+                title = "HIDE_RELATED_MESSAGES_TOOLBAR_TITLE";
+                altTitle = "SHOW_RELATED_MESSAGES_TOOLBAR_TITLE";
+                paletteLabel = "SHOW_HIDE_RELATED_MESSAGES_TOOLBAR_PALETTE_LABEL";
+            },
+        )
+    );
+}

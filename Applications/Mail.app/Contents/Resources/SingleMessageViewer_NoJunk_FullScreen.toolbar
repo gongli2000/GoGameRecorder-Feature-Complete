@@ -1,0 +1,99 @@
+{
+    "default set" = (
+        "performClose:",
+        "7px space",
+        "deleteMessages:",
+        "22px space",
+        "replyMessage:",
+        "0px space",
+        "replyAllMessage:",
+        "0px space",
+        "forwardMessage:",
+        NSToolbarFlexibleSpaceItem,
+        "showPrintPanel:",
+        "5px space",
+        "toggleFlaggedStatusInFullScreen:",
+        "showFlagMenuInFullScreen:",
+    );
+    "toolbar array" = (
+        (
+            {
+                textButton = 1;
+                help = "TOOLTIP_CLOSE_VIEWER";
+                identifier = "performClose:";
+                tag = -1;
+                target = "MessageViewer";
+                title = "TOOLBAR_CLOSE_VIEWER";
+                label = "TOOLBAR_CLOSE_VIEWER";
+            },
+            {
+                help = "DELETE_TOOLTIP";
+                identifier = "deleteMessages:";
+                image = TB_Delete_Fullscreen;
+                inactiveImage = TB_Delete_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 70;
+                title = "DELETE_TOOLBAR_TITLE";
+                altTitle = "UNDELETE_TOOLBAR_TITLE";
+            },
+            {
+                help = "REPLY_TOOLTIP";
+                identifier = "replyMessage:";
+                image = TB_Reply_FullscreenTemplate;
+                inactiveImage = TB_Reply_FullscreenTemplate;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 71;
+                title = "TOOLBAR_REPLY";
+            },
+            {
+                help = "REPLY_TO_ALL_TOOLTIP";
+                identifier = "replyAllMessage:";
+                image = TB_Reply_All_FullscreenTemplate;
+                inactiveImage = TB_Reply_All_FullscreenTemplate;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 72;
+                title = "TOOLBAR_REPLYALL";
+            },
+            {
+                help = "TOOLTIP_FORWARD";
+                identifier = "forwardMessage:";
+                image = TB_Forward_Fullscreen;
+                inactiveImage = TB_Forward_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 73;
+                title = "TOOLBAR_FORWARD";
+            },
+            {
+                help = "TOOLTIP_PRINT_COMPOSE";
+                identifier = "showPrintPanel:";
+                image = TB_Print_Fullscreen;
+                inactiveImage = TB_Print_Fullscreen;
+                imageIsTemplate = 1;
+                borderless = 1;
+                tag = 85;
+                title = "TOOLBAR_PRINT";
+            },
+            {
+                identifier = "toggleFlaggedStatusInFullScreen:";
+                image = "fullscreen_flagged-0";
+                inactiveImage = "fullscreen_flagged-0";
+                borderless = 1;
+                tag = 153;
+                target = "MessageViewer";
+                title = "SET_FLAGGED_STATUS_TOOLBAR_TITLE";
+            },
+            {
+                identifier = "showFlagMenuInFullScreen:";
+                image = empty;
+                borderless = 1;
+                tag = 154;
+                target = "MessageViewer";
+                title = "SET_FLAGGED_STATUS_TOOLBAR_TITLE";
+            },
+        )
+    );
+}

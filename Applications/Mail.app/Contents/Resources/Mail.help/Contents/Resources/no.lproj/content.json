@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Viktige punkter"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Bruk Forbindelsesoversikt<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Hvis du ikke kan sende eller motta meldinger, er det mulig at det er problemer med å koble til Internett eller en e-posttjener. Du kan bruke e-postforbindelsesoversikten til å sjekke forbindelsesstatus og få informasjon.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Velg Vindu > Forbindelsesoversikt.<\/span><\/li><li class='li step'><span class='ph cmd'>Kontroller statusinformasjonen:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Kontroller Internett-tilkoblingen. En rød statusknapp betyr at Mail ikke kan koble til Internett. Klikk på Nettverksdiagnostikk for hjelp til å spore opp problemet og gjenopprette Internett-tilkoblingen.<\/p><\/li><li class='li choice'><p class='p'>Kontroller kontostatusen. En rød statusknapp (når du er tilkoblet Internett) betyr at det er et problem med en e-posttjener eller kontooppsettet. Følg instruksjonene i kolonnen Detaljer. Dobbeltklikk på teksten i kolonnen for å åpne Kontoer-panelet i Mail-valg.<\/p><\/li><li class='li choice'><p class='p'>Hvis du vil se logginformasjon om tjenertilkoblingsproblemer, klikker du på Vis detaljer for å vise et detaljpanel. Klikk deretter på Kontroller på nytt for å se på loggen samtidig som Mail prøver å koble seg opp på nytt.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Når du er ferdig, klikker du på Kontroller på nytt for å se om endringene løste problemet.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Hvis problemet vedvarer, må du ta kontakt med kontoleverandøren.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Beslektede emner<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Hvis du ikke kan sende meldinger<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Hvis du ikke kan motta meldinger<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Forbindelsesoversikt, problemer med å sende eller motta e-post",
+      "name" : "Bruk Forbindelsesoversikt",
+      "alternativeName" : "Bruk Forbindelsesoversikt",
+      "summary" : "Hvis du ikke kan sende eller motta meldinger, kan Forbindelsesoversikt hjelpe deg med å løse problemet."
+    },
+    "mail34867-b" : {
+      "name" : "Vis e-post"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Send e-post"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Det markerte emnet er ikke tilgjengelig for øyeblikket<\/h1><div class='body conbody'><p class='p'>Kontroller at du er koblet til Internett. Hvis du trenger hjelp til å koble til, velger du Apple-menyen > Systemvalg, klikker på Nettverk og klikker på «Hjelp meg».<\/p><p class='p'>Hvis du er koblet til Internett, men innholdet likevel ikke vises, prøver du igjen senere.<\/p><\/div><\/div>",
+      "alternativeName" : "Det markerte emnet er ikke tilgjengelig for øyeblikket",
+      "name" : "Det markerte emnet er ikke tilgjengelig for øyeblikket",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Nytt i Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail i OS X Mountain Lion har nye funksjoner som gjør det enda enklere å sende, motta og vise e-postmeldinger.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP-er<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Hold oversikt over meldinger du får fra spesielt viktige personer, ved å legge dem til som VIP-er. VIP-er vises med en stjerne ved siden av navnene deres i meldinger du mottar fra dem. Mail legger til en postkasse for hver VIP i favorittlinjen slik at det er enkelt å finne fram til meldingene deres.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Gjør en avsender til VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Varslinger for nye meldinger<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Du kan angi i Mail-valg at varslinger skal vises basert på postkassen meldinger mottas i, eller basert på avsender.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Tilpass når e-postvarslinger vises<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Del nettsider i forskjellige formater<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Når du deler en nettside fra Safari, kan du velge i hvilket format den skal sendes. Du kan for eksempel sende den som en kobling eller som en PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Send en nettside du deler fra Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Beslektede emner<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Send og motta e-post for alle kontoene dine<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Nytt i Mail",
+      "name" : "Nytt i Mail",
+      "summary" : "Lær om nye funksjoner i Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail-hjelp<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-hjelp<\/h2><p class='p'>Searchable Topics<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-hjelp",
+      "name" : "Mail-hjelp",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Hvis en postkasse er frakoblet<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Når en konto er frakoblet, vises det et lynsymbol vises ved siden av den i Mail-sidepanelet. Hvis du har flere kontoer, er det mulig at noen kontoer er frakoblet og noen tilkoblet. Du kan koble til en eller alle kontoene.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Hvis du bare vil koble til én konto, velger du Postkasse > Tilkoblingsstatus > Koble til [kontonavn].<\/span><\/li><li class='li step'><span class='ph cmd'>Hvis du vil koble til alle frakoblede kontoer, velger du Postkasse > Koble til alle kontoer. Du kan også klikke på lynsymbolet.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Hvis du ikke får koblet til en konto, kontrollerer du at maskinen er koblet til Internett. Hvis det vises et advarselssymbol etter kontonavnet, kan du klikke på det for å få mer informasjon.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Bruk Forbindelsesoversikt<\/a><\/p><p class='p'>Noen postkassenavn kan vises som grå hvis du ikke har tillatelse til å vise dem, for eksempel «delte» postkasser på en tjener eller hvis e-posttjeneren er utilgjengelig.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Beslektede emner<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Vis eller skjul sidepanelet<\/a><\/div><\/div><div class='linklist linklist'><strong>Åpne<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple Support-artikkel: Løse problemer med å sende og motta e-postmeldinger<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Hvis en postkasse er frakoblet",
+      "name" : "Hvis en postkasse er frakoblet",
+      "summary" : "En frakoblet konto vises med et lynsymbol i sidepanelet. Prøv å koble til kontoen igjen."
+    },
+    "mail34867-d" : {
+      "name" : "Organiser e-post"
+    },
+    "mail34867-e" : {
+      "name" : "Tilpass Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokalt søkbart innhold",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail-hjelp<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-hjelp<\/h2><p class='p'>Bruk de eksisterende e-postkontoene dine, og send og motta e-post fra ett sted.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-hjelp",
+      "name" : "Mail-hjelp",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Send og motta e-post for alle kontoene dine",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vis brevvekslinger",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Søk i meldinger",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Løs problemer i Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Gjør en avsender til VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Flagg meldinger",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vis, arkiver og slett vedlegg",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vis meldinger",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Skriv ut meldinger",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Svar på meldinger",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Videresend meldinger",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Legg til vedlegg",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Flytt og kopier meldinger",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Slett meldinger",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Organiser meldinger ved hjelp av regler",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Opprett postkasser",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Slett postkasser",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Tilpass et meldingshode",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tilpass når e-postvarslinger vises",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Endre bildene som viser deg eller mottakerne",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Tilpass verktøylinjene i Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "no",
+    "buildID" : "69A3DF7E-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail-hjelp",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Wichtige Themen"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Verwenden der Funktion „Verbindung prüfen“<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wenn Sie keine E-Mails senden oder empfangen können, besteht eventuell ein Verbindungsproblem mit dem Internet oder einem Mail-Server. Mit der Funktion „Verbindung prüfen“ können Sie den Verbindungsstatus überprüfen und Informationen anzeigen.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Wählen Sie „Fenster“ > „Verbindung prüfen“.<\/span><\/li><li class='li step'><span class='ph cmd'>Prüfen Sie die Statusinformationen:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Prüfen Sie den Status der Internetverbindung. Eine rote Statusanzeige bedeutet, dass das Programm „Mail“ keine Internetverbindung herstellen kann. Klicken Sie auf „Netzwerkdiagnose“, um das Problem zu finden und die Internetverbindung wiederherzustellen.<\/p><\/li><li class='li choice'><p class='p'>Prüfen Sie Ihren Accountstatus. Eine rote Statusanzeige (bei bestehender Internetverbindung) weist auf ein Problem mit dem Mail-Server oder Ihrer Accountkonfiguration hin. Befolgen Sie die Anweisungen in der Spalte „Details“. Wählen Sie den Text in der Spalte durch Doppelklicken aus, um den Bereich „Accounts“ in den Mail-Einstellungen zu öffnen.<\/p><\/li><li class='li choice'><p class='p'>Klicken Sie auf „Details einblenden“, um Protokollinformationen zu Problemen mit der Serververbindung anzuzeigen. Klicken Sie dann auf „Erneut prüfen“, um das Protokoll anzuzeigen, während das Programm „Mail“ versucht, erneut eine Verbindung herzustellen.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Klicken Sie anschließend auf „Erneut prüfen“, um zu prüfen, ob das Problem durch Ihre Änderungen behoben wurde.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Besteht das Problem weiterhin, wenden Sie sich an Ihren Accountanbieter.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwandte Themen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Sie können keine E-Mails senden<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Sie können keine E-Mails empfangen<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Funktion „Verbindung prüfen“, Probleme beim Senden oder Empfangen von E-Mails",
+      "name" : "Verwenden der Funktion „Verbindung prüfen“",
+      "alternativeName" : "Verwenden der Funktion „Verbindung prüfen“",
+      "summary" : "Wenn Sie keine E-Mails senden oder empfangen können, verwenden Sie zur Fehlerbeseitigung die Funktion „Verbindung prüfen“."
+    },
+    "mail34867-b" : {
+      "name" : "Anzeigen von E-Mails"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Senden von E-Mails"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Das gewählte Thema ist derzeit nicht verfügbar<\/h1><div class='body conbody'><p class='p'>Vergewissern Sie sich, dass eine Verbindung zum Internet besteht. Wählen Sie „Apple“ > „Systemeinstellungen“, klicken Sie auf „Netzwerk“ und dann auf „Assistent“, wenn Sie Hilfe benötigen.<\/p><p class='p'>Wenn Sie mit dem Internet verbunden sind, den Inhalt aber dennoch nicht sehen können, versuchen Sie es zu einem späteren Zeitpunkt erneut.<\/p><\/div><\/div>",
+      "alternativeName" : "Das gewählte Thema ist derzeit nicht verfügbar",
+      "name" : "Das gewählte Thema ist derzeit nicht verfügbar",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Neue Funktionen im Programm „Mail“<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Das Programm „Mail“ von OS X Mountain Lion bietet zahlreiche neue Funktionen, die das Senden, Empfangen und Anzeigen von E-Mails noch einfacher machen.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIPs<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Einfaches Nachverfolgen von E-Mails von besonders wichtigen Personen durch Kennzeichnen als VIPs. Ihre VIPs werden in den empfangenen E-Mails durch ein Sternchen neben ihren Namen gekennzeichnet. Mail erstellt für jeden VIP ein Postfach in der Favoritenleiste, sodass es einfach ist, auf die zugehörigen E-Mails zuzugreifen.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Kennzeichnen eines Absenders als VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Benachrichtigung bei neuen E-Mails<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Sie können in den Mail-Einstellungen festlegen, dass basierend auf dem Postfach, in dem E-Mails eingehen, oder auf dem Absender Benachrichtigungen angezeigt werden.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Festlegen, wann Benachrichtigungen für eingehende E-Mails angezeigt werden<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Weitergeben von Webseiten in verschiedenen Formaten<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Wenn Sie eine Webseite von Safari aus an andere weitergeben wollen, können Sie auswählen, in welchem Format die Seite gesendet werden soll. Sie können sie zum Beispiel als Link oder als PDF-Datei senden.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Senden einer Webseite, die von Safari aus weitergegeben werden soll<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwandte Themen<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Senden und Empfangen von -E-Mails für alle Accounts<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Neue Funktionen im Programm „Mail“",
+      "name" : "Neue Funktionen im Programm „Mail“",
+      "summary" : "Erfahren Sie mehr über die neuen Funktionen des Programms „Mail“."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail-Hilfe<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-Hilfe<\/h2><p class='p'>Durchsuchbare Themen<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-Hilfe",
+      "name" : "Mail-Hilfe",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Ein Postfach ist offline<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wenn ein Account offline ist, wird in der Mail-Seitenleiste neben seinem Namen ein Blitzsymbol angezeigt. Wenn Sie über mehrere Accounts verfügen, können einige davon offline und andere online sein. Sie können einen oder alle Accounts online schalten.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Wählen Sie „Postfach“ > „Online-Status“ > „[Accountname] online schalten“, um einen Account online zu schalten.<\/span><\/li><li class='li step'><span class='ph cmd'>Möchten Sie alle Offline-Accounts online schalten, wählen Sie „Postfach“ > „Alle Accounts online schalten“. Sie können auch auf das Blitzsymbol klicken.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Wenn Sie einen Account nicht online schalten können, stellen Sie sicher, dass Sie mit dem Internet verbunden sind. Ist neben dem Accountnamen ein Warnsymbol zu sehen, können Sie darauf klicken, um weitere Informationen zu erhalten.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Verwenden der Funktion „Verbindung prüfen“<\/a><\/p><p class='p'>Die Namen einiger Postfächer werden u. U. grau dargestellt, wenn Sie nicht zum Zugriff berechtigt sind, wie etwa „öffentliche“ Postfächer auf einem Server, oder wenn der Mail-Server nicht verfügbar ist.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Verwandte Themen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Ein- oder Ausblenden der Seitenleiste<\/a><\/div><\/div><div class='linklist linklist'><strong>Folgendes öffnen<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple Support-Artikel: Probleme beim Senden und Empfangen von E-Mails in beheben<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Ein Postfach ist offline",
+      "name" : "Ein Postfach ist offline",
+      "summary" : "Ein Offline-Account wird in der Seitenleiste mit einem Blitzsymbol gekennzeichnet. Versuchen Sie, den Account erneut online zu schalten."
+    },
+    "mail34867-d" : {
+      "name" : "Verwalten von E-Mails"
+    },
+    "mail34867-e" : {
+      "name" : "Anpassen des Programms „Mail“"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokal durchsuchbare Inhalte",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail-Hilfe<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-Hilfe<\/h2><p class='p'>Verwenden vorhandener E-Mail-Accounts und Senden und Empfangen von E-Mails von einer Stelle aus<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-Hilfe",
+      "name" : "Mail-Hilfe",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Senden und Empfangen von -E-Mails für alle Accounts",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anzeigen von Konversationen",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Suchen von E-Mails",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Beheben von Problemen im Programm „Mail“",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Kennzeichnen eines Absenders als VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Markieren von E-Mails für eine spätere Bearbeitung",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anzeigen, Sichern und Löschen von Anhängen",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anzeigen von E-Mails",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Drucken von E-Mails",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Beantworten von E-Mails",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Weiterleiten von E-Mails",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Hinzufügen von Anhängen",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Bewegen und Kopieren von E-Mails",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Löschen von E-Mails",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Verwalten von E-Mails mithilfe von Regeln",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Erstellen von Postfächern",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Löschen von Postfächern",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Anpassen eines E-Mail-Headers",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Festlegen, wann Benachrichtigungen für eingehende E-Mails angezeigt werden",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ändern der für Sie oder die Empfänger angezeigten Bilder",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anpassen der Symbolleisten des Programms „Mail“",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "de",
+    "buildID" : "5B09D4A0-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail-Hilfe",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

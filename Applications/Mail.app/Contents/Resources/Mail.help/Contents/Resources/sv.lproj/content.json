@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Grunderna"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Använda Anslutningsgranskare<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Om du inte kan skicka eller ta emot brev kan det bero på problem med att ansluta till internet eller till en e-postserver. Med Anslutningsgranskare i Mail kan du kontrollera anslutningsstatus och visa information.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Välj Fönster > Anslutningsgranskare.<\/span><\/li><li class='li step'><span class='ph cmd'>Kontrollera statusinformationen:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Kontrollera internetanslutningens status. En röd statusknapp anger att Mail inte kan ansluta till internet. Klicka på Nätverksdiagnos så får du hjälp att spåra problemet och återställa internetanslutningen.<\/p><\/li><li class='li choice'><p class='p'>Kontrollera kontots status. En röd statusknapp (när du är ansluten till internet) anger att det är problem med en e-postserver eller kontoinställningarna. Följ instruktionerna i kolumnen Detaljer. Öppna panelen Konton i Mail-inställningarna genom att dubbelklicka på texten i kolumnen.<\/p><\/li><li class='li choice'><p class='p'>Vill du visa logginformation om serveranslutningsproblem klickar du på Visa detaljer så visas en panel med detaljerad information. Klicka sedan på Kontrollera igen så visas loggen samtidigt som Mail försöker ansluta igen.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>När du är klar kontrollerar du om ändringarna löst problemet genom att klicka på Kontrollera igen.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Om problemet kvarstår kontaktar du den som tillhandahåller kontot.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Relaterade ämnen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Om du inte kan skicka brev<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Om du inte kan ta emot brev<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Anslutningsgranskare, problem med att skicka eller ta emot e-post",
+      "name" : "Använda Anslutningsgranskare",
+      "alternativeName" : "Använda Anslutningsgranskare",
+      "summary" : "Om du inte kan skicka eller ta emot brev använder du Anslutningsgranskare som hjälp att lösa problemen."
+    },
+    "mail34867-b" : {
+      "name" : "Visa brev"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Skicka e-post"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Det valda ämnet är inte tillgängligt just nu<\/h1><div class='body conbody'><p class='p'>Kontrollera att datorn är ansluten till internet. Om du vill ha hjälp med att ansluta väljer du Apple-menyn > Systeminställningar, klickar på Nätverk och sedan på ”Hjälp mig”.<\/p><p class='p'>Om du är ansluten till internet och materialet fortfarande inte visas försöker du igen senare.<\/p><\/div><\/div>",
+      "alternativeName" : "Det valda ämnet är inte tillgängligt just nu",
+      "name" : "Det valda ämnet är inte tillgängligt just nu",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Nyheter i Mail<\/h1><div class='body taskbody'><div class='section context'><p class='p'>I Mail i OS X Mountain Lion finns nya suveräna funktioner som gör det ännu enklare att skicka, ta emot och läsa brev.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Håll koll på brev från särskilt viktiga personer genom att ge dem VIP-status. De du gett VIP-status identifieras med en stjärna bredvid namnet i brev du får från dem. Mail lägger till en brevlåda för varje VIP-person i bokmärkesfältet så att du enkelt hittar deras brev.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Ge en avsändare VIP-status<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Notiser för nya brev<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Du kan ställa in ett alternativ i Mail-inställningarna för att visa notiser baserat på i vilken brevlåda brev anländer, eller på vem som är avsändaren.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Anpassa när e-postnotiser visas<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Dela webbsidor i olika format<\/h2><div class='body taskbody'><div class='section context'><p class='p'>När du delar en webbsida från Safari kan du välja i vilket format du vill skicka den. Du kan t.ex. skicka den som en länk eller en PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Skicka en webbsida som delas från Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Relaterade ämnen<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Skicka och ta emot e-post för alla konton<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Nyheter i Mail",
+      "name" : "Nyheter i Mail",
+      "summary" : "Läs om de nya funktionerna i Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail Hjälp<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Hjälp<\/h2><p class='p'>Sökbara ämnen<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Hjälp",
+      "name" : "Mail Hjälp",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Om en brevlåda är frånkopplad<\/h1><div class='body taskbody'><div class='section context'><p class='p'>När ett konto är frånkopplat visas en blixtsymbol bredvid kontot i sidofältet i Mail. Om du har flera konton kan vissa konton vara frånkopplade medan andra är uppkopplade. Du kan koppla upp ett eller alla konton.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Du kopplar upp ett konto genom att välja Brevlåda > Uppkopplingsstatus > Koppla upp [kontonamn].<\/span><\/li><li class='li step'><span class='ph cmd'>Vill du koppla upp alla konton väljer du Brevlåda > Koppla upp alla konton. Du kan också klicka på blixtsymbolen.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Om du inte kan koppla upp ett konto kontrollerar du att du är ansluten till internet. Om en varningssymbol visas efter kontonamnet kan du klicka på den för mer information.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Använda Anslutningsgranskare<\/a><\/p><p class='p'>Vissa brevlådors namn kan vara grå om du inte har behörighet att öppna dem, t.ex. ”delade” brevlådor på en server, eller om e-postservern är otillgänglig.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Relaterade ämnen<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Visa eller gömma sidofältet<\/a><\/div><\/div><div class='linklist linklist'><strong>Öppna<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Apple Support-artikel: Felsöka, skicka och ta emot e-brev<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Om en brevlåda är frånkopplad",
+      "name" : "Om en brevlåda är frånkopplad",
+      "summary" : "Ett frånkopplat konto markeras med en blixtsymbol i sidofältet. Prova att koppla upp kontot igen."
+    },
+    "mail34867-d" : {
+      "name" : "Ordna e-post"
+    },
+    "mail34867-e" : {
+      "name" : "Anpassa Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "lokalt sökbart innehåll",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail Hjälp<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail Hjälp<\/h2><p class='p'>Använd dina befintliga e-postkonton och skicka och ta emot e-post på en plats.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail Hjälp",
+      "name" : "Mail Hjälp",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Skicka och ta emot e-post för alla konton",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Visa konversationer",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Söka i brev",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Lösa Mail-problem",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Ge en avsändare VIP-status",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Flagga brev för åtgärd",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Visa, spara och radera bilagor",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Visa brevf",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Skriva ut brev",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Svara på brev",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Vidarebefordra brev",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Lägga till bilagor",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Flytta och kopiera brev",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Radera brev",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Hantera brev med hjälp av regler",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Skapa brevlådor",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Radera brevlådor",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Anpassa ett brevhuvud",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anpassa när e-postnotiser visas",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ändra de bilder som representerar dig eller mottagarna",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Anpassa verktygsfälten i Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "sv",
+    "buildID" : "71BF32DA-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail Hjälp",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

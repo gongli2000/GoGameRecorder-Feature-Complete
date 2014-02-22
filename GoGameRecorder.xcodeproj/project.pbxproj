@@ -1,0 +1,559 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		520CEFD91785B454006EF750 /* Board.mm in Sources */ = {isa = PBXBuildFile; fileRef = 520CEFD71785B454006EF750 /* Board.mm */; };
+		52C95822178BC0E500016C90 /* Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52C95821178BC0E500016C90 /* Utils.cpp */; };
+		52CA5734177EA81900799770 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5733177EA81900799770 /* Cocoa.framework */; };
+		52CA573E177EA81900799770 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CA573C177EA81900799770 /* InfoPlist.strings */; };
+		52CA5740177EA81A00799770 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CA573F177EA81A00799770 /* main.m */; };
+		52CA5744177EA81A00799770 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5742177EA81A00799770 /* Credits.rtf */; };
+		52CA5747177EA81A00799770 /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA5746177EA81A00799770 /* AppDelegate.mm */; };
+		52CA574A177EA81A00799770 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5748177EA81A00799770 /* MainMenu.xib */; };
+		52CA5752177EA81A00799770 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5751177EA81A00799770 /* SenTestingKit.framework */; };
+		52CA5753177EA81A00799770 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5733177EA81900799770 /* Cocoa.framework */; };
+		52CA575B177EA81A00799770 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5759177EA81A00799770 /* InfoPlist.strings */; };
+		52CA575E177EA81A00799770 /* GoGameRecorderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CA575D177EA81A00799770 /* GoGameRecorderTests.m */; };
+		52CA576A177EA88400799770 /* libopencv_core.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */; };
+		52CA576B177EA88400799770 /* libopencv_highgui.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */; };
+		52CA576C177EA88400799770 /* libopencv_imgproc.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */; };
+		52CA5775177FA8A900799770 /* NSImage+OpenCV.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA5774177FA8A900799770 /* NSImage+OpenCV.mm */; };
+		52CA5779177FB61900799770 /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA5777177FB61800799770 /* ViewController.mm */; };
+		52CA577A177FB61900799770 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5778177FB61800799770 /* ViewController.xib */; };
+		52CA57BF177FE4D900799770 /* ImageUtils.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA57BD177FE4D900799770 /* ImageUtils.mm */; };
+		52CF4D6A17816D2800A766ED /* MyImageView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CF4D6917816D2800A766ED /* MyImageView.mm */; };
+		52CF4D6D1781B8D000A766ED /* Node.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CF4D6C1781B8D000A766ED /* Node.mm */; };
+		52DC1EBF178A7F69000F9CF1 /* CalibrateView.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52DC1EBE178A7F69000F9CF1 /* CalibrateView.mm */; };
+		52ED0B091791EAD5000029FD /* GroupNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52ED0B071791EAD5000029FD /* GroupNode.cpp */; };
+		52ED0B0C1791EB11000029FD /* GroupMap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52ED0B0A1791EB11000029FD /* GroupMap.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		52CA5754177EA81A00799770 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 52CA5728177EA81900799770 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 52CA572F177EA81900799770;
+			remoteInfo = GoGameRecorder;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		520CEFD71785B454006EF750 /* Board.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Board.mm; sourceTree = "<group>"; };
+		520CEFD81785B454006EF750 /* Board.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Board.h; sourceTree = "<group>"; };
+		52C076281780750B00ED8C30 /* ImageUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageUtils.h; sourceTree = "<group>"; };
+		52C95820178BA4DB00016C90 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
+		52C95821178BC0E500016C90 /* Utils.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Utils.cpp; sourceTree = "<group>"; };
+		52C95823178BC15400016C90 /* Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Utils.h; sourceTree = "<group>"; };
+		52CA5730177EA81900799770 /* GoGameRecorder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoGameRecorder.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		52CA5733177EA81900799770 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		52CA5736177EA81900799770 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		52CA5737177EA81900799770 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		52CA5738177EA81900799770 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		52CA573B177EA81900799770 /* GoGameRecorder-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoGameRecorder-Info.plist"; sourceTree = "<group>"; };
+		52CA573D177EA81900799770 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52CA573F177EA81A00799770 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		52CA5741177EA81A00799770 /* GoGameRecorder-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "GoGameRecorder-Prefix.pch"; sourceTree = "<group>"; };
+		52CA5743177EA81A00799770 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		52CA5745177EA81A00799770 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		52CA5746177EA81A00799770 /* AppDelegate.mm */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.objcpp; path = AppDelegate.mm; sourceTree = "<group>"; };
+		52CA5749177EA81A00799770 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		52CA5750177EA81A00799770 /* GoGameRecorderTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoGameRecorderTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		52CA5751177EA81A00799770 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		52CA5758177EA81A00799770 /* GoGameRecorderTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoGameRecorderTests-Info.plist"; sourceTree = "<group>"; };
+		52CA575A177EA81A00799770 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		52CA575C177EA81A00799770 /* GoGameRecorderTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GoGameRecorderTests.h; sourceTree = "<group>"; };
+		52CA575D177EA81A00799770 /* GoGameRecorderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GoGameRecorderTests.m; sourceTree = "<group>"; };
+		52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_core.2.4.5.dylib; sourceTree = "<group>"; };
+		52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_highgui.2.4.5.dylib; sourceTree = "<group>"; };
+		52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_imgproc.2.4.5.dylib; sourceTree = "<group>"; };
+		52CA5773177FA8A900799770 /* NSImage+OpenCV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+OpenCV.h"; sourceTree = "<group>"; };
+		52CA5774177FA8A900799770 /* NSImage+OpenCV.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "NSImage+OpenCV.mm"; sourceTree = "<group>"; };
+		52CA5776177FB61800799770 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		52CA5777177FB61800799770 /* ViewController.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ViewController.mm; sourceTree = "<group>"; };
+		52CA5778177FB61800799770 /* ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
+		52CA57BD177FE4D900799770 /* ImageUtils.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = ImageUtils.mm; sourceTree = "<group>"; };
+		52CF4D6817816D2800A766ED /* MyImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyImageView.h; sourceTree = "<group>"; };
+		52CF4D6917816D2800A766ED /* MyImageView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = MyImageView.mm; sourceTree = "<group>"; };
+		52CF4D6B1781B8D000A766ED /* Node.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Node.h; sourceTree = "<group>"; };
+		52CF4D6C1781B8D000A766ED /* Node.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Node.mm; sourceTree = "<group>"; };
+		52DC1EBD178A7F69000F9CF1 /* CalibrateView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalibrateView.h; sourceTree = "<group>"; };
+		52DC1EBE178A7F69000F9CF1 /* CalibrateView.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = CalibrateView.mm; sourceTree = "<group>"; };
+		52ED0B071791EAD5000029FD /* GroupNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupNode.cpp; sourceTree = "<group>"; };
+		52ED0B081791EAD5000029FD /* GroupNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupNode.h; sourceTree = "<group>"; };
+		52ED0B0A1791EB11000029FD /* GroupMap.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GroupMap.cpp; sourceTree = "<group>"; };
+		52ED0B0B1791EB11000029FD /* GroupMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GroupMap.h; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		52CA572D177EA81900799770 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA576A177EA88400799770 /* libopencv_core.2.4.5.dylib in Frameworks */,
+				52CA576B177EA88400799770 /* libopencv_highgui.2.4.5.dylib in Frameworks */,
+				52CA576C177EA88400799770 /* libopencv_imgproc.2.4.5.dylib in Frameworks */,
+				52CA5734177EA81900799770 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52CA574C177EA81A00799770 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA5752177EA81A00799770 /* SenTestingKit.framework in Frameworks */,
+				52CA5753177EA81A00799770 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		52277E53179586FF002BB1CE /* Utils and Xibs */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5778177FB61800799770 /* ViewController.xib */,
+				52CA5748177EA81A00799770 /* MainMenu.xib */,
+				52C95820178BA4DB00016C90 /* Constants.h */,
+				52C95823178BC15400016C90 /* Utils.h */,
+				52C95821178BC0E500016C90 /* Utils.cpp */,
+				52C076281780750B00ED8C30 /* ImageUtils.h */,
+				52CA57BD177FE4D900799770 /* ImageUtils.mm */,
+				52CA5773177FA8A900799770 /* NSImage+OpenCV.h */,
+				52CA5774177FA8A900799770 /* NSImage+OpenCV.mm */,
+				52ED0B081791EAD5000029FD /* GroupNode.h */,
+				52ED0B071791EAD5000029FD /* GroupNode.cpp */,
+				52ED0B0B1791EB11000029FD /* GroupMap.h */,
+				52ED0B0A1791EB11000029FD /* GroupMap.cpp */,
+				52CF4D6B1781B8D000A766ED /* Node.h */,
+				52CF4D6C1781B8D000A766ED /* Node.mm */,
+			);
+			name = "Utils and Xibs";
+			sourceTree = "<group>";
+		};
+		52CA5727177EA81900799770 = {
+			isa = PBXGroup;
+			children = (
+				52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */,
+				52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */,
+				52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */,
+				52CA5739177EA81900799770 /* GoGameRecorder */,
+				52CA5756177EA81A00799770 /* GoGameRecorderTests */,
+				52CA5732177EA81900799770 /* Frameworks */,
+				52CA5731177EA81900799770 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		52CA5731177EA81900799770 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5730177EA81900799770 /* GoGameRecorder.app */,
+				52CA5750177EA81A00799770 /* GoGameRecorderTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		52CA5732177EA81900799770 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5733177EA81900799770 /* Cocoa.framework */,
+				52CA5751177EA81A00799770 /* SenTestingKit.framework */,
+				52CA5735177EA81900799770 /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		52CA5735177EA81900799770 /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5736177EA81900799770 /* AppKit.framework */,
+				52CA5737177EA81900799770 /* CoreData.framework */,
+				52CA5738177EA81900799770 /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		52CA5739177EA81900799770 /* GoGameRecorder */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5745177EA81A00799770 /* AppDelegate.h */,
+				52CA5746177EA81A00799770 /* AppDelegate.mm */,
+				52CA5776177FB61800799770 /* ViewController.h */,
+				52CA5777177FB61800799770 /* ViewController.mm */,
+				52DC1EBD178A7F69000F9CF1 /* CalibrateView.h */,
+				52DC1EBE178A7F69000F9CF1 /* CalibrateView.mm */,
+				52CF4D6817816D2800A766ED /* MyImageView.h */,
+				52CF4D6917816D2800A766ED /* MyImageView.mm */,
+				520CEFD81785B454006EF750 /* Board.h */,
+				520CEFD71785B454006EF750 /* Board.mm */,
+				52277E53179586FF002BB1CE /* Utils and Xibs */,
+				52CA573A177EA81900799770 /* Supporting Files */,
+			);
+			path = GoGameRecorder;
+			sourceTree = "<group>";
+		};
+		52CA573A177EA81900799770 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52CA573B177EA81900799770 /* GoGameRecorder-Info.plist */,
+				52CA573C177EA81900799770 /* InfoPlist.strings */,
+				52CA573F177EA81A00799770 /* main.m */,
+				52CA5741177EA81A00799770 /* GoGameRecorder-Prefix.pch */,
+				52CA5742177EA81A00799770 /* Credits.rtf */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		52CA5756177EA81A00799770 /* GoGameRecorderTests */ = {
+			isa = PBXGroup;
+			children = (
+				52CA575C177EA81A00799770 /* GoGameRecorderTests.h */,
+				52CA575D177EA81A00799770 /* GoGameRecorderTests.m */,
+				52CA5757177EA81A00799770 /* Supporting Files */,
+			);
+			path = GoGameRecorderTests;
+			sourceTree = "<group>";
+		};
+		52CA5757177EA81A00799770 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				52CA5758177EA81A00799770 /* GoGameRecorderTests-Info.plist */,
+				52CA5759177EA81A00799770 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		52CA572F177EA81900799770 /* GoGameRecorder */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52CA5761177EA81A00799770 /* Build configuration list for PBXNativeTarget "GoGameRecorder" */;
+			buildPhases = (
+				52CA572C177EA81900799770 /* Sources */,
+				52CA572D177EA81900799770 /* Frameworks */,
+				52CA572E177EA81900799770 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = GoGameRecorder;
+			productName = GoGameRecorder;
+			productReference = 52CA5730177EA81900799770 /* GoGameRecorder.app */;
+			productType = "com.apple.product-type.application";
+		};
+		52CA574F177EA81A00799770 /* GoGameRecorderTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 52CA5764177EA81A00799770 /* Build configuration list for PBXNativeTarget "GoGameRecorderTests" */;
+			buildPhases = (
+				52CA574B177EA81A00799770 /* Sources */,
+				52CA574C177EA81A00799770 /* Frameworks */,
+				52CA574D177EA81A00799770 /* Resources */,
+				52CA574E177EA81A00799770 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				52CA5755177EA81A00799770 /* PBXTargetDependency */,
+			);
+			name = GoGameRecorderTests;
+			productName = GoGameRecorderTests;
+			productReference = 52CA5750177EA81A00799770 /* GoGameRecorderTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		52CA5728177EA81900799770 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0460;
+				ORGANIZATIONNAME = Larry;
+			};
+			buildConfigurationList = 52CA572B177EA81900799770 /* Build configuration list for PBXProject "GoGameRecorder" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 52CA5727177EA81900799770;
+			productRefGroup = 52CA5731177EA81900799770 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				52CA572F177EA81900799770 /* GoGameRecorder */,
+				52CA574F177EA81A00799770 /* GoGameRecorderTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		52CA572E177EA81900799770 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA573E177EA81900799770 /* InfoPlist.strings in Resources */,
+				52CA5744177EA81A00799770 /* Credits.rtf in Resources */,
+				52CA574A177EA81A00799770 /* MainMenu.xib in Resources */,
+				52CA577A177FB61900799770 /* ViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52CA574D177EA81A00799770 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA575B177EA81A00799770 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		52CA574E177EA81A00799770 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		52CA572C177EA81900799770 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA5740177EA81A00799770 /* main.m in Sources */,
+				52CA5747177EA81A00799770 /* AppDelegate.mm in Sources */,
+				52CA5775177FA8A900799770 /* NSImage+OpenCV.mm in Sources */,
+				52CA5779177FB61900799770 /* ViewController.mm in Sources */,
+				52CF4D6A17816D2800A766ED /* MyImageView.mm in Sources */,
+				52CF4D6D1781B8D000A766ED /* Node.mm in Sources */,
+				520CEFD91785B454006EF750 /* Board.mm in Sources */,
+				52DC1EBF178A7F69000F9CF1 /* CalibrateView.mm in Sources */,
+				52C95822178BC0E500016C90 /* Utils.cpp in Sources */,
+				52ED0B091791EAD5000029FD /* GroupNode.cpp in Sources */,
+				52ED0B0C1791EB11000029FD /* GroupMap.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		52CA574B177EA81A00799770 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				52CA575E177EA81A00799770 /* GoGameRecorderTests.m in Sources */,
+				52CA57BF177FE4D900799770 /* ImageUtils.mm in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		52CA5755177EA81A00799770 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 52CA572F177EA81900799770 /* GoGameRecorder */;
+			targetProxy = 52CA5754177EA81A00799770 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		52CA573C177EA81900799770 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CA573D177EA81900799770 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		52CA5742177EA81A00799770 /* Credits.rtf */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CA5743177EA81A00799770 /* en */,
+			);
+			name = Credits.rtf;
+			sourceTree = "<group>";
+		};
+		52CA5748177EA81A00799770 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CA5749177EA81A00799770 /* en */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+		52CA5759177EA81A00799770 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				52CA575A177EA81A00799770 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		52CA575F177EA81A00799770 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		52CA5760177EA81A00799770 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.8;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		52CA5762177EA81A00799770 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
+				HEADER_SEARCH_PATHS = /usr/local/include;
+				INFOPLIST_FILE = "GoGameRecorder/GoGameRecorder-Info.plist";
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = x86_64;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		52CA5763177EA81A00799770 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				COMBINE_HIDPI_IMAGES = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
+				HEADER_SEARCH_PATHS = /usr/local/include;
+				INFOPLIST_FILE = "GoGameRecorder/GoGameRecorder-Info.plist";
+				LIBRARY_SEARCH_PATHS = /usr/local/lib;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = x86_64;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		52CA5765177EA81A00799770 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GoGameRecorder.app/Contents/MacOS/GoGameRecorder";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
+				INFOPLIST_FILE = "GoGameRecorderTests/GoGameRecorderTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		52CA5766177EA81A00799770 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GoGameRecorder.app/Contents/MacOS/GoGameRecorder";
+				COMBINE_HIDPI_IMAGES = YES;
+				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
+				INFOPLIST_FILE = "GoGameRecorderTests/GoGameRecorderTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		52CA572B177EA81900799770 /* Build configuration list for PBXProject "GoGameRecorder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CA575F177EA81A00799770 /* Debug */,
+				52CA5760177EA81A00799770 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52CA5761177EA81A00799770 /* Build configuration list for PBXNativeTarget "GoGameRecorder" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CA5762177EA81A00799770 /* Debug */,
+				52CA5763177EA81A00799770 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		52CA5764177EA81A00799770 /* Build configuration list for PBXNativeTarget "GoGameRecorderTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				52CA5765177EA81A00799770 /* Debug */,
+				52CA5766177EA81A00799770 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 52CA5728177EA81900799770 /* Project object */;
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Основи"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Використання програми «Інспектор з’єднання»<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Якщо не вдалося надіслати або отримати повідомлення, ймовірно, виникла проблема з під’єднанням до Інтернету або сервера пошти. Можна скористатися Інспектором з’єднань програми Mail, щоб перевірити стан під’єднання й отримати інформацію.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Виберіть «Вікно» > «Інспектор з’єднань».<\/span><\/li><li class='li step'><span class='ph cmd'>Перегляньте інформацію про стан.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Перевірка стану під’єднання до Інтернету. Червона кнопка стану означає, що програмі Mail не вдалося під’єднатися до Інтернету. Натисніть кнопку «Діагностика мережі», щоб вирішити проблему й відновити під’єднання до Інтернету.<\/p><\/li><li class='li choice'><p class='p'>Перевірка стану облікового запису. Червона кнопка стану (якщо інтернет-з’єднання активне) означає, що виникла проблема із сервером пошти або параметрами облікового запису. Виконуйте інструкції, вказані у стовпчику «Подробиці»; двічі клацніть текст у стовпчику, щоб відкрити панель «Записи» у параметрах програми Mail.<\/p><\/li><li class='li choice'><p class='p'>Щоб побачити журнальну інформацію про проблеми під’єднання до сервера, натисніть кнопку «Докладніше», щоб відкрити панель докладних відомостей. Потім натисніть кнопку «Перевірити знову», щоб подивитися записи в журналі про те, як програма Mail намагається під’єднатися знову.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Після завершення натисніть кнопку «Перевірити знову», щоб переконатися, що внесені зміни вирішили проблему.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Якщо проблема все ще виникає, зверніться до провайдера вашого облікового запису.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Пов’язані теми<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Що робити, якщо не вдається відправити листи?<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Що робити, якщо не вдається отримати листи?<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Інспектор з’єднань, проблеми під час надсилання або отримання повідомлень електронної пошти",
+      "name" : "Використання програми «Інспектор з’єднання»",
+      "alternativeName" : "Використання програми «Інспектор з’єднання»",
+      "summary" : "Якщо не вдалося надіслати або отримати повідомлення, скористайтеся Інспектором з’єднань, щоб вирішити проблеми."
+    },
+    "mail34867-b" : {
+      "name" : "Перегляд листів"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Відправлення листів"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Вибрана тема зараз недоступна.<\/h1><div class='body conbody'><p class='p'>Впевніться, що ваш комп’ютер під’єднаний до Інтернету. Щоб отримати допомогу зі з’єднанням, виберіть меню «Яблуко» > «Системні параметри», відкрийте панель «Мережа» і натисніть кнопку «Асистент».<\/p><p class='p'>Якщо інтернет-з’єднання активне, проте вміст все одно не з’являється, спробуйте ще раз пізніше.<\/p><\/div><\/div>",
+      "alternativeName" : "Вибрана тема зараз недоступна.",
+      "name" : "Вибрана тема зараз недоступна.",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Що нового в Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Програма Mail у OS X Mountain Lion містить багато нових важливих функцій, які ще більше полегшують відправлення, отримання та перегляд листів в одному розташуванні.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>Привілейовані відправники<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Відстежуйте справді важливі листи, надаючи їх відправникам статус привілейованих. Листи від привілейованих відправників позначаються золотою зіркою. У програмі Mail на панелі «Улюблене» створюється динамічна скринька для кожного привілейованого відправника, що полегшує доступ до листів від них.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>Надання відправнику привілейованого статусу<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Сповіщення про нові листи<\/h2><div class='body taskbody'><div class='section context'><p class='p'>У параметрах Mail можна ввімкнути сповіщення про нові листи на основі поштової скриньки, в яку надходить лист, або на основі відправника листа.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Настроювання умов відображення сповіщень про надходження пошти<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Надсилання веб-сторінок у різних форматах<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Під час надсилання веб-сторінки з Safari можна вибрати, в якому форматі її відправити. Наприклад, веб-сторінку можна надіслати як посилання або як PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Надсилання веб-сторінки, отриманої з Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Пов’язані теми<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Отримання й надсилання пошти для всіх ваших поштових облікових записів<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Що нового в Mail?",
+      "name" : "Що нового в Mail?",
+      "summary" : "Дізнайтеся про нові функції програми Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Довідка Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Довідка Mail<\/h2><p class='p'>Теми, що підтримують пошук<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Довідка Mail",
+      "name" : "Довідка Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Поштова скринька в автономному режимі<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Коли обліковий запис перебуває в автономному режимі, біля нього з’являється іконка блискавки на боковій панелі Mail. Якщо ви маєте кілька облікових записів, деякі облікові записи можуть бути в автономному режимі, тоді як інші підключені. Можна перевести один або кілька облікових записів в режим онлайн.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Щоб перевести обліковий запис в режим онлайн, виберіть «Скринька» > «Онлайн-стан» > Перевести [обліковий запис] в онлайн.<\/span><\/li><li class='li step'><span class='ph cmd'>Щоб перевести в режим онлайн усі облікові записи, виберіть «Скринька» > «Перевести всі записи в онлайн». Також можна натиснути іконку блискавки.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Якщо неможливо перевести обліковий запис в режим онлайн, переконайтеся, що ви підключені до Інтернету. Якщо після імені облікового запису з’явиться іконка застереження, можна натиснути її, щоб ознайомитися з інформацією.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Використання програми «Інспектор з’єднання»<\/a><\/p><p class='p'>Деякі назви поштових скриньок можуть бути сірими, якщо у вас немає прав доступу до них, зокрема «відкриті» поштові скриньки на сервері, або якщо поштовий сервер недоступний.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Пов’язані теми<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Відображення або приховання бокової панелі<\/a><\/div><\/div><div class='linklist linklist'><strong>Відкрити<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Стаття служби підтримки Apple: Усунення проблем із надсиланням та отриманням листів<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Поштова скринька в автономному режимі",
+      "name" : "Поштова скринька в автономному режимі",
+      "summary" : "Автономний режим облікового запису позначається іконкою блискавки на боковій панелі. Спробуйте перевести обліковий запис в режим онлайн."
+    },
+    "mail34867-d" : {
+      "name" : "Упорядкування листів"
+    },
+    "mail34867-e" : {
+      "name" : "Настроювання Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "вміст, що підтримує локальний пошук",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Довідка Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Довідка Mail<\/h2><p class='p'>Надсилайте, отримуйте та переглядайте листи з усіх ваших облікових записів електронної пошти з єдиного місця.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Довідка Mail",
+      "name" : "Довідка Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Отримання й надсилання пошти для всіх ваших поштових облікових записів",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Перегляд обговорень",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Пошук листів",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Вирішення проблем Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "Надання відправнику привілейованого статусу",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Позначення листів для виконання дій",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Перегляд, збереження та видалення прикріплень",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Перегляд листів",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Друк листів",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Створення відповіді на лист",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Пересилання листів",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Додавання прикріплень",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Переміщення та копіювання листів",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Видалення листів",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Керування листами за допомогою фільтрів",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Створення поштових скриньок",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Видалення поштових скриньок",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Настроювання заголовка листа",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Настроювання умов відображення сповіщень про надходження пошти",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Змінення зображень, що представляють вас або отримувачів",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Настроювання панелей інструментів Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "uk",
+    "buildID" : "76748F8C-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Довідка Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

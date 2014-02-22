@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "Perusteet"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Yhteysapurin käyttäminen<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Jos et voi lähettää tai vastaanottaa viestejä, internet-yhteydessä tai yhteydessä postipalvelimeen voi olla ongelma. Voit käyttää Mailin Yhteysapuria yhteyden tilan tarkistamiseen ja tietojen hankkimiseen.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Valitse Ikkuna > Yhteysapuri.<\/span><\/li><li class='li step'><span class='ph cmd'>Tarkista tilatiedot:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Tarkista internet-yhteyden tila. Punainen tilapainike osoittaa, että Mail ei voi muodostaa yhteyttä internetiin. Osoita Verkkodiagnostiikka, jos haluat apua ongelman syyn selvittämiseen ja internet-yhteyden palauttamiseen.<\/p><\/li><li class='li choice'><p class='p'>Tarkista tilin tila. Jos internet-yhteys toimii, punainen tilapainike osoittaa, että yhteydessä postipalvelimeen tai tilin asetuksissa on ongelma. Noudata Lisätiedot-sarakkeessa annettuja ohjeita. Voit avata Mail-asetusten Tilit-osion kaksoisosoittamalla sarakkeen tekstiä.<\/p><\/li><li class='li choice'><p class='p'>Jos haluat nähdä lokitietoja palvelinyhteysongelmista, tuo lisätieto-osio näkyviin osoittamalla Näytä lisätietoja. Osoita sitten Tarkista uudelleen nähdäksesi lokitiedot, kun Mail yrittää muodostaa yhteyden uudelleen.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>Kun olet valmis, osoita Tarkista uudelleen ja katso, ovatko tekemäsi muutokset ratkaisseet ongelman.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Jos ongelma jatkuu, ota yhteyttä palveluntarjoajaan.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Tähän liittyvät aiheet<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>Jos et voi lähettää viestejä<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>Jos et voi vastaanottaa viestejä<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "Yhteysapuri, ongelmia sähköpostin lähettämisessä ja vastaanottamisessa",
+      "name" : "Yhteysapurin käyttäminen",
+      "alternativeName" : "Yhteysapurin käyttäminen",
+      "summary" : "Jos et voi lähettää tai vastaanottaa viestejä, käytä Yhteysapuria ongelmien ratkaisemiseen."
+    },
+    "mail34867-b" : {
+      "name" : "Sähköpostin katseleminen"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "Sähköpostin lähettäminen"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Valittu aihe ei ole tällä hetkellä käytettävissä<\/h1><div class='body conbody'><p class='p'>Varmista, että olet yhteydessä internetiin. Jos tarvitset apua yhteyden muodostamisessa, valitse Omenavalikko > Järjestelmäasetukset, osoita Verkko ja osoita Avusta.<\/p><p class='p'>Jos olet yhteydessä internetiin, mutta sisältö ei silti tule näkyviin, yritä myöhemmin uudelleen.<\/p><\/div><\/div>",
+      "alternativeName" : "Valittu aihe ei ole tällä hetkellä käytettävissä",
+      "name" : "Valittu aihe ei ole tällä hetkellä käytettävissä",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Mitä uutta Mailissa on?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>OS X Mountain Lionin Mail tarjoaa merkittäviä uusia ominaisuuksia, joiden ansiosta on entistä helpompaa lähettää, vastaanottaa ja katsella sähköpostia.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>VIP-lähettäjät<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Voit pitää kirjaa sähköposteista, joita saat erityisen tärkeiltä henkilöiltä, tekemällä heistä VIP-lähettäjiä. VIP-lähettäjät merkitään nimen vieressä olevalla tähdellä heiltä saamissasi viesteissä. Mail lisää Suosikit-palkkiin postilaatikon jokaiselle VIP-lähettäjälle, jolloin heidän viestinsä on helppo löytää.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>VIP:n tekeminen lähettäjästä<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>Uusien viestien ilmoitukset<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Voit asettaa Mailin näyttämään ilmoituksia viestit vastaanottavan postilaatikon tai viestin lähettäjän mukaan.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>Sähköposti-ilmoitusten näyttämisen muokkaaminen<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>Verkkosivujen jakaminen eri muodoissa<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Kun jaat verkkosivun Safarista, voit valita muodon, jossa se lähetetään. Voit esim. lähettää sen linkkinä tai PDF:nä.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>Safarista jaetun verkkosivun lähettäminen<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>Tähän liittyvät aiheet<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>Sähköpostin lähettäminen ja vastaanottaminen kaikilla tileillä<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Mitä uutta Mailissa on?",
+      "name" : "Mitä uutta Mailissa on?",
+      "summary" : "Tutustu Mailin uusiin ominaisuuksiin."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>Mail-ohje<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-ohje<\/h2><p class='p'>Etsittävissä olevat aiheet<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-ohje",
+      "name" : "Mail-ohje",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>Jos postilaatikko on poissa linjoilta<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Kun tili on poissa linjoilta, sen vieressä näkyy salamakuvake Mailin sivupalkissa. Jos sinulla on useampia tilejä, jotkut saattavat olla poissa linjoilta, vaikka muut ovat linjoilla. Voit siirtää yhden tai kaikki tilit linjoille.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>Siirrä yksi tili linjoille valitsemalla Postilaatikko > Linjoillaolotila > Siirrä [tili] linjoille.<\/span><\/li><li class='li step'><span class='ph cmd'>Siirrä kaikki tilit linjoille valitsemalla Postilaatikko > Siirrä kaikki tilit linjoille. Voit myös osoittaa salamakuvaketta.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>Jos et voi siirtää tiliä linjoille, varmista, että olet yhteydessä internetiin. Jos tilin nimen jälkeen näkyy varoituskuvake, saat lisätietoja osoittamalla sitä.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>Yhteysapurin käyttäminen<\/a><\/p><p class='p'>Jotkin postilaatikoiden nimet voivat näkyä harmaana, jos sinulla ei ole oikeutta käyttää niitä, kuten palvelimella olevat ”julkiset” postilaatikot tai jos sähköpostipalvelin ei ole käytettävissä.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>Tähän liittyvät aiheet<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>Sivupalkin näyttäminen tai kätkeminen<\/a><\/div><\/div><div class='linklist linklist'><strong>Avaa<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>Applen tukiartikkeli: Sähköpostiviestien lähettämisen ja vastaanottamisen vianmääritys<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "Jos postilaatikko on poissa linjoilta",
+      "name" : "Jos postilaatikko on poissa linjoilta",
+      "summary" : "Sivupalkissa näkyvä salamakuvake kertoo, että tili on poissa linjoilta. Yritä siirtää tili linjoille."
+    },
+    "mail34867-d" : {
+      "name" : "Sähköpostin järjesteleminen"
+    },
+    "mail34867-e" : {
+      "name" : "Mailin muokkaaminen"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "paikallinen haettavissa oleva sisältö",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>Mail-ohje<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>Mail-ohje<\/h2><p class='p'>Käytä olemassa olevia sähköpostitilejäsi ja lähetä ja vastaanota sähköpostia yhdestä paikasta.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "Mail-ohje",
+      "name" : "Mail-ohje",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "Sähköpostin lähettäminen ja vastaanottaminen kaikilla tileillä",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Keskustelujen katseleminen",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien etsiminen",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Ongelmien ratkaiseminen Mailissa",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "VIP:n tekeminen lähettäjästä",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien liputtaminen myöhempää käyttöä varten",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Liitteiden katseleminen, tallentaminen ja poistaminen",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien katsominen",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien tulostaminen",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "Viesteihin vastaaminen",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien välittäminen",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Liitteiden lisääminen",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "Viestien siirtäminen ja kopioiminen",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien poistaminen",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Viestien hallitseminen sääntöjen avulla",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postilaatikoiden luominen",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Postilaatikoiden poistaminen",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "Viestin otsakkeen muokkaaminen",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Sähköposti-ilmoitusten näyttämisen muokkaaminen",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Itseäsi tai vastaanottajia esittävien kuvien muuttaminen",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "Mailin työkalupalkkien muokkaaminen",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "fi",
+    "buildID" : "5E66BFC8-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "Mail-ohje",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "יסודות"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>שימוש בכלי לאבחון בעיות התחברות<\/h1><div class='body taskbody'><div class='section context'><p class='p'>אם אינך מצליח\/ה לשלוח או לקבל הודעות, יתכן שיש בעיה בחיבור לאינטרנט או לשרת דואר. ניתן להשתמש בכלי לאבחון בעיות התחברות כדי לבדוק את מצב החיבור ולקבל מידע.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>בחר\/י ״חלון״ > ״כלי לאבחון בעיות התחברות״.<\/span><\/li><li class='li step'><span class='ph cmd'>סקור\/י את פרטי המצב:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>בדוק\/י את מצב החיבור שלך לאינטרנט. כפתור מצב אדום מציין של-Mail אין אפשרות להתחבר לאינטרנט. לחץ\/י על :״אבחון רשת״ לקבלת עזרה בהתחקות אחר מקור הבעיה ולשחזור חיבור לאינטרנט.<\/p><\/li><li class='li choice'><p class='p'>בדוק\/י את מצב החשבון. כפתור מצב אדום (כאשר הינך מחובר\/ת לאינטרנט) מציין שקיימת בעיה בשרת דואר או בהגדרות החשבון שלך. בצע\/י את ההוראות שבעמודה ״פרטים״. לחץ\/י פעמיים על המלל בעמודה על-מנת לפתוח את החלונית ״חשבונות״ בהעדפות Mail.<\/p><\/li><li class='li choice'><p class='p'>על-מנת להציג פרטי קובץ רישום בנושא בעיות חיבור לשרת, לחץ\/י על ״הצג פרטים״ כדי להציג חלונית פרטים. לאחר מכן לחץ\/י על ״בדוק שוב״ על-מנת להציג את קובץ הרישום בזמן ש-Mail מנסה להתחבר שוב.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>בסיום, לחץ\/י על ״בדוק שוב״ כדי לראות אם השינויים שלך פתרו את הבעיה.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>אם הבעיה נמשכת, פנה\/י לספק החשבון שלך.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>נושאים דומים<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>אם אינך מצליח\/ה לשלוח הודעות<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>אם אינך מצליח\/ה לקבל הודעות<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "הכלי לאבחון בעיות התחברות, בעיות בשליחה או בקבלה של דוא״ל",
+      "name" : "שימוש בכלי לאבחון בעיות התחברות",
+      "alternativeName" : "שימוש בכלי לאבחון בעיות התחברות",
+      "summary" : "אם אינך מצליח\/ה לשלוח או לקבל הודעות, השתמש\/י בכלי לאבחון בעיות התחברות לקבלת עזרה בפתרון הבעיה."
+    },
+    "mail34867-b" : {
+      "name" : "הצגת דואר"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "שליחת דואר"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>הנושא שנבחר אינו זמין כעת.<\/h1><div class='body conbody'><p class='p'>ודא\/י שהינך מחובר\/ת לאינטרנט. לעזרה בנושא התחברות, בחר\/י תפריט Apple > ״העדפות המערכת״, לחץ\/י על ״רשת״ ובחרי ״עזור לי״.<\/p><p class='p'>אם הינך מחובר\/ת לאינטרנט, ובכל זאת התוכן אינו מופיע, נסה\/י שוב מאוחר יותר.<\/p><\/div><\/div>",
+      "alternativeName" : "הנושא שנבחר אינו זמין כעת.",
+      "name" : "הנושא שנבחר אינו זמין כעת.",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>מה חדש ב-Mail?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mail ב-OS X Mountain Lion מציע תכונות בולטות חדשות שמקילות עוד יותר על השליחה, הקבלה וההצגה של הדואר שלך.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>שולחים חשובים<\/h2><div class='body taskbody'><div class='section context'><p class='p'>נהל\/י מעקב אחר הודעות שקיבלת מאנשים חשובים במיוחד על-ידי הפיכתם ל-VIP. השלוחים החשובים שלך מזוהים באמצעות כוכב ליד שמותיהם בהודעות שהם שולחים אליך. Mail מוסיף תיבת דואר חכמה עבור כל VIP לסרגל המועדפים, כך שקל להגיע להודעות שלהם.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>הפיכת שולח ל-VIP<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>התראות על קבלת הודעות חדשות<\/h2><div class='body taskbody'><div class='section context'><p class='p'>ניתן להגדיר אפשרות בהעדפות Mail להצגת הודעות לפי תיבת הדואר שאליה הודעות מגיעות, או לפי השולח.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>התאמה אישית כאשר מוצגות התראות על הודעות דואר<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>שיתוף עמודי אינטרנט במבנים שונים<\/h2><div class='body taskbody'><div class='section context'><p class='p'>בעת שיתוף עמוד אינטרנט מ-Safari, ניתן לבחור את המבנה בו הוא יישלח. לדוגמה, ניתן לשלוח אותו כקישור או כ-PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>שליחת עמוד אינטרנט ששותף מ-Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>נושאים דומים<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>שליחה וקבלה של דואר עבור כל החשבונות שלך<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "מה חדש ב-Mail?",
+      "name" : "מה חדש ב-Mail?",
+      "summary" : "למד\/י על התכונות החדשות ב-Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>‏עזרה בנושא Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>‏עזרה בנושא Mail<\/h2><p class='p'>נושאים ניתנים לחיפוש<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "‏עזרה בנושא Mail",
+      "name" : "‏עזרה בנושא Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>אם תיבת דואר אינה במצב מחובר<\/h1><div class='body taskbody'><div class='section context'><p class='p'>כאשר חשבון נמצא במצב לא מחובר, צלמית ברק מופיעה לצדו בסרגל הצד של Mail. אם יש לך כמה חשבונות, ניתן להשאיר חלק מהחשבונות במצב לא מחובר בזמן שאחרים במצב מחובר. ניתן להעביר חשבון אחד או את כל החשבונות למצב מחובר.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>כדי להעביר חשבון אחד למצב מחובר, בחר\/י ״תיבת דואר״ > ״מצב מקוון״ > ״העבר את [שם חשבון] למצב מחובר״.<\/span><\/li><li class='li step'><span class='ph cmd'>כדי להעביר את כל החשבונות למצב מחובר, בחר\/י ״תיבת דואר״ > ״העבר את כל החשבונות למצב מחובר״. ניתן גם ללחוץ על צלמית הברק.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>אם אינך מצליח\/ה להעביר חשבון למצב מחובר, ודא\/י שהינך מחובר\/ת לאינטרנט. אם צלמית אזהרה מופיעה לאחר שם החשבון, ניתן ללחוץ עליה לקבלת מידע נוסף.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>שימוש בכלי לאבחון בעיות התחברות<\/a><\/p><p class='p'>שמות של תיבות דואר יכולים להופיע באפור אם אין לך הרשאה לגשת אליהם, כגון תיבות דואר ציבוריות בשרת, או אם שרת הדואר אינו זמין.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>נושאים דומים<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>הצגה או הסתרה של סרגל הצד<\/a><\/div><\/div><div class='linklist linklist'><strong>פתח<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>מאמר תמיכה של Apple: שליחה וקבלה של הודעות דוא\"ל לפתרון בעיות<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "אם תיבת דואר אינה במצב מחובר",
+      "name" : "אם תיבת דואר אינה במצב מחובר",
+      "summary" : "חשבון לא מחובר מסומן בצלמית ברק בסרגל הצד. נסה\/י להעביר את החשבון למצב מחובר שוב."
+    },
+    "mail34867-d" : {
+      "name" : "ארגון דואר"
+    },
+    "mail34867-e" : {
+      "name" : "התאמה אישית של Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "תוכן לחיפוש מקומי",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>‏עזרה בנושא Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>‏עזרה בנושא Mail<\/h2><p class='p'>השתמש\/י בחשבונות הדוא״ל הקיימים שלך, ושלח\/י וקבל\/י דואר ממקום אחד.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "‏עזרה בנושא Mail",
+      "name" : "‏עזרה בנושא Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "שליחה וקבלה של דואר עבור כל החשבונות שלך",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "הצגת שיחות",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "חיפוש הודעות",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "פתרון בעיות ב-Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "הפיכת שולח ל-VIP",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "סימון הודעות בדגל לביצוע פעולה",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "הצגה, שמירה ומחיקה של קבצים מצורפים",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "הצגת הודעות",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "הדפסת הודעות",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "‏מענה להודעות",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "‏העברת הודעות לנמענים",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "‏צירוף קבצים",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "העברה והעתקה של הודעות",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "‏מחיקת הודעות",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "ניהול הודעות באמצעות כללים",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "יצירת תיבות דואר",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "מחיקת תיבות דואר",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "התאמה אישית של כותרת הודעה",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "התאמה אישית כאשר מוצגות התראות על הודעות דואר",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "שינוי תמונות המייצגות אותך או את הנמענים",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "התאמה אישית של סרגלי הכלים של Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "he",
+    "buildID" : "6149FC6E-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "‏עזרה בנושא Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}

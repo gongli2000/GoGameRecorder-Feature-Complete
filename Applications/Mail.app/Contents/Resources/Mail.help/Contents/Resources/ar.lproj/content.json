@@ -1,0 +1,275 @@
+{
+  "content" : {
+    "mail34867-a" : {
+      "name" : "الأساسيات"
+    },
+    "mlhlp1189" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1189' class='apd-topic'><div class='subjectids'><a name='mlhlp1189'><\/a><a name='almail10222'><\/a><a name='almail11587'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>استخدام أداة حل مشاكل الاتصال<\/h1><div class='body taskbody'><div class='section context'><p class='p'>إذا لم تتمكن من إرسال رسائل أو استلامها، فقد تكون هناك مشكلة في الاتصال بالإنترنت أو بخادم البريد. يمكنك استخدام أداة حل مشاكل الاتصال في Mail للتحقق من حالة الاتصال الخاص بك والحصول على معلومات.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>اختر نافذة > أداة حل مشاكل الاتصال.<\/span><\/li><li class='li step'><span class='ph cmd'>قم بمراجعة معلومات الحالة:<\/span><ul class='ul choices'><li class='li choice'><p class='p'>قم بالتحقق من حالة الاتصال بالإنترنت لديك. يشير زر الحالة الأحمر إلى أنه يتعذر على Mail الاتصال بالإنترنت. انقر على تشخيصات الشبكة للمساعدة في إصلاح المشكلة واستعادة الاتصال بالإنترنت.<\/p><\/li><li class='li choice'><p class='p'>قم بالتحقق من حالة الحساب الخاص بك. يشير زر الحالة الأحمر (عندما تكون متصلاً بالإنترنت) إلى وجود مشكلة في خادم البريد الإلكتروني أو في إعداد الحساب الخاص بك. اتبع التعليمات الموجودة في عمود التفاصيل؛ وانقر نقرًا مزدوجًا على النص الموجود في العمود لفتح جزء الحسابات في تفضيلات Mail.<\/p><\/li><li class='li choice'><p class='p'>للاطلاع على معلومات السجل المتعلقة بمشاكل الاتصال بالخادم، انقر على إظهار التفاصيل لعرض جزء تفاصيل. انقر بعد ذلك على التحقق مرةً أخرى لرؤية السجل أثناء محاولة Mail الاتصال مرة أخرى.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>عند الانتهاء من ذلك، انقر على التحقق مرة أخرى لمعرفة ما إذا كانت التغييرات التي أجريتها قد قامت بحل المشكلة.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>في حالة استمرار المشكلة، اتصل بموفر الخدمة الخاص بك.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>المواضيع ذات الصلة<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1129'>إذا لم تتمكن من إرسال رسائل<\/a><\/div><div><a class='link unresolved-reference' href='#mlhlp1138'>إذا لم تتمكن من استلام الرسائل<\/a><\/div><\/div><\/div><\/div>",
+      "keywords" : "أداة حل مشاكل الاتصال، مشاكل في إرسال البريد الإلكتروني أو استلامه",
+      "name" : "استخدام أداة حل مشاكل الاتصال",
+      "alternativeName" : "استخدام أداة حل مشاكل الاتصال",
+      "summary" : "إذا لم تتمكن من إرسال رسائل أو استلامها، فقم باستخدام أداة حل مشاكل الاتصال لمساعدتك في حل المشاكل."
+    },
+    "mail34867-b" : {
+      "name" : "عرض البريد"
+    },
+    "button-0" : {
+      "type" : "navigation",
+      "howdyPageID" : "mail34867",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867-c" : {
+      "name" : "إرسال بريد"
+    },
+    "offline-message-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div id='offline-message-com-apple-Mail-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>الموضوع المحدد غير متوفر حاليًا.<\/h1><div class='body conbody'><p class='p'>تأكد من الاتصال بالإنترنت. للحصول على مساعدة، اختر قائمة Apple > تفضيلات النظام، وانقر على الشبكة، ثم انقر على \"ساعدني\".<\/p><p class='p'>إذا كنت متصلاً بالإنترنت، ولا يظهر المحتوى بعد، فحاول مرة أخرى لاحقًا.<\/p><\/div><\/div>",
+      "alternativeName" : "الموضوع المحدد غير متوفر حاليًا.",
+      "name" : "الموضوع المحدد غير متوفر حاليًا.",
+      "class" : "content-not-available-message"
+    },
+    "cpmlwn" : {
+      "navigation" : "false",
+      "content" : "<div id='cpmlwn' class='apd-topic'><div class='subjectids'><a name='cpmlwn'><\/a><a name='almail38576'><\/a><a name='almail38577'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>ما الجديد في Mail؟<\/h1><div class='body taskbody'><div class='section context'><p class='p'>يعرض Mail في OS X الميزات الجديدة التي تسهل إرسال البريد واستلامه وعرضه.<\/p><\/div><\/div><div class='topic task nested1' id='cpmlwn-a'><a name='cpmlwn-a'><!-- --><\/a><h2 class='title topictitle2'>الأشخاص المهمون<\/h2><div class='body taskbody'><div class='section context'><p class='p'>تتبع الرسائل التي تستلمها من أشخاص مهمين بشكل خاص عن طريق جعلهم أشخاص مهمين. يتم التعرف على الأشخاص المهمين لديك بواسطة نجمة بجوار أسمائهم في الرسائل التي تتلقاها منهم. ويقوم Mail بإضافة صندوق بريد لكل شخص مهم في شريط المفضلة بحيث يسهل الوصول إلى رسائلهم.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40589'>جعل مرسل شخص مهم<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-c'><a name='cpmlwn-c'><!-- --><\/a><h2 class='title topictitle2'>إشعارات الرسائل الجديدة<\/h2><div class='body taskbody'><div class='section context'><p class='p'>يمكنك تعيين خيارًا في تفضيلات Mail لعرض الإشعارات استنادًا إلى صندوق البريد الذي تصل فيه الرسائل أو استنادًا إلى المرسل.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40585'>تخصيص وقت عرض إشعارات البريد<\/a><\/p><\/div><\/div><\/div><div class='topic task nested1' id='cpmlwn-e'><a name='cpmlwn-e'><!-- --><\/a><h2 class='title topictitle2'>مشاركة صفحات ويب بتنسيقات مختلفة<\/h2><div class='body taskbody'><div class='section context'><p class='p'>عند مشاركة صفحة ويب من Safari، يمكنك اختيار التنسيق المرسلة به. على سبيل المثال، يمكنك إرسالها كرابط أو ملف PDF.<\/p><p class='p'><a class='xref unresolved-reference' href='#mail40723'>إرسال صفحة ويب مشاركة من Safari<\/a><\/p><\/div><\/div><\/div><div class='related-links'><div class='linklist linklist'><strong>المواضيع ذات الصلة<\/strong><br><div><a class='link unresolved-reference' href='#mail35803'>إرسال بريد لكل الحسابات الخاصة بك واستلامه<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "ما الجديد في Mail؟",
+      "name" : "ما الجديد في Mail؟",
+      "summary" : "التعرّف على الميزات الجديدة في Mail."
+    },
+    "searchable-landing-com-apple-Mail-help" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='searchable-landing-com-apple-Mail-help'><div class='subjectids'><a name='searchable-landing-com-apple-Mail-help'><\/a><\/div><h1 class='title topictitle1'>مساعدة Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>مساعدة Mail<\/h2><p class='p'>مواضيع قابلة للبحث<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "مساعدة Mail",
+      "name" : "مساعدة Mail",
+      "class" : "default"
+    },
+    "mlhlp1105" : {
+      "navigation" : "false",
+      "content" : "<div id='mlhlp1105' class='apd-topic'><div class='subjectids'><a name='mlhlp1105'><\/a><a name='almail10222'><\/a><a name='almail20931'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnml.png' height='32' width='32'>إذا كان صندوق البريد في وضع عدم الاتصال<\/h1><div class='body taskbody'><div class='section context'><p class='p'>عندما يكون الحساب في وضع عدم الاتصال، تظهر أيقونة على شكل صاعقة برق بجوار الشريط الجانبي في Mail. إذا كانت لديك عدة حسابات، فمن الممكن لبعض الحسابات أن تكون في وضع عدم الاتصال بينما تكون الحسابات الأخرى في وضع الاتصال. يمكنك أن تجعل حسابًا واحدًا أو كل الحسابات في وضع الاتصال.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>لجعل حساب في وضع الاتصال، اختر صندوق البريد > حالة الاتصال > جعل [اسم الحساب] في وضع الاتصال.<\/span><\/li><li class='li step'><span class='ph cmd'>لجعل كل حساباتك في وضع الاتصال، اختر صندوق البريد > جعل كل الحسابات في وضع الاتصال. كما يمكنك النقر على أيقونة صاعقة البرق.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>إذا لم تتمكن من جعل حساب ما متصلاً بالإنترنت، فتأكد من أنك متصل بالإنترنت. إذا ظهرت أيقونة تحذير بعد اسم الحساب، فيمكنك النقر عليها لمعرفة المزيد من المعلومات.<\/p><p class='p'><a class='xref' href='#mlhlp1189'>استخدام أداة حل مشاكل الاتصال<\/a><\/p><p class='p'>تظهر بعض أسماء صناديق البريد باللون الرمادي إذا لم يكن لديك الإذن بالوصول إليها، مثل صناديق البريد \"العامة\" على الخادم، أو إذا كان خادم البريد غير متوفر.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>المواضيع ذات الصلة<\/strong><br><div><a class='link unresolved-reference' href='#mlhlp1104'>إظهار الشريط الجانبي أو إخفاؤه<\/a><\/div><\/div><div class='linklist linklist'><strong>فتح<\/strong><br><div><a class='link' href='http:\/\/helposx.apple.com\/apdredirects\/en\/redir68328.html' target='_blank'>مقال على موقع ويب دعم Apple: استكشاف أخطاء إرسال رسائل البريد الإلكتروني واستلامها وإصلاحها<\/a><\/div><\/div><\/div><\/div>",
+      "alternativeName" : "إذا كان صندوق البريد في وضع عدم الاتصال",
+      "name" : "إذا كان صندوق البريد في وضع عدم الاتصال",
+      "summary" : "تتم الإشارة إلى الحساب في وضع الاتصال بأيقونة على شكل صاعقة برق في الشريط الجانبي. حاول جعل الحساب في وضع الاتصال مرة أخرى."
+    },
+    "mail34867-d" : {
+      "name" : "تنظيم البريد"
+    },
+    "mail34867-e" : {
+      "name" : "تخصيص Mail"
+    },
+    "button-1" : {
+      "type" : "navigation",
+      "howdyPageID" : "searchable-landing-com-apple-Mail-help",
+      "alternativeNameStyle" : "replace"
+    },
+    "local-searchtopichead-com-apple-Mail-help" : {
+      "name" : "محتوى محلي قابل للبحث",
+      "navigation" : "false"
+    },
+    "button-2" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    },
+    "mail34867" : {
+      "navigation" : "false",
+      "content" : "<div class='apd-topic' id='mail34867'><div class='subjectids'><a name='mail34867'><\/a><\/div><h1 class='title topictitle1'>مساعدة Mail<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>مساعدة Mail<\/h2><p class='p'>استخدم حسابات البريد الإلكتروني الموجودة لديك وقم بإرسال بريد واستلامه من مكان واحد.<\/p><\/div><\/div><\/div>",
+      "alternativeName" : "مساعدة Mail",
+      "name" : "مساعدة Mail",
+      "class" : "default"
+    },
+    "button-3" : {
+      "type" : "navigation",
+      "alternativeNameStyle" : "replace"
+    }
+  },
+  "hierarchy" : [
+    {
+      "id" : "button-0",
+      "children" : [
+        {
+          "id" : "mail34867",
+          "class" : "default"
+        },
+        {
+          "id" : "mail34867-a",
+          "children" : [
+            {
+              "name" : "إرسال بريد لكل الحسابات الخاصة بك واستلامه",
+              "href" : "#mail35803",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "عرض المحادثات",
+              "href" : "#mail35700",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "البحث في الرسائل",
+              "href" : "#mlhlp1003",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "حل مشاكل Mail",
+              "href" : "#mail35552",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-b",
+          "children" : [
+            {
+              "name" : "جعل مرسل شخص مهم",
+              "href" : "#mail40589",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "وضع علامة على الرسائل لإجراء",
+              "href" : "#mlhlp1052",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "عرض المرفقات وحفظها وحذفها",
+              "href" : "#mlhlp1123",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "عرض الرسائل",
+              "href" : "#mail14024",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "طباعة الرسائل",
+              "href" : "#mail14106",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-c",
+          "children" : [
+            {
+              "name" : "الرد على الرسائل",
+              "href" : "#mlhlp1010",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إعادة توجيه الرسائل",
+              "href" : "#mail26794",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إضافة مرفقات",
+              "href" : "#mlhlp1050",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-d",
+          "children" : [
+            {
+              "name" : "نقل الرسائل ونسخها",
+              "href" : "#mlhlp1000",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "حذف الرسائل",
+              "href" : "#mlhlp1001",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إدارة الرسائل باستخدام القواعد",
+              "href" : "#mlhlp1017",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "إنشاء صناديق بريد",
+              "href" : "#mlhlp1021",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "حذف صناديق البريد",
+              "href" : "#mlhlp1232",
+              "class" : "unresolved-reference"
+            }
+          ]
+        },
+        {
+          "id" : "mail34867-e",
+          "children" : [
+            {
+              "name" : "تخصيص رأس رسالة",
+              "href" : "#mlhlp1185",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تخصيص وقت عرض إشعارات البريد",
+              "href" : "#mail40585",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تغيير الصور التي تمثلك أو تمثل المستلمين",
+              "href" : "#mail28012",
+              "class" : "unresolved-reference"
+            },
+            {
+              "name" : "تخصيص أشرطة أدوات Mail",
+              "href" : "#mlhlp1022",
+              "class" : "unresolved-reference"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-1",
+      "children" : [
+        {
+          "id" : "searchable-landing-com-apple-Mail-help",
+          "class" : "default"
+        },
+        {
+          "id" : "local-searchtopichead-com-apple-Mail-help",
+          "children" : [
+            {
+              "id" : "cpmlwn"
+            },
+            {
+              "id" : "mlhlp1105"
+            },
+            {
+              "id" : "mlhlp1189"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id" : "button-2",
+      "children" : [
+        {
+          "id" : "offline-message-com-apple-Mail-help",
+          "class" : "content-not-available-message"
+        }
+      ]
+    },
+    {
+      "id" : "button-3",
+      "children" : [
+
+      ]
+    }
+  ],
+  "settings" : {
+    "ShowVersionNumber" : false,
+    "BuildVersion" : "201.15",
+    "Design" : "redFlamingo",
+    "CategoryArt" : "mlic.png",
+    "AppVersion" : "102.0",
+    "FolderName" : "Mail.help",
+    "LocalizationISOCode" : "ar",
+    "buildID" : "564501C4-A9C1-11E1-8E30-8842B4BF9FE1",
+    "Title" : "مساعدة Mail",
+    "RemoteURL" : "https:\/\/help.apple.com\/mail\/mac\/6.0\/help\/"
+  }
+}
