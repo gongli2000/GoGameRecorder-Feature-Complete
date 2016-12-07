@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		463FC6EE1DF866B200285030 /* libopencv_calib3d.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E11DF866B200285030 /* libopencv_calib3d.2.4.13.dylib */; };
+		463FC6EF1DF866B200285030 /* libopencv_contrib.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E21DF866B200285030 /* libopencv_contrib.2.4.13.dylib */; };
+		463FC6F01DF866B200285030 /* libopencv_core.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E31DF866B200285030 /* libopencv_core.2.4.13.dylib */; };
+		463FC6F11DF866B200285030 /* libopencv_features2d.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E41DF866B200285030 /* libopencv_features2d.2.4.13.dylib */; };
+		463FC6F21DF866B200285030 /* libopencv_flann.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E51DF866B200285030 /* libopencv_flann.2.4.13.dylib */; };
+		463FC6F31DF866B200285030 /* libopencv_gpu.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E61DF866B200285030 /* libopencv_gpu.2.4.13.dylib */; };
+		463FC6F41DF866B200285030 /* libopencv_highgui.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E71DF866B200285030 /* libopencv_highgui.2.4.13.dylib */; };
+		463FC6F51DF866B200285030 /* libopencv_imgproc.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E81DF866B200285030 /* libopencv_imgproc.2.4.13.dylib */; };
+		463FC6F61DF866B200285030 /* libopencv_legacy.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6E91DF866B200285030 /* libopencv_legacy.2.4.13.dylib */; };
+		463FC6F71DF866B200285030 /* libopencv_nonfree.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6EA1DF866B200285030 /* libopencv_nonfree.2.4.13.dylib */; };
+		463FC6F81DF866B200285030 /* libopencv_objdetect.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6EB1DF866B200285030 /* libopencv_objdetect.2.4.13.dylib */; };
+		463FC6F91DF866B200285030 /* libopencv_photo.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6EC1DF866B200285030 /* libopencv_photo.2.4.13.dylib */; };
+		463FC6FA1DF866B200285030 /* libopencv_video.2.4.13.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 463FC6ED1DF866B200285030 /* libopencv_video.2.4.13.dylib */; };
 		520CEFD91785B454006EF750 /* Board.mm in Sources */ = {isa = PBXBuildFile; fileRef = 520CEFD71785B454006EF750 /* Board.mm */; };
 		52C95822178BC0E500016C90 /* Utils.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 52C95821178BC0E500016C90 /* Utils.cpp */; };
 		52CA5734177EA81900799770 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5733177EA81900799770 /* Cocoa.framework */; };
@@ -19,9 +32,6 @@
 		52CA5753177EA81A00799770 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5733177EA81900799770 /* Cocoa.framework */; };
 		52CA575B177EA81A00799770 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5759177EA81A00799770 /* InfoPlist.strings */; };
 		52CA575E177EA81A00799770 /* GoGameRecorderTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 52CA575D177EA81A00799770 /* GoGameRecorderTests.m */; };
-		52CA576A177EA88400799770 /* libopencv_core.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */; };
-		52CA576B177EA88400799770 /* libopencv_highgui.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */; };
-		52CA576C177EA88400799770 /* libopencv_imgproc.2.4.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */; };
 		52CA5775177FA8A900799770 /* NSImage+OpenCV.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA5774177FA8A900799770 /* NSImage+OpenCV.mm */; };
 		52CA5779177FB61900799770 /* ViewController.mm in Sources */ = {isa = PBXBuildFile; fileRef = 52CA5777177FB61800799770 /* ViewController.mm */; };
 		52CA577A177FB61900799770 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 52CA5778177FB61800799770 /* ViewController.xib */; };
@@ -44,6 +54,19 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		463FC6E11DF866B200285030 /* libopencv_calib3d.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_calib3d.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_calib3d.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E21DF866B200285030 /* libopencv_contrib.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_contrib.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_contrib.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E31DF866B200285030 /* libopencv_core.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_core.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E41DF866B200285030 /* libopencv_features2d.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_features2d.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_features2d.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E51DF866B200285030 /* libopencv_flann.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_flann.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_flann.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E61DF866B200285030 /* libopencv_gpu.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_gpu.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_gpu.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E71DF866B200285030 /* libopencv_highgui.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_highgui.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E81DF866B200285030 /* libopencv_imgproc.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_imgproc.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6E91DF866B200285030 /* libopencv_legacy.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_legacy.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_legacy.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6EA1DF866B200285030 /* libopencv_nonfree.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_nonfree.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_nonfree.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6EB1DF866B200285030 /* libopencv_objdetect.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_objdetect.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_objdetect.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6EC1DF866B200285030 /* libopencv_photo.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_photo.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_photo.2.4.13.dylib; sourceTree = "<absolute>"; };
+		463FC6ED1DF866B200285030 /* libopencv_video.2.4.13.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_video.2.4.13.dylib; path = /usr/local/Cellar/opencv/2.4.13.1/lib/libopencv_video.2.4.13.dylib; sourceTree = "<absolute>"; };
 		520CEFD71785B454006EF750 /* Board.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Board.mm; sourceTree = "<group>"; };
 		520CEFD81785B454006EF750 /* Board.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Board.h; sourceTree = "<group>"; };
 		52C076281780750B00ED8C30 /* ImageUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageUtils.h; sourceTree = "<group>"; };
@@ -69,9 +92,6 @@
 		52CA575A177EA81A00799770 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		52CA575C177EA81A00799770 /* GoGameRecorderTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GoGameRecorderTests.h; sourceTree = "<group>"; };
 		52CA575D177EA81A00799770 /* GoGameRecorderTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GoGameRecorderTests.m; sourceTree = "<group>"; };
-		52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_core.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_core.2.4.5.dylib; sourceTree = "<group>"; };
-		52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_highgui.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_highgui.2.4.5.dylib; sourceTree = "<group>"; };
-		52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libopencv_imgproc.2.4.5.dylib; path = ../../../../../usr/local/lib/libopencv_imgproc.2.4.5.dylib; sourceTree = "<group>"; };
 		52CA5773177FA8A900799770 /* NSImage+OpenCV.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSImage+OpenCV.h"; sourceTree = "<group>"; };
 		52CA5774177FA8A900799770 /* NSImage+OpenCV.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = "NSImage+OpenCV.mm"; sourceTree = "<group>"; };
 		52CA5776177FB61800799770 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
@@ -95,10 +115,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				52CA576A177EA88400799770 /* libopencv_core.2.4.5.dylib in Frameworks */,
-				52CA576B177EA88400799770 /* libopencv_highgui.2.4.5.dylib in Frameworks */,
-				52CA576C177EA88400799770 /* libopencv_imgproc.2.4.5.dylib in Frameworks */,
+				463FC6F91DF866B200285030 /* libopencv_photo.2.4.13.dylib in Frameworks */,
+				463FC6EF1DF866B200285030 /* libopencv_contrib.2.4.13.dylib in Frameworks */,
+				463FC6FA1DF866B200285030 /* libopencv_video.2.4.13.dylib in Frameworks */,
 				52CA5734177EA81900799770 /* Cocoa.framework in Frameworks */,
+				463FC6F71DF866B200285030 /* libopencv_nonfree.2.4.13.dylib in Frameworks */,
+				463FC6F41DF866B200285030 /* libopencv_highgui.2.4.13.dylib in Frameworks */,
+				463FC6F21DF866B200285030 /* libopencv_flann.2.4.13.dylib in Frameworks */,
+				463FC6F11DF866B200285030 /* libopencv_features2d.2.4.13.dylib in Frameworks */,
+				463FC6EE1DF866B200285030 /* libopencv_calib3d.2.4.13.dylib in Frameworks */,
+				463FC6F01DF866B200285030 /* libopencv_core.2.4.13.dylib in Frameworks */,
+				463FC6F61DF866B200285030 /* libopencv_legacy.2.4.13.dylib in Frameworks */,
+				463FC6F51DF866B200285030 /* libopencv_imgproc.2.4.13.dylib in Frameworks */,
+				463FC6F81DF866B200285030 /* libopencv_objdetect.2.4.13.dylib in Frameworks */,
+				463FC6F31DF866B200285030 /* libopencv_gpu.2.4.13.dylib in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -114,6 +144,26 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		463FC6FB1DF866C200285030 /* opencvlibs */ = {
+			isa = PBXGroup;
+			children = (
+				463FC6E11DF866B200285030 /* libopencv_calib3d.2.4.13.dylib */,
+				463FC6E21DF866B200285030 /* libopencv_contrib.2.4.13.dylib */,
+				463FC6E31DF866B200285030 /* libopencv_core.2.4.13.dylib */,
+				463FC6E41DF866B200285030 /* libopencv_features2d.2.4.13.dylib */,
+				463FC6E51DF866B200285030 /* libopencv_flann.2.4.13.dylib */,
+				463FC6E61DF866B200285030 /* libopencv_gpu.2.4.13.dylib */,
+				463FC6E71DF866B200285030 /* libopencv_highgui.2.4.13.dylib */,
+				463FC6E81DF866B200285030 /* libopencv_imgproc.2.4.13.dylib */,
+				463FC6E91DF866B200285030 /* libopencv_legacy.2.4.13.dylib */,
+				463FC6EA1DF866B200285030 /* libopencv_nonfree.2.4.13.dylib */,
+				463FC6EB1DF866B200285030 /* libopencv_objdetect.2.4.13.dylib */,
+				463FC6EC1DF866B200285030 /* libopencv_photo.2.4.13.dylib */,
+				463FC6ED1DF866B200285030 /* libopencv_video.2.4.13.dylib */,
+			);
+			name = opencvlibs;
+			sourceTree = "<group>";
+		};
 		52277E53179586FF002BB1CE /* Utils and Xibs */ = {
 			isa = PBXGroup;
 			children = (
@@ -139,12 +189,10 @@
 		52CA5727177EA81900799770 = {
 			isa = PBXGroup;
 			children = (
-				52CA5767177EA88400799770 /* libopencv_core.2.4.5.dylib */,
-				52CA5768177EA88400799770 /* libopencv_highgui.2.4.5.dylib */,
-				52CA5769177EA88400799770 /* libopencv_imgproc.2.4.5.dylib */,
 				52CA5739177EA81900799770 /* GoGameRecorder */,
 				52CA5756177EA81A00799770 /* GoGameRecorderTests */,
 				52CA5732177EA81900799770 /* Frameworks */,
+				463FC6FB1DF866C200285030 /* opencvlibs */,
 				52CA5731177EA81900799770 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -466,13 +514,18 @@
 		52CA5762177EA81A00799770 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
 				HEADER_SEARCH_PATHS = /usr/local/include;
 				INFOPLIST_FILE = "GoGameRecorder/GoGameRecorder-Info.plist";
-				LIBRARY_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/lib,
+					/usr/local/Cellar/opencv/2.4.13.1/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "/usr/local/include /usr/local/include/opencv /usr/local/include/opencv2";
 				VALID_ARCHS = x86_64;
 				WRAPPER_EXTENSION = app;
 			};
@@ -481,13 +534,18 @@
 		52CA5763177EA81A00799770 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				COMBINE_HIDPI_IMAGES = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "GoGameRecorder/GoGameRecorder-Prefix.pch";
 				HEADER_SEARCH_PATHS = /usr/local/include;
 				INFOPLIST_FILE = "GoGameRecorder/GoGameRecorder-Info.plist";
-				LIBRARY_SEARCH_PATHS = /usr/local/lib;
+				LIBRARY_SEARCH_PATHS = (
+					/usr/local/lib,
+					/usr/local/Cellar/opencv/2.4.13.1/lib,
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				USER_HEADER_SEARCH_PATHS = "/usr/local/include /usr/local/include/opencv /usr/local/include/opencv2";
 				VALID_ARCHS = x86_64;
 				WRAPPER_EXTENSION = app;
 			};
