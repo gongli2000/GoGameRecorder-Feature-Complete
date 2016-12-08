@@ -98,9 +98,12 @@
 }
 
 - (IBAction)handleBoardSizeMenus:(id)sender {
-    int selected = [self setboardsize];
-    [[[self.boardSize submenu] itemAtIndex:selected] setState:NSOffState];
+   
+    for(int i= 0; i<3;i++){
+       [[[self.boardSize submenu] itemAtIndex:i] setState:NSOffState];
+    }
     [(NSMenuItem*)sender setState:NSOnState];
+    [self setboardsize];
 }
 
 -(IBAction) handleWhoseMoveMenu:(id)sender
