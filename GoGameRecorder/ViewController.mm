@@ -68,11 +68,11 @@ void initdiffminmax(int boardsize, int &diffmin , int &diffmax)
 {
     switch(boardsize){
         case 9:
-            diffmax = 4000;
-            diffmin = 100;
+            diffmax = 6000;
+            diffmin = 10;
             break;
         case 13:
-            diffmax =1200;
+            diffmax =6000;
             diffmin =100;
             break;
         case  19:
@@ -233,9 +233,7 @@ void findrowcol(cv::Rect &r, float row, float col, float dx, float dy,float &new
     cv::Mat framePrev,frameCur,frameDif,transformedImage,frame;
     
     grabframe(_videoCapture, frame, 1);
-    grabframe(_videoCapture, frame, 1);
-    grabframe(_videoCapture, frame, 1);
-    grabframe(_videoCapture, frame, 1);
+   
     
     cv::Mat map =  getPerspectiveMap(frame.size(),_transRect,_orientation);
     cv::warpPerspective(frame, curImage, map, frame.size());
@@ -298,8 +296,7 @@ void findrowcol(cv::Rect &r, float row, float col, float dx, float dy,float &new
                     return;
                 }
             }
-            _savedImage = curImage.clone();
-            [self.savedView setImage: [NSImage imageWithCVMat: _savedImage]];
+         
             [self logdata:
                 dx
                 dy:dy
@@ -313,7 +310,8 @@ void findrowcol(cv::Rect &r, float row, float col, float dx, float dy,float &new
 
         }
     }
-    
+    _savedImage = curImage.clone();
+    [self.savedView setImage: [NSImage imageWithCVMat: _savedImage]];
     _prevImage=curImage.clone();
     //[self.imageWell setImage: [NSImage imageWithCVMat: _prevImage]];
     //[self.boardView setImage: [NSImage imageWithCVMat: _boardImage]];
