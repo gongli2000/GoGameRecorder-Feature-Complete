@@ -43,8 +43,8 @@ static void ProviderReleaseDataNOP(void *info, const void *data, size_t size)
 
 +(cv::Point) screen2Image:(cv::Mat) imageRect : (NSRect)screenRect : (CGPoint) sp;
 {
-   float x= (sp.x - screenRect.origin.x)*imageRect.cols/screenRect.size.width ;
-   float y =imageRect.rows -(sp.y -screenRect.origin.y)*imageRect.rows/screenRect.size.height;
+    float x= (sp.x - screenRect.origin.x)*imageRect.cols/screenRect.size.width ;
+    float y =imageRect.rows -(sp.y -screenRect.origin.y)*imageRect.rows/screenRect.size.height;
     return cv::Point(x,y);
 }
 
@@ -86,14 +86,15 @@ static void ProviderReleaseDataNOP(void *info, const void *data, size_t size)
     CGFloat cols = self.size.width;
     CGFloat rows = self.size.height;
     cv::Mat cvMat = cv::Mat(rows, cols, CV_8UC1); // 8 bits per component, 1 channel
-    CGContextRef contextRef = CGBitmapContextCreate(cvMat.data,                 // Pointer to backing data
-                                                    cols,                      // Width of bitmap
-                                                    rows,                     // Height of bitmap
-                                                    8,                          // Bits per component
-                                                    cvMat.step[0],              // Bytes per row
-                                                    colorSpace,                 // Colorspace
-                                                    kCGImageAlphaNone |
-                                                    kCGBitmapByteOrderDefault); // Bitmap info flags
+    CGContextRef contextRef = CGBitmapContextCreate(
+                    cvMat.data,                 // Pointer to backing data
+                    cols,                      // Width of bitmap
+                    rows,                      // Height of bitmap
+                    8,                          // Bits per component
+                    cvMat.step[0],              // Bytes per row
+                    colorSpace,                 // Colorspace
+                    kCGImageAlphaNone |
+                    kCGBitmapByteOrderDefault); // Bitmap info flags
     
     CGContextDrawImage(contextRef, CGRectMake(0, 0, cols, rows), imageRef);
     CGContextRelease(contextRef);
@@ -124,17 +125,18 @@ static void ProviderReleaseDataNOP(void *info, const void *data, size_t size)
     
     CGDataProviderRef provider = CGDataProviderCreateWithCFData((__bridge CFDataRef)data);
     
-    CGImageRef imageRef = CGImageCreate(cvMat.cols,                                     // Width
-                                        cvMat.rows,                                     // Height
-                                        8,                                              // Bits per component
-                                        8 * cvMat.elemSize(),                           // Bits per pixel
-                                        cvMat.step[0],                                  // Bytes per row
-                                        colorSpace,                                     // Colorspace
-                                        kCGImageAlphaNone | kCGBitmapByteOrderDefault,  // Bitmap info flags
-                                        provider,                                       // CGDataProviderRef
-                                        NULL,                                           // Decode
-                                        false,                                          // Should interpolate
-                                        kCGRenderingIntentDefault);                     // Intent
+    CGImageRef imageRef = CGImageCreate(
+        cvMat.cols, // Width
+        cvMat.rows, // Height
+        8,                                              // Bits per component
+        8 * cvMat.elemSize(),                           // Bits per pixel
+        cvMat.step[0],                                  // Bytes per row
+        colorSpace,                                     // Colorspace
+        kCGImageAlphaNone | kCGBitmapByteOrderDefault,  // Bitmap info flags
+        provider,                                       // CGDataProviderRef
+        NULL,                                           // Decode
+        false,                                          // Should interpolate
+        kCGRenderingIntentDefault);                     // Intent
     
     
     NSBitmapImageRep *bitmapRep = [[NSBitmapImageRep alloc] initWithCGImage:imageRef];

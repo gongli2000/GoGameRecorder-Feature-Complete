@@ -75,6 +75,7 @@ void ddd(cv::Mat &x);
 -(IBAction) doManualCalibration:(id)sender;
 - (IBAction)stopRecording:(id)sender;
 -(IBAction) handleNavigateMenus:(id)sender;
+- (IBAction)doManualCalibration:(id)sender;
 
 - (BOOL)validateUserInterfaceItem:(id <NSValidatedUserInterfaceItem>)anItem;
 -(void) capturemovesForEditing;

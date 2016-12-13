@@ -76,7 +76,7 @@
 
 -(void) mouseDragged:(NSEvent *)theEvent
 {
-     NSPoint mouseLoc;
+     
 }
 
 

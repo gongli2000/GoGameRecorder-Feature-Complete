@@ -15,7 +15,7 @@
 enum {LEFT,BOTTOM,RIGHT,TOP};
 
 
-static int group=1;
+//static int group=1;
 #include "ImageUtils.h"
 
 
@@ -438,8 +438,8 @@ void findrowcol(cv::Rect &r, float row, float col, float dx, float dy,float &new
 
     getContoursForMove(diffSavedImage,_map,contours,hierarchy);
     if(contours.size() > 0 && contours.size() < 3){
-        cv::Rect r = cv::boundingRect(contours[0]);
-        float ecc = r.width/(float)r.height;
+        //cv::Rect r = cv::boundingRect(contours[0]);
+        //float ecc = r.width/(float)r.height;
         if( diffprev == 0 && difsaved > _diffmin && difsaved < _diffmax  )
         {
             

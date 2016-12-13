@@ -221,7 +221,7 @@
     
   
     _clickonstone=false;
-    bool isblack;
+    //bool isblack;
     if(_saverow >=0 && _saverow < _board.boardData.size() &&
        _savecol>=0 && _savecol <_board.boardData.size())
     {

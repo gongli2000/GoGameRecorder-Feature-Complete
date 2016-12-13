@@ -38,7 +38,7 @@ void grabframe(VideoCapture *cap, Mat &theframe, int scale){
     flip(theframe,theframe,0);
     //cv::pyrDown(grayframe,theframe);
     
-    float sigma = 1.0;
+    //float sigma = 1.0;
     //GaussianBlur(theframe, theframe, Size(0,0), sigma, sigma);
     
     
